@@ -229,3 +229,18 @@ function mostraDettagliGara(garaSelezionata, filtroSoc) {
 selectGara.addEventListener("change", aggiornaVisualizzazione);
 filterSocieta.addEventListener("input", aggiornaVisualizzazione);
 document.addEventListener("DOMContentLoaded", aggiornaVisualizzazione);
+
+
+  document.getElementById('infoButton').onclick = function () {
+    document.getElementById('infoModal').style.display = 'block';
+  };
+
+  document.getElementById('closeInfo').onclick = function () {
+    document.getElementById('infoModal').style.display = 'none';
+  };
+
+  window.onclick = function (e) {
+    if (e.target == document.getElementById('infoModal')) {
+      document.getElementById('infoModal').style.display = 'none';
+    }
+  };

@@ -2,13 +2,16 @@
 <html lang="it">
 <head>
   <meta charset="UTF-8" />
-  <title>Classifiche Aggregate + Dettagli Gara con filtro società</title>
+  <title>Classifica PuntoK</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="PuntoK.css" />
 </head>
 <body>
+<img src="https://www.puntok.it/wp-content/uploads/2013/11/punto-k-logo3.png" alt="Logo" id="logo" />
+<img src="https://i.imgur.com/rDhfLPL.png" 
+     alt="Info" id="infoButton" title="Informazioni sul sito" />
 
-  <h1>Classifica aggregata e dettagli gara</h1>
+  <h1>Classifica Orienteering</h1>
 
   <input type="file" id="fileInput" multiple accept=".json" />
   <br />
@@ -16,7 +19,7 @@
   <label>
     Seleziona gara:
     <select id="garaSelect">
-      <option value="">-- Tutte le gare (aggregato) --</option>
+      <option value="">Tutte le gare (somma punti)</option>
     </select>
   </label>
 
@@ -44,6 +47,27 @@
     </thead>
     <tbody></tbody>
   </table>
+
+<div id="infoModal">
+  <div id="infoContent">
+    <span id="closeInfo">&times;</span>
+    <h2>Come funziona il sito</h2>
+    <p>
+      Ciao! Benvenuto nella classifica PuntoK.<br>Qui vengono raccolti 
+      i dati di tutte le gare a cui partecipano almeno 8 atleti della nostra 
+      associazione.<br> Ogni gara può conferire un numero diverso di punti,
+      ma in generale viene calcolato il tempo del primo atleta nella categoria
+      diviso per il tempo dell'atleta in questione.<br>Ogni categoria ha diversi
+      moltiplicatori, che sono:<br> - 100 per ogni categoria di età.<br> - 100 per
+      la categoria "Nero".<br> - 95 per la categoria M21A o W21A.<br>  - 95 per la 
+      categoria "OPEN-A".<br>- 90 per la categoria "Rosso", "OPEN-B" o "OPEN".<br> 
+      - 90 per la categoria M21B o W21B.<br> - 85 per la categoria "OPEN-C" o 
+      "Esordienti lungo".<br> - 80 per la categoria "Giallo".<br>
+      - 75 per la categoria "Direct" o "Esordienti corto".<br> - 70 per 
+      la categoria "Bianco".
+    </p>
+  </div>
+</div>
 
   <script src="Gare.js"></script>
   <script src="PuntoK.js"></script>

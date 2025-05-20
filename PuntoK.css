@@ -1,20 +1,82 @@
 body {
   font-family: Arial, sans-serif;
-  padding: 20px;
-  background: #f9f9f9;
+  padding: 10px;
+  background:
+	linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
+	url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Orienteering.jpg/1200px-Orienteering.jpg') no-repeat center center fixed;
+  background-size: cover;
   color: #222;
   max-width: 900px;
   margin: auto;
 }
 
-h1, h3 {
+#infoButton {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 80px;
+  height: auto;
+  cursor: pointer;
+  z-index: 1000;
+  filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.6));
+  transition: transform 0.2s;
+}
+#infoButton:hover {
+  transform: scale(1.1);
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  font-size: 2.8rem;
+  color: rgb(255,0,0); /* un blu acceso */
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
   margin-bottom: 10px;
+  position: relative;
+  padding-bottom: 4px;
+  letter-spacing: 1.5px;
+}
+
+/* Linea decorativa sotto il titolo */
+h1::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  width: 350px;
+  height: 4px;
+  background-color: rgb(255,255,255); /* un rosso vivo per contrasto */
+  border-radius: 2px;
+  transform: translateX(-50%);
+}
+
+h3 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 600;
+  font-size: 1.6rem;
+  color: rgb(255,0,0);
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+  margin-top: 4px;
+  margin-bottom: 4px;
+  letter-spacing: 1px;
+}
+
+#logo {
+  position: absolute;      /* rimane fisso nella finestra anche scrollando */
+  top: 20px;            /* distanza dal bordo superiore */
+  right: 20px;          /* distanza dal bordo destro */
+  width: 80px;          /* larghezza del logo, puoi regolare */
+  height: auto;         /* mantieni proporzioni */
+  z-index: 1000;        /* sopra gli altri elementi */
+  /* opzionale: */
+  box-shadow: 0 0 8px rgba(0,0,0,0.8);
 }
 
 input[type="file"], select, input[type="text"] {
-  margin-top: 10px;
+  margin-top: 0px;
   margin-right: 10px;
-  padding: 5px;
+  padding: 0px;
   font-size: 1rem;
   width: 100%;
   max-width: 300px;
@@ -25,16 +87,44 @@ input[type="file"], select, input[type="text"] {
   }
 
 label {
-  display: inline-block;
+  display: inline-flex;
+  align-items: center;
   margin-right: 15px;
+  color: #f0f0f0; /* testo chiaro per i label */
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
+  margin-top: 4px;
+  font-size: 1rem;
+  font-weight: 600;
 }
+
+select, input {
+  color: #222; /* testo scuro per input e select */
+  font-size: 1rem;
+  background-color: rgba(255, 255, 255, 0.8); /* sfondo bianco semitrasparente */
+  border: 2px solid #ccc;
+  margin-top: 4px;
+  padding: 8px 10px;
+  height: 40px;
+  border-radius: 12px;
+  width: auto;
+  max-width: 300px;
+}
+
+input[type="text"] {
+  text-align: center; /* centrare il testo dentro l'input */
+}
+
+option {
+  color: #222; /* testo scuro nelle opzioni */
+}
+
 
 table {
   width: 100%;
   border-collapse: collapse;
-  margin-top: 20px;
-  background: white;
-  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+  margin-top: 10px;
+  background: rgba(255,255,255,0.8);
+  box-shadow: 0 0 15px rgba(0,0,0,0.8);
 }
 
 th, td {
@@ -45,7 +135,7 @@ th, td {
 }
 
 thead {
-  background-color: #0074D9;
+  background-color: rgba(255,0,0,0.8);
   color: white;
 }
 
@@ -91,4 +181,36 @@ a.nomeAtleta:hover {
   overflow: hidden;
   text-overflow: ellipsis;
   max-width: 180px; /* puoi regolare a piacere */
+}
+
+#infoModal {
+  display: none;
+  position: fixed;
+  z-index: 2000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+#infoContent {
+  background-color: #fff;
+  margin: 10% auto;
+  padding: 20px;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 500px;
+  box-shadow: 0 0 10px #000;
+  font-family: Arial, sans-serif;
+  position: relative;
+}
+
+#closeInfo {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
 }
