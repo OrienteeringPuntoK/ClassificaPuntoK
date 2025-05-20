@@ -173,10 +173,10 @@ function mostraClassificaAggregata(filtroSoc) {
     const tr = document.createElement("tr");
     tr.innerHTML = `
       <td><a href="#" class="nomeAtleta">${formattaNome(r.nome)}</a></td>
+      <td>${r.totale.toFixed(2)}</td>
+      <td>${r.gare}</td>
       <td class="societa">${r.societa.toUpperCase()}</td>
       <td>${r.femmina ? 'F' : 'M'}</td>
-      <td>${r.gare}</td>
-      <td>${r.totale.toFixed(2)}</td>
     `;
     tbody.appendChild(tr);
   }
@@ -210,12 +210,11 @@ function mostraDettagliGara(garaSelezionata, filtroSoc) {
   for (let r of risultati) {
     const tr = document.createElement("tr");
     tr.innerHTML = `
-      <td>${r.categoria}</td>
       <td><a href="#" class="nomeAtleta">${formattaNome(r.nome)}</a></td>
-      <td class="societa">${r.societa.toUpperCase()}</td>
-      <td>${r.femmina ? 'F' : 'M'}</td>
+      <td>${r.categoria}</td>
       <td>${r.tempo}</td>
       <td>${r.punteggio}</td>
+      <td class="societa">${r.societa.toUpperCase()}</td>
     `;
     tbody.appendChild(tr);
   }
