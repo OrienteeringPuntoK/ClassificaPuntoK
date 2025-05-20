@@ -6114,7 +6114,7 @@ const tutteLeGare = [
     nome: "VeNotte",
     dati: [
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:19:28",
     "nome": "ORSI Chiara",
     "societa": "POLISPORTIVA G. MASI A.S.D.",
@@ -6122,7 +6122,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:19:35",
     "nome": "GRIFFONI Virginia",
     "societa": "ORIENTEERING TARZO A.S.D.",
@@ -6130,7 +6130,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:22:10",
     "nome": "FURLAN Marco",
     "societa": "A.S.D. ''VITTORIENT''",
@@ -6138,7 +6138,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:22:17",
     "nome": "FONTANINI Eliseo",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -6146,7 +6146,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:22:47",
     "nome": "PASSERINI Simonetta",
     "societa": "POLISPORTIVA G. MASI A.S.D.",
@@ -6154,7 +6154,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:23:14",
     "nome": "MENEGHEL Chiara",
     "societa": "A.S.D. G.S. PAVIONE",
@@ -6162,7 +6162,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:23:34",
     "nome": "PALERMO Mattia",
     "societa": "FEDERAZIONE ITALIANA SPORT ORIENTAMENTO",
@@ -6170,7 +6170,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:24:32",
     "nome": "VANZIN Jean Nathan",
     "societa": "ORIENTEERING TARZO A.S.D.",
@@ -6178,7 +6178,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:26:12",
     "nome": "MAZZON Giada",
     "societa": "A.S.D. MARENO ORIENTEERING",
@@ -6186,7 +6186,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:27:21",
     "nome": "ANESIN Martina",
     "societa": "ORIENTEERING PINÈ A.S.D.",
@@ -6194,7 +6194,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:37:15",
     "nome": "COSER Maria",
     "societa": "TRENTO ORIENTEERING A.S.D.",
@@ -6202,7 +6202,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:00:00",
     "nome": "DE AGOSTINI Antonio",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -13723,7 +13723,7 @@ const tutteLeGare = [
     nome: "Valeriano FVG O-TOUR Tappa 6",
     dati: [
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:24:12",
     "nome": "BARNABA Christel",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -13731,7 +13731,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:24:14",
     "nome": "MORALES VALENCIA Davide",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -13739,7 +13739,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:26:59",
     "nome": "GUARNIERO Giulia",
     "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
@@ -13747,7 +13747,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:27:29",
     "nome": "RUCLI Giulio",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -13755,7 +13755,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:31:08",
     "nome": "MAGRO Daniela",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -13763,7 +13763,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:38:49",
     "nome": "BELTRAME Simone",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -13771,7 +13771,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:58:30",
     "nome": "RATI Frida",
     "societa": "CORIVORIVO ORIENTEERING ASD",
@@ -13779,7 +13779,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:33:24",
     "nome": "BARNABA Christian",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -13787,7 +13787,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:33:50",
     "nome": "GERMANI Felix",
     "societa": "A.S.D. Gaja",
@@ -13795,7 +13795,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:38:01",
     "nome": "XAUSA Gabriella",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -13803,7 +13803,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:38:10",
     "nome": "SIMONELLI Maria Elena",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -13811,7 +13811,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:39:57",
     "nome": "APOLLONIO Giulio",
     "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
@@ -13819,7 +13819,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:41:13",
     "nome": "CRAPIZ Erika",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -13827,7 +13827,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:41:53",
     "nome": "DECORTI Emanuel",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -13835,7 +13835,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:46:46",
     "nome": "BARNABA Chantal",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -13843,7 +13843,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:47:57",
     "nome": "FERRO Marisa",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -13851,7 +13851,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:49:27",
     "nome": "ZULIANI Andrea",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -13859,7 +13859,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:51:18",
     "nome": "DE AGOSTINI Antonio",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -13867,7 +13867,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:51:53",
     "nome": "COLETTI Giulio Livio",
     "societa": "PUNTO K ORIENTEERING ASD",
@@ -13875,7 +13875,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:54:23",
     "nome": "SICCO Chiara",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -13883,7 +13883,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:54:48",
     "nome": "FORASACCO Nives",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -13891,7 +13891,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:56:08",
     "nome": "TOMAT Giovanna",
     "societa": "ASD TEAM SKY FRIUL",
@@ -13899,7 +13899,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:56:33",
     "nome": "COMINOTTO Annarosa",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -13907,7 +13907,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:58:16",
     "nome": "GON Doris",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -13915,7 +13915,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:59:50",
     "nome": "Lara Coletti",
     "societa": "PUNTO K ORIENTEERING ASD",
@@ -13923,7 +13923,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "01:00:02",
     "nome": "MARCHESAN Domenico",
     "societa": "A.S.D. ORIENTEERING TRIESTE",
@@ -13931,7 +13931,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "01:01:26",
     "nome": "ZAGO Ivana",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -13939,7 +13939,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "01:08:58",
     "nome": "CHERVATIN Simone",
     "societa": "PUNTO K ORIENTEERING ASD",
@@ -13947,7 +13947,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "01:18:01",
     "nome": "RATI Demetrio",
     "societa": "CORIVORIVO ORIENTEERING ASD",
@@ -13955,7 +13955,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "GIALLO",
+    "categoria": "Giallo",
     "tempo": "00:00:00",
     "nome": "D'ORLANDO MARIA Cristina",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -13963,7 +13963,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:33:54",
     "nome": "TAMAI Marco",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -13971,7 +13971,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:43:47",
     "nome": "LONER Marco",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -13979,7 +13979,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:44:22",
     "nome": "SIMONETTI Giulio",
     "societa": "ASD TEAM SKY FRIUL",
@@ -13987,7 +13987,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:45:12",
     "nome": "MIROLO Matteo",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -13995,7 +13995,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:45:36",
     "nome": "ZULIANI Francesco",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -14003,7 +14003,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:46:14",
     "nome": "ROSSETTO Francesco",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -14011,7 +14011,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:51:30",
     "nome": "RIVETTA Andrea",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -14019,7 +14019,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:52:34",
     "nome": "CRUCIL Giacomo",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -14027,7 +14027,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:55:37",
     "nome": "SESSI Giorgia",
     "societa": "A.S.D. Gaja",
@@ -14035,7 +14035,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:58:44",
     "nome": "VENUTI Nicolò",
     "societa": "PUNTO K ORIENTEERING ASD",
@@ -14043,7 +14043,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:59:07",
     "nome": "PASSONE Giovanni",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -14051,7 +14051,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:01:02",
     "nome": "APOLLONIO Daniele",
     "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
@@ -14059,7 +14059,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:03:21",
     "nome": "TOMASINO Stefano",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -14067,7 +14067,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:04:06",
     "nome": "ROMANO Sabrina",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -14075,7 +14075,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:05:31",
     "nome": "MARUSSIG Maurizio",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -14083,7 +14083,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:05:59",
     "nome": "TOMASIN Ian",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -14091,7 +14091,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:07:15",
     "nome": "CIANCIO Marcello",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -14099,7 +14099,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:11:02",
     "nome": "TOMASIN Aaron",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -14107,7 +14107,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:11:11",
     "nome": "SCALTRI Emanuele",
     "societa": "PUNTO K ORIENTEERING ASD",
@@ -14115,7 +14115,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:13:56",
     "nome": "Alessia Albano",
     "societa": "PUNTO K ORIENTEERING ASD",
@@ -14123,7 +14123,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:15:56",
     "nome": "DI VORA Alessandra",
     "societa": "ASD TEAM SKY FRIUL",
@@ -14131,7 +14131,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:23:43",
     "nome": "MOSCA Massimo",
     "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
@@ -14139,7 +14139,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:24:07",
     "nome": "CREPAZ Mita",
     "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
@@ -14147,7 +14147,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:29:07",
     "nome": "AGOSTINI Federica",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -14155,7 +14155,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:30:07",
     "nome": "ZUPIN Maddalena",
     "societa": "PUNTO K ORIENTEERING ASD",
@@ -14163,7 +14163,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:31:19",
     "nome": "FERRANTE Salvatore",
     "societa": "A.S.D. Orienteering Laguna Nord Venezia",
@@ -14171,7 +14171,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:32:35",
     "nome": "TOMASIN Daniel",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -14179,7 +14179,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "01:46:20",
     "nome": "MARCUZZI Stefano",
     "societa": "ASD TEAM SKY FRIUL",
@@ -14187,7 +14187,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "02:01:00",
     "nome": "SPECOGNA Giuseppe",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -14195,7 +14195,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:00:00",
     "nome": "LAROTELLA Roberto",
     "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
@@ -14203,7 +14203,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:00:00",
     "nome": "FERRI Fulvia",
     "societa": "PUNTO K ORIENTEERING ASD",
@@ -14211,7 +14211,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:00:00",
     "nome": "LOCATELLI Federico",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -14219,7 +14219,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "NERO",
+    "categoria": "Nero",
     "tempo": "00:00:00",
     "nome": "MUKHIDINOV Serhiy",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -14512,7 +14512,7 @@ const tutteLeGare = [
     nome: "Pontaiba Campionato Regionale Middle",
     dati: [
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:20:17",
     "nome": "LENARDUZZI Micaela",
     "societa": "A.S.D. ORIENTEERING SCHOOL FRIULI - O.S.F.",
@@ -14520,7 +14520,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:21:55",
     "nome": "POGGIOLI Marcella",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -14528,7 +14528,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:26:26",
     "nome": "MARGIORE Manuela",
     "societa": "A.S.D. ORIENTEERING TRIESTE",
@@ -14536,7 +14536,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:32:35",
     "nome": "COLETTO Fabrizio",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -14544,7 +14544,7 @@ const tutteLeGare = [
     "femmina": false
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:00:00",
     "nome": "DE ANGELIS Tiziana",
     "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
@@ -14552,7 +14552,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "00:00:00",
     "nome": "SUT Sara",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
@@ -14560,7 +14560,7 @@ const tutteLeGare = [
     "femmina": true
   },
   {
-    "categoria": "BIANCO",
+    "categoria": "Bianco",
     "tempo": "01:05:16",
     "nome": "DEI NEGRI Anna",
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
