@@ -193,11 +193,13 @@ function mostraClassificaAggregata(filtroSoc) {
 // Mostra i dettagli di una gara specifica filtrando per società (se fornita)
 function mostraDettagliGara(garaSelezionata, filtroSoc) {
   tableHeader.innerHTML = `
+  <tr>
     <th>Nome</th>
     <th>Categoria</th>
     <th>Tempo</th>
     <th>Punteggio</th>
     <th class="societa">Società</th>
+    </tr>
   `;
   tbody.innerHTML = "";
 
