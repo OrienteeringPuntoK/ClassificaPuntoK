@@ -6,7 +6,6 @@ function formattaNome(nome) {
     .join(" ");
 }
 
-// Normalizza nome: minuscolo, split parole ordinate alfabeticamente per ignorare ordine
 function normalizzaNomePerConfronto(nome) {
   return nome
     .toLowerCase()
@@ -16,14 +15,12 @@ function normalizzaNomePerConfronto(nome) {
     .join(" ");
 }
 
-// Verifica se due nomi sono compatibili: uno contenuto nell'altro dopo normalizzazione
 function nomiCompatibili(nome1, nome2) {
   const n1 = normalizzaNomePerConfronto(nome1);
   const n2 = normalizzaNomePerConfronto(nome2);
   return n1.includes(n2) || n2.includes(n1);
 }
 
-let database = [];
 const selectGara = document.getElementById("garaSelect");
 const filterSocieta = document.getElementById("filterSocieta");
 const tableHeader = document.getElementById("tableHeader");
@@ -31,21 +28,31 @@ const tbody = document.querySelector("#outputTable tbody");
 const atletaTable = document.getElementById("atletaTable");
 const atletaTbody = atletaTable.querySelector("tbody");
 
+let database = [];
 
-for (const gara of tutteLeGare) {
-  const datiConNome = gara.dati.map(entry => ({ ...entry, gara: gara.nome }));
-  database.push(...datiConNome);
-}
-// Popola il menu a tendina con le gare già definite in Gare.js
-const nomiGare = new Set(tutteLeGare.map(g => g.nome));
-for (const nome of nomiGare) {
-  const option = document.createElement("option");
-  option.value = nome;
-  option.textContent = nome;
-  selectGara.appendChild(option);
+// Popola database dai dati di tutteLeGare e aggiunge campo 'gara'
+function caricaDatabase() {
+  database = []; // resetto in caso
+  for (const gara of tutteLeGare) {
+    const datiConNome = gara.dati.map(entry => ({ ...entry, gara: gara.nome }));
+    database.push(...datiConNome);
+  }
 }
 
-// Funzione per mostrare la tabella gare atleta filtrata da nome
+// Popola select gara da tutteLeGare
+function popolaSelectGara() {
+  // Rimuovo eventuali option tranne la prima (aggregata)
+  while (selectGara.options.length > 1) {
+    selectGara.remove(1);
+  }
+  for (const gara of tutteLeGare) {
+    const option = document.createElement("option");
+    option.value = gara.nome;
+    option.textContent = gara.nome;
+    selectGara.appendChild(option);
+  }
+}
+
 function mostraGareAtleta(nomeAtleta) {
   if (!nomeAtleta) {
     atletaTable.style.display = "none";
@@ -80,33 +87,29 @@ function mostraGareAtleta(nomeAtleta) {
   }
 }
 
-
-// Funzione per aggiornare la tabella in base a gara selezionata e filtro società
 function aggiornaVisualizzazione() {
   const garaSelezionata = selectGara.value;
   const filtroSoc = filterSocieta.value.trim().toLowerCase();
 
-  // Nascondi tabella dettagli atleta al cambio filtro/gara
   atletaTable.style.display = "none";
   atletaTbody.innerHTML = "";
 
   if (garaSelezionata === "") {
-    // Classifica aggregata (tutte le gare)
     mostraClassificaAggregata(filtroSoc);
   } else {
-    // Dettagli gara selezionata
     mostraDettagliGara(garaSelezionata, filtroSoc);
   }
 }
 
-// Mostra la classifica aggregata filtrando per società (se fornita)
 function mostraClassificaAggregata(filtroSoc) {
   tableHeader.innerHTML = `
-    <th>Nome</th>
-    <th>Punteggio totale</th>
-    <th>Numero gare</th>
-    <th class="societa">Società</th>
-    <th>Sesso</th>
+    <tr>
+      <th>Nome</th>
+      <th>Punteggio totale</th>
+      <th>Numero gare</th>
+      <th class="societa">Società</th>
+      <th>Sesso</th>
+    </tr>
   `;
   tbody.innerHTML = "";
 
@@ -115,7 +118,6 @@ function mostraClassificaAggregata(filtroSoc) {
   for (let entry of database) {
     if (filtroSoc && !entry.societa.toLowerCase().includes(filtroSoc)) continue;
 
-    // Cerca se esiste già un aggregato con nome compatibile e stessa società
     let agg = aggregati.find(a =>
       nomiCompatibili(a.nome, entry.nome) &&
       a.societa.toLowerCase() === entry.societa.toLowerCase()
@@ -136,9 +138,9 @@ function mostraClassificaAggregata(filtroSoc) {
     agg.totale += parseFloat(entry.punteggio || 0);
   }
 
-  const righe = aggregati.sort((a, b) => b.totale - a.totale);
+  aggregati.sort((a, b) => b.totale - a.totale);
 
-  for (let r of righe) {
+  for (let r of aggregati) {
     const tr = document.createElement("tr");
     tr.innerHTML = `
       <td><a href="#" class="nomeAtleta">${formattaNome(r.nome)}</a></td>
@@ -150,7 +152,6 @@ function mostraClassificaAggregata(filtroSoc) {
     tbody.appendChild(tr);
   }
 
-  // Aggiungi listener ai link nomi
   tbody.querySelectorAll(".nomeAtleta").forEach(el => {
     el.addEventListener("click", e => {
       e.preventDefault();
@@ -159,15 +160,14 @@ function mostraClassificaAggregata(filtroSoc) {
   });
 }
 
-// Mostra i dettagli di una gara specifica filtrando per società (se fornita)
 function mostraDettagliGara(garaSelezionata, filtroSoc) {
   tableHeader.innerHTML = `
-  <tr>
-    <th>Nome</th>
-    <th>Categoria</th>
-    <th>Tempo</th>
-    <th>Punteggio</th>
-    <th class="societa">Società</th>
+    <tr>
+      <th>Nome</th>
+      <th>Categoria</th>
+      <th>Tempo</th>
+      <th>Punteggio</th>
+      <th class="societa">Società</th>
     </tr>
   `;
   tbody.innerHTML = "";
@@ -189,7 +189,6 @@ function mostraDettagliGara(garaSelezionata, filtroSoc) {
     tbody.appendChild(tr);
   }
 
-  // Aggiungi listener ai link nomi
   tbody.querySelectorAll(".nomeAtleta").forEach(el => {
     el.addEventListener("click", e => {
       e.preventDefault();
@@ -198,7 +197,12 @@ function mostraDettagliGara(garaSelezionata, filtroSoc) {
   });
 }
 
-// Eventi per aggiornare la tabella al cambiare della gara o del filtro società
-selectGara.addEventListener("change", aggiornaVisualizzazione);
-filterSocieta.addEventListener("input", aggiornaVisualizzazione);
-document.addEventListener("DOMContentLoaded", aggiornaVisualizzazione);
+// Inizializzazione all’avvio pagina
+document.addEventListener("DOMContentLoaded", () => {
+  caricaDatabase();
+  popolaSelectGara();
+  aggiornaVisualizzazione();
+
+  selectGara.addEventListener("change", aggiornaVisualizzazione);
+  filterSocieta.addEventListener("input", aggiornaVisualizzazione);
+});
