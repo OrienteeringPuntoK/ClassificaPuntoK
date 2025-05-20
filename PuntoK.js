@@ -45,37 +45,6 @@ for (const nome of nomiGare) {
   selectGara.appendChild(option);
 }
 
-document.getElementById("fileInput").addEventListener("change", async (event) => {
-  const files = Array.from(event.target.files);
-  const gareCaricate = new Set();
-
-  for (let file of files) {
-    const text = await file.text();
-    try {
-      const json = JSON.parse(text);
-      // Aggiungi il nome del file come proprietà 'gara' a ogni entry
-      const datiConNomeGara = json.map(entry => ({ ...entry, gara: file.name }));
-      database.push(...datiConNomeGara);
-      gareCaricate.add(file.name);
-    } catch (e) {
-      alert(`Errore nel file ${file.name}: ${e.message}`);
-    }
-  }
-
-  // Aggiorna menu a tendina senza duplicati
-  for (let gara of gareCaricate) {
-    if (![...selectGara.options].some(opt => opt.value === gara)) {
-      const option = document.createElement("option");
-      option.value = gara;
-      option.textContent = gara;
-      selectGara.appendChild(option);
-    }
-  }
-
-  // Mostra la classifica aggregata di default
-  aggiornaVisualizzazione();
-});
-
 // Funzione per mostrare la tabella gare atleta filtrata da nome
 function mostraGareAtleta(nomeAtleta) {
   if (!nomeAtleta) {
