@@ -134,10 +134,10 @@ function aggiornaVisualizzazione() {
 function mostraClassificaAggregata(filtroSoc) {
   tableHeader.innerHTML = `
     <th>Nome</th>
+    <th>Punteggio totale</th>
+    <th>Numero gare</th>
     <th class="societa">Società</th>
     <th>Sesso</th>
-    <th>Numero gare</th>
-    <th>Punteggio totale</th>
   `;
   tbody.innerHTML = "";
 
@@ -193,12 +193,11 @@ function mostraClassificaAggregata(filtroSoc) {
 // Mostra i dettagli di una gara specifica filtrando per società (se fornita)
 function mostraDettagliGara(garaSelezionata, filtroSoc) {
   tableHeader.innerHTML = `
-    <th>Categoria</th>
     <th>Nome</th>
-    <th class="societa">Società</th>
-    <th>Sesso</th>
+    <th>Categoria</th>
     <th>Tempo</th>
     <th>Punteggio</th>
+    <th class="societa">Società</th>
   `;
   tbody.innerHTML = "";
 
