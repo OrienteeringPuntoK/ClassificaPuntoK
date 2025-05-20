@@ -9,6 +9,17 @@
 <body>
 
   <h1>Classifica aggregata e dettagli gara</h1>
+
+    <input type="file" id="fileInput" multiple accept=".json" />
+  <br />
+
+  <label>
+    Seleziona gara:
+    <select id="garaSelect">
+      <option value="">-- Tutte le gare (aggregato) --</option>
+    </select>
+  </label>
+  
   <label>
     Filtra per società:
     <input type="text" id="filterSocieta" placeholder="Nome società" value="PUNTO K" />
