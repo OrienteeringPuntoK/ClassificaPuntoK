@@ -7,22 +7,6 @@ body {
   margin: auto;
 }
 
-body {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Orienteering.jpg/1200px-Orienteering.jpg"); /* percorso immagine */
-  background-size: cover;         /* Adatta l'immagine a tutto lo schermo */
-  background-repeat: no-repeat;   /* Non ripetere l'immagine */
-  background-attachment: fixed;   /* Sfondo fisso mentre scorri */
-  background-position: center;    /* Centra l'immagine */
-  color: white;  /* (Opzionale) per contrasto testo */
-}
-body::before {
-  content: "";
-  position: fixed;
-  top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(0, 0, 0, 0.5); /* Nero trasparente */
-  z-index: -1;
-}
-
 h1, h3 {
   margin-bottom: 10px;
 }
