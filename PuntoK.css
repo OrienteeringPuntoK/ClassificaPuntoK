@@ -1,0 +1,91 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background: #f9f9f9;
+  color: #222;
+  max-width: 900px;
+  margin: auto;
+}
+
+h1, h3 {
+  margin-bottom: 10px;
+}
+
+input[type="file"], select, input[type="text"] {
+  margin-top: 10px;
+  margin-right: 10px;
+  padding: 5px;
+  font-size: 1rem;
+  width: 100%;
+  max-width: 300px;
+  box-sizing: border-box;
+}
+
+label {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  background: white;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 5px 8px;
+  text-align: left;
+  font-size: 0.9rem;
+}
+
+thead {
+  background-color: #0074D9;
+  color: white;
+}
+
+a.nomeAtleta {
+  color: #0074D9;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+a.nomeAtleta:hover {
+  text-decoration: underline;
+}
+
+/* Responsive */
+
+@media (min-width: 600px) {
+  label {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  input[type="file"], select, input[type="text"] {
+    width: auto;
+  }
+}
+
+@media (max-width: 599px) {
+  table {
+    display: block;
+    overflow-x: auto;
+  }
+  input[type="file"], select, input[type="text"] {
+    max-width: 100%;
+  }
+}
+.societa {
+  white-space: nowrap;      /* evita il ritorno a capo */
+  overflow: hidden;         /* nasconde il testo che eccede la larghezza */
+  text-overflow: ellipsis;  /* mostra "..." quando il testo è troppo lungo */
+  max-width: 150px;         /* larghezza massima della colonna (modifica a piacere) */
+}
+.gara {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 180px; /* puoi regolare a piacere */
+}
