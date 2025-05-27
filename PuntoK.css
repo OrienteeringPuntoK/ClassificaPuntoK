@@ -165,9 +165,11 @@ a.nomeAtleta:hover {
     overflow-x: auto;
   }
   input[type="file"], select, input[type="text"] {
-    max-width: 100%;
+    max-width: 200px; /* ad esempio, oppure 90%, o 180px */
+    width: 100%;      /* così si adatta al contenitore ma non supera max-width */
   }
 }
+
 .societa {
   white-space: nowrap;      /* evita il ritorno a capo */
   overflow: hidden;         /* nasconde il testo che eccede la larghezza */
@@ -187,7 +189,7 @@ a.nomeAtleta:hover {
   z-index: 2000;
   left: 0;
   top: 0;
-  width: 80%;
+  width: 90%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.6);
 }
