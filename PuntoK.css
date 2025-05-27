@@ -165,7 +165,7 @@ a.nomeAtleta:hover {
     overflow-x: auto;
   }
   input[type="file"], select, input[type="text"] {
-    max-width: 200px; /* ad esempio, oppure 90%, o 180px */
+    max-width: 250px; /* ad esempio, oppure 90%, o 180px */
     width: 100%;      /* così si adatta al contenitore ma non supera max-width */
   }
 }
@@ -187,11 +187,10 @@ a.nomeAtleta:hover {
   display: none;
   position: fixed;
   z-index: 2000;
-  left: 0;
+  left: 15px;
   top: 0;
-  width: 90%;
+  width: 95%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.6);
 }
 
 #infoContent {
