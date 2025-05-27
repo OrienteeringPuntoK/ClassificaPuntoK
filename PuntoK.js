@@ -98,6 +98,7 @@ function mostraGareAtleta(nomeAtleta) {
   
   atletaTable.style.display = "table";
   document.getElementById("titoloGare").textContent = `Gare a cui ha partecipato ${nomeAtleta}`;
+  document.getElementById("titoloGare").style.display = "block";
   atletaTbody.innerHTML = "";
 
   risultati.sort((a, b) => a.gara.localeCompare(b.gara));
