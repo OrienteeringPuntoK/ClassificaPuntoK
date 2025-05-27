@@ -187,7 +187,7 @@ a.nomeAtleta:hover {
   z-index: 2000;
   left: 0;
   top: 0;
-  width: 100%;
+  width: 80%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.6);
 }
