@@ -80,6 +80,7 @@ document.getElementById("fileInput").addEventListener("change", async (event) =>
 function mostraGareAtleta(nomeAtleta) {
   if (!nomeAtleta) {
     atletaTable.style.display = "none";
+    document.getElementById("titoloGare").style.display = "none";
     atletaTbody.innerHTML = "";
     return;
   }
@@ -90,11 +91,13 @@ function mostraGareAtleta(nomeAtleta) {
 
   if (risultati.length === 0) {
     atletaTable.style.display = "none";
+    document.getElementById("titoloGare").style.display = "none";
     atletaTbody.innerHTML = "";
     return;
   }
-
-  atletaTable.style.display = "";
+  
+  atletaTable.style.display = "table";
+  document.getElementById("titoloGare").style.display = "block";
   atletaTbody.innerHTML = "";
 
   risultati.sort((a, b) => a.gara.localeCompare(b.gara));
