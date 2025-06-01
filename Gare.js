@@ -1,6 +1,6 @@
 const tutteLeGare = [
   {
-    nome: "Lipica Open Day 1",
+    nome: "08-Marzo Lipica Open Day 1",
     dati: [
   {
     "categoria": "M12",
@@ -1150,7 +1150,7 @@ const tutteLeGare = [
     "categoria": "M21E",
     "tempo": "01:32:53",
     "nome": "Alessandro Rivetta",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "65.01",
     "femmina": false
   },
@@ -2102,7 +2102,7 @@ const tutteLeGare = [
     "categoria": "OPEN C",
     "tempo": "01:19:47",
     "nome": "Germana Altan",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "45.94",
     "femmina": true
   },
@@ -2806,7 +2806,7 @@ const tutteLeGare = [
     "categoria": "W50",
     "tempo": "00:53:13",
     "nome": "Clizia Zambiasi",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "78.58",
     "femmina": true
   },
@@ -2990,7 +2990,7 @@ const tutteLeGare = [
     "categoria": "W50",
     "tempo": "01:51:56",
     "nome": "Benedetta Marmiroli",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "37.36",
     "femmina": true
   },
@@ -3149,7 +3149,7 @@ const tutteLeGare = [
 ]
   },
   {
-    nome: "Lipica Open Day 2",
+    nome: "09-Marzo Lipica Open Day 2",
     dati: [
   {
     "categoria": "M21E",
@@ -3587,7 +3587,7 @@ const tutteLeGare = [
     "categoria": "M21E",
     "tempo": "00:41:25",
     "nome": "Alessandro Rivetta",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "73.52",
     "femmina": false
   },
@@ -5139,7 +5139,7 @@ const tutteLeGare = [
     "categoria": "W50",
     "tempo": "00:43:25",
     "nome": "Clizia Zambiasi",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "85.22",
     "femmina": true
   },
@@ -5315,7 +5315,7 @@ const tutteLeGare = [
     "categoria": "W50",
     "tempo": "01:42:00",
     "nome": "Benedetta Marmiroli",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "36.27",
     "femmina": true
   },
@@ -5490,7 +5490,7 @@ const tutteLeGare = [
 ]
 },
   {
-    nome: "Lipica Open Day 5",
+    nome: "12-Marzo Lipica Open Day 5",
     dati: [
   {
     "categoria": "OPEN A",
@@ -5904,7 +5904,7 @@ const tutteLeGare = [
     "categoria": "W50",
     "tempo": "00:33:46",
     "nome": "Clizia Zambiasi",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "69.64",
     "femmina": true
   },
@@ -5960,7 +5960,7 @@ const tutteLeGare = [
     "categoria": "W50",
     "tempo": "01:02:54",
     "nome": "Benedetta Marmiroli",
-    "societa": "Semiperdo Orienteering Maniago",
+    "societa": "a.s.d. Semiperdo Orienteering Maniago",
     "punteggio": "37.39",
     "femmina": true
   },
@@ -6111,7 +6111,7 @@ const tutteLeGare = [
 ]
 },
  {
-    nome: "VeNotte",
+    nome: "01-Febbraio VeNotte",
     dati: [
   {
     "categoria": "Bianco",
@@ -10564,7 +10564,7 @@ const tutteLeGare = [
 ]
 },
 {
-    nome: "Ajduscina FVG O-TOUR Tappa 1",
+    nome: "19-Gennaio Ajduscina FVG O-TOUR Tappa 1",
     dati: [
   {
     "categoria": "Bianco",
@@ -11161,7 +11161,7 @@ const tutteLeGare = [
 ]
 },
 {
-    nome: "Fontanabona FVG O-TOUR Tappa 2",
+    nome: "16-Marzo Fontanabona FVG O-TOUR Tappa 2",
     dati: [
   {
     "categoria": "Bianco",
@@ -11670,7 +11670,7 @@ const tutteLeGare = [
 ]
 },
 {
-    nome: "Gemona FVG O-TOUR Tappa 4",
+    nome: "01-Maggio Gemona FVG O-TOUR Tappa 4",
     dati: [
   {
     "categoria": "Bianco",
@@ -12715,7 +12715,7 @@ const tutteLeGare = [
 ]
 },
 {
-    nome: "Opicina FVG O-TOUR Tappa 5",
+    nome: "04-Maggio Opicina FVG O-TOUR Tappa 5",
     dati: [
   {
     "categoria": "Bianco",
@@ -13720,7 +13720,7 @@ const tutteLeGare = [
 ]
 },
 {
-    nome: "Valeriano FVG O-TOUR Tappa 6",
+    nome: "18-Maggio Valeriano FVG O-TOUR Tappa 6",
     dati: [
   {
     "categoria": "Bianco",
@@ -14509,7 +14509,7 @@ const tutteLeGare = [
 ]
 },
 {
-    nome: "Pontaiba Campionato Regionale Middle",
+    nome: "13-Aprile Pontaiba Campionato Regionale Middle",
     dati: [
   {
     "categoria": "Bianco",
@@ -15686,7 +15686,3027 @@ const tutteLeGare = [
     "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
     "punteggio": 0,
     "femmina": true
-  }
-]
+  },
+],
 },
+    {
+    nome: "31-Maggio Mezzano Coppa Italia Sprint Tappa 4",
+    dati: [
+  {
+    "categoria": "M14",
+    "tempo": "00:09:56",
+    "nome": "BETTEGA Emiliano",
+    "societa": "A.S.D. G.S. PAVIONE",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:10:12",
+    "nome": "OGNIBENI Andrea",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "97.39",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:11:20",
+    "nome": "ASTOLFI Zeno",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "87.65",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:11:26",
+    "nome": "CASTELLI Elia",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "86.88",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:12:04",
+    "nome": "FONTAN Angelo",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "82.32",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:12:16",
+    "nome": "FOLIE Mattia",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "80.98",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:12:46",
+    "nome": "BRAMBILLA Carlo",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": "77.81",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:13:12",
+    "nome": "Vadalà Giovanni",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "75.25",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:13:40",
+    "nome": "MAIOCCHI Alessandro",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "72.68",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:14:18",
+    "nome": "CORRENT Kieran",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "69.46",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:14:43",
+    "nome": "ROBALDO Simone",
+    "societa": "ORICUNEO ASSOCIAZIONE SPORTIVA A.S.D.",
+    "punteggio": "67.50",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:15:18",
+    "nome": "ROBERTO Emanuele",
+    "societa": "ORICUNEO ASSOCIAZIONE SPORTIVA A.S.D.",
+    "punteggio": "64.92",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:16:14",
+    "nome": "RAGAZZON Geremia",
+    "societa": "ORIENTEERING MIANE '87 A.S.D.",
+    "punteggio": "61.19",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:16:55",
+    "nome": "MACCHETTA Martino",
+    "societa": "ORICUNEO ASSOCIAZIONE SPORTIVA A.S.D.",
+    "punteggio": "58.72",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:17:21",
+    "nome": "CHIRA Davide",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": "57.25",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:17:32",
+    "nome": "GIACOMIN Lorenzo",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "56.65",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:18:05",
+    "nome": "MANTELLATO Gabriele",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "54.93",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:19:11",
+    "nome": "MONTIBELER Miran",
+    "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+    "punteggio": "51.78",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:19:19",
+    "nome": "GAUDENZI Giovanni",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "51.42",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:20:00",
+    "nome": "COLETTI Giulio Livio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "49.67",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:20:30",
+    "nome": "FORNASIERO Alberto",
+    "societa": "A.S.D. MARENO ORIENTEERING",
+    "punteggio": "48.46",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:20:37",
+    "nome": "DALLA VENEZIA Alessandro",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "48.18",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:24:06",
+    "nome": "CAMPELLO Paolo",
+    "societa": "A.S.D. ORIENTEERING MALIPIERO",
+    "punteggio": "41.22",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:24:31",
+    "nome": "BELTRAMBA Martin",
+    "societa": "TOL TERLANER ORIENTIERUNGSLAEUFER AMATEURSPORTVEREIN",
+    "punteggio": "40.52",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:24:55",
+    "nome": "NEGRI Mattia",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "39.87",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:25:15",
+    "nome": "RUSU Daniel",
+    "societa": "A.S.D. ORIENTEERING MALIPIERO",
+    "punteggio": "39.34",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:27:17",
+    "nome": "DE LUCA Mattia",
+    "societa": "A.S.D. G.S. PAVIONE",
+    "punteggio": "36.41",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:34:21",
+    "nome": "SCARAMUZZA Ettore",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": "28.92",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:34:53",
+    "nome": "RIATO Mattia",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "28.48",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "BONATO Luca",
+    "societa": "CSI SASSO MARCONI ASD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "FIGNON Marco",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:11:29",
+    "nome": "FONTANA Gabriele",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:11:45",
+    "nome": "MAGAGNOLI Martino",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "97.73",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:11:48",
+    "nome": "PAGLIARI Cristiano",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "97.32",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:11:58",
+    "nome": "GIUDICI Gabriele",
+    "societa": "A.S.D. ORIENTEERING TRIESTE",
+    "punteggio": "95.96",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:12:57",
+    "nome": "MOSER Alessandro",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "88.67",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:13:14",
+    "nome": "VIEL Tobia",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "86.78",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:13:15",
+    "nome": "VICARIOTTO Mattia",
+    "societa": "A.P.D. ARCES ASSOCIAZIONE POLISPORTIVA DILETTANTISTICA",
+    "punteggio": "86.67",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:13:22",
+    "nome": "BOMBARDELLI Gabriel",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "85.91",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:14:00",
+    "nome": "MARGONI Daniele",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "82.02",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:14:18",
+    "nome": "CASALE Michele",
+    "societa": "ORICUNEO ASSOCIAZIONE SPORTIVA A.S.D.",
+    "punteggio": "80.30",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:14:36",
+    "nome": "RIVOLTA Olmo",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "78.65",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:14:47",
+    "nome": "SUCCI Michele",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": "77.68",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:14:50",
+    "nome": "CIAVARELLA Daniele",
+    "societa": "OPK Miraflores ASD",
+    "punteggio": "77.42",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:15:00",
+    "nome": "CRIPPA Tommaso",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": "76.56",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:15:28",
+    "nome": "PRIVITERA Lorenzo",
+    "societa": "OPK Miraflores ASD",
+    "punteggio": "74.25",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:16:04",
+    "nome": "RAGAZZON Elia",
+    "societa": "ORIENTEERING MIANE '87 A.S.D.",
+    "punteggio": "71.47",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:16:20",
+    "nome": "ZUGLIANI David",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "70.31",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:16:53",
+    "nome": "WEITLANER Jonas",
+    "societa": "HAUNOLD ORIENTEERING TEAM A.S.D.",
+    "punteggio": "68.02",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:17:56",
+    "nome": "GIACCAGLIA Ilario",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "64.03",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:18:11",
+    "nome": "APOLLONIO Daniele",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "63.15",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:18:12",
+    "nome": "DAL ZILIO Ezio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "63.10",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:18:25",
+    "nome": "MENEGHEL Nicola",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "62.35",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:18:30",
+    "nome": "POZZI Elia",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": "62.07",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:18:37",
+    "nome": "PAYNE Nico",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "61.68",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:19:47",
+    "nome": "RUSSO Davide",
+    "societa": "OPK Miraflores ASD",
+    "punteggio": "58.05",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:23:24",
+    "nome": "SARNI Stefano",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": "49.07",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:26:28",
+    "nome": "SETTI Gabriele",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": "43.39",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:27:51",
+    "nome": "DOTTOR Simone",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": "41.23",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:30:45",
+    "nome": "CONTI Simone",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": "37.34",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:33:33",
+    "nome": "MAZZA Luca",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "34.23",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:38:16",
+    "nome": "SCIPPA Ettore Martino",
+    "societa": "FIRENZE ORIENTEERING ASD",
+    "punteggio": "30.01",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:00:00",
+    "nome": "GRANZOTTO Carlo",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:00:00",
+    "nome": "SCHIAVO Alessio",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:00:00",
+    "nome": "BOCCHIOLA Riccardo",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:12:00",
+    "nome": "MARIANI Francesco",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:12:47",
+    "nome": "TAIT Samuele",
+    "societa": "GRONLAIT ORIENTEERING TEAM A.S.D.",
+    "punteggio": "93.87",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:12:48",
+    "nome": "SCOPEL Mattia",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "93.75",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:13:12",
+    "nome": "PELLEGRINO TECCO Edoardo",
+    "societa": "PRO TEAM NORD-OVEST ASD",
+    "punteggio": "90.91",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:13:44",
+    "nome": "ANGELI Ilian",
+    "societa": "G. S. Orienteering Folgore A.S.D.",
+    "punteggio": "87.38",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:14:05",
+    "nome": "AMADESI Fabio",
+    "societa": "PARK WORLD TOUR ITALIA S.S.D. S.R.L.",
+    "punteggio": "85.21",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:14:16",
+    "nome": "GRECI Cristian",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": "84.11",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:14:19",
+    "nome": "CURZIO Samuele",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "83.82",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:14:25",
+    "nome": "OGNIBENE Francesco",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "83.24",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:14:31",
+    "nome": "RIVETTA Alessandro",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "82.66",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:14:32",
+    "nome": "LOSS Nikolas",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "82.57",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:14:44",
+    "nome": "CARAGLIO Michele",
+    "societa": "ORICUNEO ASSOCIAZIONE SPORTIVA A.S.D.",
+    "punteggio": "81.45",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:14:46",
+    "nome": "KOSKY Jack",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": "81.26",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:15:02",
+    "nome": "LAMBERTINI Marcello",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "79.82",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:15:03",
+    "nome": "GIULIANI Luigi",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": "79.73",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:15:13",
+    "nome": "PAGLIARI Daniele",
+    "societa": "IKP",
+    "punteggio": "78.86",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:15:14",
+    "nome": "MOGNO Pietro",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "78.77",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:15:15",
+    "nome": "BAZAN Alberto",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "78.69",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:15:29",
+    "nome": "DE BIASI Lorenzo",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "77.50",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:15:42",
+    "nome": "DE NONI Alessandro",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "76.43",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:16:01",
+    "nome": "CELONA Lorenzo",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "74.92",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:16:09",
+    "nome": "FRASCAROLI Simone",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "74.30",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:17:22",
+    "nome": "RUMOR Alvise",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "69.10",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:17:37",
+    "nome": "RAUS Stefano",
+    "societa": "ORIENTEERING PERGINE A.S.D.",
+    "punteggio": "68.12",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:17:38",
+    "nome": "PINNA Lorenzo",
+    "societa": "A.S.D. AGOROSSO S.ALESSANDRO ORIENTEERING",
+    "punteggio": "68.05",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:17:41",
+    "nome": "WONG Kwan",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "67.86",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:17:49",
+    "nome": "ROSATO Luca",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "67.35",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:17:53",
+    "nome": "BRANDOLINI Andrea",
+    "societa": "A.S.D. AGOROSSO S.ALESSANDRO ORIENTEERING",
+    "punteggio": "67.10",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:18:06",
+    "nome": "BITTARELLO Michele",
+    "societa": "A.S.D. EREBUS ORIENTAMENTO VICENZA",
+    "punteggio": "66.30",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:18:17",
+    "nome": "MARZOLINI Gabriele",
+    "societa": "A.S.D. ORIENTEERING CLUB APPENNINO",
+    "punteggio": "65.63",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:18:17",
+    "nome": "TAMARRI Emilio",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "65.63",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:18:21",
+    "nome": "VENEZIAN Federico",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "65.40",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:18:24",
+    "nome": "BUGANE' Nicolò",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "65.22",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:18:29",
+    "nome": "VENTURINI Alessio",
+    "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+    "punteggio": "64.92",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:18:29",
+    "nome": "MURER Fabio",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "64.92",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:18:59",
+    "nome": "TERRANOVA Mirko",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "63.21",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:19:13",
+    "nome": "DALFOLLO Alessio",
+    "societa": "GRONLAIT ORIENTEERING TEAM A.S.D.",
+    "punteggio": "62.45",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:19:38",
+    "nome": "SALGO' Stefano",
+    "societa": "CSI SASSO MARCONI ASD",
+    "punteggio": "61.12",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:19:42",
+    "nome": "PILAT Francesco",
+    "societa": "ORIENTEERING MIANE '87 A.S.D.",
+    "punteggio": "60.91",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:19:58",
+    "nome": "GRILLO Luca",
+    "societa": "ORICUNEO ASSOCIAZIONE SPORTIVA A.S.D.",
+    "punteggio": "60.10",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:19:59",
+    "nome": "RONZANI Fabio",
+    "societa": "A.S.D. EREBUS ORIENTAMENTO VICENZA",
+    "punteggio": "60.05",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:20:10",
+    "nome": "DE GASPERI Simone",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "59.50",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:20:30",
+    "nome": "DE NARDIS Alberto",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "58.54",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:20:35",
+    "nome": "BEN REJEB Alain",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": "58.30",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:21:16",
+    "nome": "TONA Edoardo",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "56.43",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:22:08",
+    "nome": "BRINO Alex",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "54.22",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:23:11",
+    "nome": "FABRIS Fulvio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "51.76",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:23:18",
+    "nome": "BASSETTI Giacomo",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "51.50",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:23:49",
+    "nome": "KOROL Mykyta",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "50.38",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:23:52",
+    "nome": "CASSOL Jacopo",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "50.28",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:25:42",
+    "nome": "STELLA Nicola",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "46.69",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:26:28",
+    "nome": "SCAPIN Leonardo",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "45.34",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:29:20",
+    "nome": "DARIN Leonardo",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "40.91",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:31:29",
+    "nome": "NANNI Francesco",
+    "societa": "Polisportiva Circolo Dozza A.S.D.",
+    "punteggio": "38.12",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:32:21",
+    "nome": "FICILI Marco",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "37.09",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:34:14",
+    "nome": "SAVOLDELLI Dennis",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "35.05",
+    "femmina": false
+  },
+  {
+    "categoria": "ME",
+    "tempo": "00:00:00",
+    "nome": "DI STEFANO Marco Anselmo",
+    "societa": "PARK WORLD TOUR ITALIA S.S.D. S.R.L.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:11:54",
+    "nome": "MICHELOTTI Guido",
+    "societa": "A.S.D. ARCO DI CARTA",
+    "punteggio": "90.00",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:14:07",
+    "nome": "ALBRIZIO Elisa",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "90.00",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:14:46",
+    "nome": "TAUFER Piero",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "72.53",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:15:55",
+    "nome": "MACCATROZZO Roberto",
+    "societa": "A.S.D. ORIENTEERING MALIPIERO",
+    "punteggio": "67.29",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:17:35",
+    "nome": "AMADESI Claudio",
+    "societa": "A.S.D. ORIENTEERING CLUB APPENNINO",
+    "punteggio": "60.91",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:18:29",
+    "nome": "DELL'EVA Giuliana",
+    "societa": "A.S.D. ORIENTEERING CLUB APPENNINO",
+    "punteggio": "68.74",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:19:34",
+    "nome": "ARMANI Angela",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "64.93",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:20:00",
+    "nome": "ZANNIER Erik",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "53.55",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:20:56",
+    "nome": "ASTOLFI Riccardo",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "51.16",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:21:12",
+    "nome": "PERUFFO Lorenzo",
+    "societa": "A.S.D. EREBUS ORIENTAMENTO VICENZA",
+    "punteggio": "50.52",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:22:51",
+    "nome": "MARSILI Agnese",
+    "societa": "FEDERAZIONE ITALIANA SPORT ORIENTAMENTO",
+    "punteggio": "55.60",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:23:35",
+    "nome": "CAPPELLO Matteo",
+    "societa": "ORIENTEERING CREA ROSSA A.S.D.",
+    "punteggio": "45.41",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:25:03",
+    "nome": "SCIPPA Antonio",
+    "societa": "FIRENZE ORIENTEERING ASD",
+    "punteggio": "42.75",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:28:56",
+    "nome": "VERGARO Alexandra",
+    "societa": "FIRENZE ORIENTEERING ASD",
+    "punteggio": "43.91",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:29:35",
+    "nome": "DE SIMOI Karin",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "36.20",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:29:55",
+    "nome": "AIMETTO Donatella",
+    "societa": "ORICUNEO ASSOCIAZIONE SPORTIVA A.S.D.",
+    "punteggio": "42.47",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:30:18",
+    "nome": "SALTARIN Margherita",
+    "societa": "A.S.D. ORIENTEERING MALIPIERO",
+    "punteggio": "41.93",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:48:26",
+    "nome": "SPANO Mauro",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "22.11",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:00:00",
+    "nome": "GUARINO Stefano",
+    "societa": "A.S.D. UNIONE LOMBARDA",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:00:00",
+    "nome": "PINZETTA Loredana",
+    "societa": "VARESE ORIENTEERING ASD",
+    "punteggio": "20.38",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:07:29",
+    "nome": "SCHUSTER GUIDOLIN Kathrin",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:08:15",
+    "nome": "GRETTER Nicole",
+    "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+    "punteggio": "90.71",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:11:06",
+    "nome": "BANCHER Anna",
+    "societa": "A.S.D. G.S. PAVIONE",
+    "punteggio": "67.42",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:14:06",
+    "nome": "MARSILETTI Bianca",
+    "societa": "A.S.D. G.S. PAVIONE",
+    "punteggio": "53.07",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:14:28",
+    "nome": "BIANCHI Anna",
+    "societa": "IKP",
+    "punteggio": "51.73",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:14:42",
+    "nome": "DALLA SEGA Dafne",
+    "societa": "A.S.D. G.S. PAVIONE",
+    "punteggio": "50.91",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:14:44",
+    "nome": "IUSSIG Agnese",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "50.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:21:08",
+    "nome": "VEDOATO Sofia",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "35.41",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:21:39",
+    "nome": "LUSUARDI FEDELE Rebecca",
+    "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+    "punteggio": "34.57",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:12:41",
+    "nome": "SIBIGLIA Katiuscia",
+    "societa": "PARK WORLD TOUR ITALIA S.S.D. S.R.L.",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:13:30",
+    "nome": "SANCIN Federica",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "93.95",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:14:17",
+    "nome": "POLICE Eugenia",
+    "societa": "A.S.D. UNIONE LOMBARDA",
+    "punteggio": "88.80",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:14:48",
+    "nome": "TITOLI Emanuela",
+    "societa": "A.S.D. NIRVANA VERDE",
+    "punteggio": "85.70",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:14:55",
+    "nome": "GAION Sara",
+    "societa": "A.S.D. ORIENTEERING TRIESTE",
+    "punteggio": "85.03",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:15:16",
+    "nome": "AGNOLO Rosella",
+    "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+    "punteggio": "83.08",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:15:18",
+    "nome": "PEDRINI Luisa",
+    "societa": "ORIENTEERING PERGINE A.S.D.",
+    "punteggio": "82.90",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:16:02",
+    "nome": "CORRIDORI Chiara",
+    "societa": "ORIENTEERING PERGINE A.S.D.",
+    "punteggio": "79.11",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:17:37",
+    "nome": "GUIDOLIN Manuela",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "72.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:17:42",
+    "nome": "SANTAROSSA Sonia",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "71.66",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:22:16",
+    "nome": "VISINTIN Federica",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "56.96",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:22:17",
+    "nome": "MORPURGO Giada",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "56.92",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:25:45",
+    "nome": "MANELLA Cristina",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "49.26",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:25:57",
+    "nome": "BRESSAN Monica",
+    "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+    "punteggio": "48.88",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:30:41",
+    "nome": "ASTERO Elisa",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "41.34",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "DELL'ARCIPRETE Diana",
+    "societa": "A.S.D. UNIONE LOMBARDA",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "MADDALENA Novella",
+    "societa": "A.S.D. NIRVANA VERDE",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "CONCI Agostina",
+    "societa": "ORIENTEERING PINÈ A.S.D.",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:12:17",
+    "nome": "VASSILEVA Tzvetanka",
+    "societa": "A.S.D. ARCO DI CARTA",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:13:22",
+    "nome": "VAN BUUREN Nadia",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "91.90",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:13:25",
+    "nome": "SIGHEL Monica",
+    "societa": "ORIENTEERING PINÈ A.S.D.",
+    "punteggio": "91.55",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:13:34",
+    "nome": "RAGONA Federica",
+    "societa": "TOL TERLANER ORIENTIERUNGSLAEUFER AMATEURSPORTVEREIN",
+    "punteggio": "90.54",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:14:50",
+    "nome": "CORRADI Federica",
+    "societa": "A.S.D. ARCO DI CARTA",
+    "punteggio": "82.81",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:15:39",
+    "nome": "PEPINO Viviana",
+    "societa": "ORIENTEERING PINÈ A.S.D.",
+    "punteggio": "78.49",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:17:12",
+    "nome": "FAIFER Cristina",
+    "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+    "punteggio": "71.41",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:17:21",
+    "nome": "TOMASELLI Lina",
+    "societa": "GRONLAIT ORIENTEERING TEAM A.S.D.",
+    "punteggio": "70.80",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:18:17",
+    "nome": "FIETTA Fiorenza",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "67.18",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:18:32",
+    "nome": "MANFRIN Fabiana",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "66.28",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:18:38",
+    "nome": "TITOLI Michela",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "65.92",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:18:54",
+    "nome": "MARMIROLI Benedetta",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "64.99",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:19:59",
+    "nome": "COMETTO Elena",
+    "societa": "ORICUNEO ASSOCIAZIONE SPORTIVA A.S.D.",
+    "punteggio": "61.47",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:21:34",
+    "nome": "DONAGGIO Cristiana",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "56.96",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:23:28",
+    "nome": "FAVERO Elena",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "52.34",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:24:55",
+    "nome": "DALLE VEDOVE Marilena",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "49.30",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:00:00",
+    "nome": "PFISTER Oriana",
+    "societa": "GRONLAIT ORIENTEERING TEAM A.S.D.",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:13:06",
+    "nome": "TUROLLA Cristina",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:13:16",
+    "nome": "RUINI Cristina",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "98.74",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:13:19",
+    "nome": "PACHER Mirta",
+    "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+    "punteggio": "98.37",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:13:23",
+    "nome": "PIFFER Maria",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "97.88",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:13:39",
+    "nome": "GOTTARDINI Elena",
+    "societa": "ORIENTEERING PERGINE A.S.D.",
+    "punteggio": "95.97",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:13:40",
+    "nome": "STOCORO Anna Maria",
+    "societa": "ENEA CASACCIA ORIENTERING A.S.D.",
+    "punteggio": "95.85",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:13:56",
+    "nome": "DOFF SOTTA Maria Claudia",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "94.02",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:15:15",
+    "nome": "PUTZU Daniela",
+    "societa": "VARESE ORIENTEERING ASD",
+    "punteggio": "85.90",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:15:20",
+    "nome": "DAVID Donatella",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "85.43",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:17:33",
+    "nome": "MARCANTONI Antonella",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "74.64",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:17:44",
+    "nome": "LEONARDELLI Angela",
+    "societa": "ORIENTEERING PERGINE A.S.D.",
+    "punteggio": "73.87",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:18:27",
+    "nome": "FURLIN Marisa",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "71.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:20:06",
+    "nome": "BOLZONELLA Manuela",
+    "societa": "A.S.D. ORIENTEERING MALIPIERO",
+    "punteggio": "65.17",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:21:26",
+    "nome": "POZZI Ambrogina",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": "61.12",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:22:12",
+    "nome": "ROSSO Elisabetta",
+    "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+    "punteggio": "59.01",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:23:11",
+    "nome": "BERNAGOZZI Marisa",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "56.51",
+    "femmina": true
+  },
+   ],
+},
+  {
+    nome: "01-Giugno Passo Cereda Coppa Italia Bosco Tappa 3",
+    dati: [
+  {
+    "categoria": "GIALLO",
+    "tempo": "00:30:33",
+    "nome": "PANIZ Denis",
+    "societa": "A.P.D. ARCES ASSOCIAZIONE POLISPORTIVA DILETTANTISTICA",
+    "punteggio": "80.00",
+    "femmina": false
+  },
+  {
+    "categoria": "GIALLO",
+    "tempo": "00:32:56",
+    "nome": "TOIGO Laura Silvia",
+    "societa": "A.P.D. ARCES ASSOCIAZIONE POLISPORTIVA DILETTANTISTICA",
+    "punteggio": "80.00",
+    "femmina": true
+  },
+  {
+    "categoria": "GIALLO",
+    "tempo": "00:34:26",
+    "nome": "PRETTI Giulio",
+    "societa": "G.S. MONTE GINER A.S.D.",
+    "punteggio": "70.98",
+    "femmina": false
+  },
+  {
+    "categoria": "GIALLO",
+    "tempo": "00:36:34",
+    "nome": "PATTARO Chiara",
+    "societa": "ORIENTEERING DOLOMITI ASD",
+    "punteggio": "72.05",
+    "femmina": true
+  },
+  {
+    "categoria": "GIALLO",
+    "tempo": "00:46:01",
+    "nome": "SPECOGNA Giuseppe",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "53.11",
+    "femmina": false
+  },
+  {
+    "categoria": "GIALLO",
+    "tempo": "00:46:51",
+    "nome": "VERGARO Alexandra",
+    "societa": "FIRENZE ORIENTEERING ASD",
+    "punteggio": "56.24",
+    "femmina": true
+  },
+  {
+    "categoria": "GIALLO",
+    "tempo": "00:52:03",
+    "nome": "FRARE Michela",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "50.62",
+    "femmina": true
+  },
+  {
+    "categoria": "GIALLO",
+    "tempo": "00:56:11",
+    "nome": "PRIMERANO Rianò Carmela",
+    "societa": "ORIENTEERING DOLOMITI ASD",
+    "punteggio": "46.89",
+    "femmina": true
+  },
+  {
+    "categoria": "GIALLO",
+    "tempo": "01:01:46",
+    "nome": "CEREATTI Roberto",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "39.57",
+    "femmina": false
+  },
+  {
+    "categoria": "GIALLO",
+    "tempo": "01:02:24",
+    "nome": "DE BIASI Massimo",
+    "societa": "ORIENTEERING MIANE '87 A.S.D.",
+    "punteggio": "39.17",
+    "femmina": false
+  },
+  {
+    "categoria": "GIALLO",
+    "tempo": "01:18:56",
+    "nome": "SPANO Mauro",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "30.96",
+    "femmina": false
+  },
+  {
+    "categoria": "GIALLO",
+    "tempo": "01:22:56",
+    "nome": "PRONOL Giulia",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "31.77",
+    "femmina": true
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:28:44",
+    "nome": "BETTEGA Emiliano",
+    "societa": "A.S.D. G.S. PAVIONE",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:30:17",
+    "nome": "FONTAN Angelo",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "94.88",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:30:24",
+    "nome": "OGNIBENI Andrea",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "94.52",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:32:31",
+    "nome": "BRAMBILLA Carlo",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": "88.36",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:33:39",
+    "nome": "CASTELLI Elia",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "85.39",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:35:36",
+    "nome": "FOLIE Mattia",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "80.71",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:39:19",
+    "nome": "ASTOLFI Zeno",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "73.08",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:40:02",
+    "nome": "Vadalà Giovanni",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "71.77",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:46:12",
+    "nome": "VINCENZI Elia",
+    "societa": "ORIENTEERING TREVISO A.S.D.",
+    "punteggio": "62.19",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:47:36",
+    "nome": "ROBERTO Emanuele",
+    "societa": "ORICUNEO ASSOCIAZIONE SPORTIVA A.S.D.",
+    "punteggio": "60.36",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:48:04",
+    "nome": "FERRANTE Edoardo",
+    "societa": "A.S.D. Orienteering Laguna Nord Venezia",
+    "punteggio": "59.78",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:49:09",
+    "nome": "BONATO Luca",
+    "societa": "CSI SASSO MARCONI ASD",
+    "punteggio": "58.46",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:50:22",
+    "nome": "BELTRAMBA Martin",
+    "societa": "TOL TERLANER ORIENTIERUNGSLAEUFER AMATEURSPORTVEREIN",
+    "punteggio": "57.05",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:50:46",
+    "nome": "SQUERI Leonardo",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "56.60",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:51:12",
+    "nome": "PELZ Daniel",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "56.12",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:52:37",
+    "nome": "COPPE Filippo",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "54.61",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:52:48",
+    "nome": "MAIOCCHI Alessandro",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "54.42",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:56:02",
+    "nome": "MACCHETTA Martino",
+    "societa": "ORICUNEO ASSOCIAZIONE SPORTIVA A.S.D.",
+    "punteggio": "51.28",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:57:58",
+    "nome": "MARCIANO Riccardo Giuseppe",
+    "societa": "ORIENTEERING MIANE '87 A.S.D.",
+    "punteggio": "49.57",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:00:50",
+    "nome": "ROBALDO Simone",
+    "societa": "ORICUNEO ASSOCIAZIONE SPORTIVA A.S.D.",
+    "punteggio": "47.23",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:01:09",
+    "nome": "CORRENT Kieran",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "46.99",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:05:55",
+    "nome": "RAGAZZON Geremia",
+    "societa": "ORIENTEERING MIANE '87 A.S.D.",
+    "punteggio": "43.59",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:08:21",
+    "nome": "CHIRA Davide",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": "42.04",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:16:29",
+    "nome": "NEGRI Mattia",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "37.57",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:26:06",
+    "nome": "MONTIBELER Miran",
+    "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+    "punteggio": "33.37",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:27:04",
+    "nome": "DALLA VENEZIA Alessandro",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "33.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:33:43",
+    "nome": "GAUDENZI Giovanni",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "30.66",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:47:02",
+    "nome": "COLETTI Giulio Livio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "26.85",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "02:04:13",
+    "nome": "TOVENA Tiago",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "23.13",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "LACCONA Alessandro Massimo",
+    "societa": "G.S. MONTE GINER A.S.D.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "SCARAMUZZA Ettore",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "GIACOMIN Lorenzo",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "MANTELLATO Gabriele",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "RIATO Mattia",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "CODATO Nicolo'",
+    "societa": "A.S.D. ORIENTEERING MALIPIERO",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:52:47",
+    "nome": "FONTANA Gabriele",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:57:38",
+    "nome": "MOSER Alessandro",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "91.58",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:00:23",
+    "nome": "VIEL Tobia",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "87.41",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:02:24",
+    "nome": "GIUDICI Gabriele",
+    "societa": "A.S.D. ORIENTEERING TRIESTE",
+    "punteggio": "84.59",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:02:31",
+    "nome": "CRIPPA Tommaso",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": "84.43",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:07:43",
+    "nome": "PAGLIARI Cristiano",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "77.95",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:09:38",
+    "nome": "VICARIOTTO Mattia",
+    "societa": "A.P.D. ARCES ASSOCIAZIONE POLISPORTIVA DILETTANTISTICA",
+    "punteggio": "75.80",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:16:27",
+    "nome": "SUCCI Michele",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": "69.04",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:18:20",
+    "nome": "MAGAGNOLI Martino",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "67.38",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:21:07",
+    "nome": "BOMBARDELLI Gabriel",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "65.07",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:23:07",
+    "nome": "BOCCHIOLA Riccardo",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "63.51",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:24:34",
+    "nome": "DOLIANA Lorenzo",
+    "societa": "ORIENTEERING PINÈ A.S.D.",
+    "punteggio": "62.42",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:24:54",
+    "nome": "MARGONI Daniele",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "62.17",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:25:01",
+    "nome": "CASALE Michele",
+    "societa": "ORICUNEO ASSOCIAZIONE SPORTIVA A.S.D.",
+    "punteggio": "62.09",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:25:16",
+    "nome": "GRANZOTTO Carlo",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "61.90",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:36:48",
+    "nome": "RAGAZZON Elia",
+    "societa": "ORIENTEERING MIANE '87 A.S.D.",
+    "punteggio": "54.53",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:37:07",
+    "nome": "POZZI Elia",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": "54.35",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:37:18",
+    "nome": "GIACCAGLIA Ilario",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "54.25",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:41:38",
+    "nome": "MENEGHEL Nicola",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "51.94",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:41:49",
+    "nome": "ZUGLIANI David",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "51.84",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:43:20",
+    "nome": "CIAVARELLA Daniele",
+    "societa": "OPK Miraflores ASD",
+    "punteggio": "51.08",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:43:56",
+    "nome": "ZAGONEL Giacomo",
+    "societa": "U.S. PRIMIERO A.S.D.",
+    "punteggio": "50.79",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:44:36",
+    "nome": "WEITLANER Jonas",
+    "societa": "HAUNOLD ORIENTEERING TEAM A.S.D.",
+    "punteggio": "50.46",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:45:03",
+    "nome": "APOLLONIO Daniele",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "50.25",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "01:47:06",
+    "nome": "DOTTOR Simone",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": "49.28",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "02:07:58",
+    "nome": "PRIVITERA Lorenzo",
+    "societa": "OPK Miraflores ASD",
+    "punteggio": "41.25",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "02:23:29",
+    "nome": "CONTI Simone",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": "36.79",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "02:38:37",
+    "nome": "SETTI Gabriele",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": "33.28",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "02:48:32",
+    "nome": "SCIPPA Ettore Martino",
+    "societa": "FIRENZE ORIENTEERING ASD",
+    "punteggio": "31.32",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "03:00:37",
+    "nome": "SARNI Stefano",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": "29.22",
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:00:00",
+    "nome": "SCHIAVO Alessio",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:00:00",
+    "nome": "RIVOLTA Olmo",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:00:00",
+    "nome": "DAL ZILIO Ezio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:00:00",
+    "nome": "RUSSO Davide",
+    "societa": "OPK Miraflores ASD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M16",
+    "tempo": "00:00:00",
+    "nome": "PAYNE Nico",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:08:39",
+    "nome": "BAZAN Alberto",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "95.00",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:13:01",
+    "nome": "CASTELLAZ Maurizio",
+    "societa": "A.S.D. G.S. PAVIONE",
+    "punteggio": "89.32",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:13:35",
+    "nome": "TAMARRI Emilio",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "88.63",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:15:11",
+    "nome": "DE GASPERI Simone",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "86.74",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:18:16",
+    "nome": "DALFOLLO Alessio",
+    "societa": "GRONLAIT ORIENTEERING TEAM A.S.D.",
+    "punteggio": "83.33",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:19:31",
+    "nome": "TERRANOVA Mirko",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "82.02",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:22:32",
+    "nome": "ROSATO Luca",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "79.02",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:26:30",
+    "nome": "MARZOLINI Gabriele",
+    "societa": "A.S.D. ORIENTEERING CLUB APPENNINO",
+    "punteggio": "75.40",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:27:30",
+    "nome": "FABRIS Fulvio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "74.53",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:31:09",
+    "nome": "PINNA Lorenzo",
+    "societa": "A.S.D. AGOROSSO S.ALESSANDRO ORIENTEERING",
+    "punteggio": "71.55",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:31:42",
+    "nome": "GRILLO Luca",
+    "societa": "ORICUNEO ASSOCIAZIONE SPORTIVA A.S.D.",
+    "punteggio": "71.12",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:33:38",
+    "nome": "BASSETTI Giacomo",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "69.65",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:34:45",
+    "nome": "TONA Edoardo",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "68.83",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:36:13",
+    "nome": "BRINO Alex",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": "67.78",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:36:25",
+    "nome": "SCAPIN Leonardo",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "67.64",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:36:26",
+    "nome": "NEGRI Francesco",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "67.63",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:36:47",
+    "nome": "DE NARDIS Alberto",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "67.39",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:38:41",
+    "nome": "BEN REJEB Alain",
+    "societa": "A.S.D. Atletica Interflumina è Più Pomì",
+    "punteggio": "66.09",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:39:47",
+    "nome": "PEGORER Giulio",
+    "societa": "ORIENTEERING TREVISO A.S.D.",
+    "punteggio": "65.36",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:42:06",
+    "nome": "VALPIANI Davide",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "63.88",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "01:42:57",
+    "nome": "PILAT Francesco",
+    "societa": "ORIENTEERING MIANE '87 A.S.D.",
+    "punteggio": "63.35",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "02:04:00",
+    "nome": "STELLA Nicola",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "52.59",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "02:04:29",
+    "nome": "FICILI Marco",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "52.39",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "02:20:22",
+    "nome": "CONTE Daniele",
+    "societa": "ORIENTEERING BASSANO 1982 A.S.D.",
+    "punteggio": "46.46",
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "00:00:00",
+    "nome": "GAIO Paolo",
+    "societa": "A.S.D. G.S. PAVIONE",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "MA",
+    "tempo": "00:00:00",
+    "nome": "BACCI Federico",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "01:17:01",
+    "nome": "REBULI Emanuele",
+    "societa": "ORIENTEERING MIANE '87 A.S.D.",
+    "punteggio": "90.00",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "01:29:25",
+    "nome": "MAGAGNOLI Giacomo",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "77.52",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "01:33:55",
+    "nome": "SLANZI Marco",
+    "societa": "A.S.D. EREBUS ORIENTAMENTO VICENZA",
+    "punteggio": "73.80",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "01:40:30",
+    "nome": "ALBRIZIO Elisa",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "90.00",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "01:41:36",
+    "nome": "FERRANTE Salvatore",
+    "societa": "A.S.D. Orienteering Laguna Nord Venezia",
+    "punteggio": "68.22",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "01:51:47",
+    "nome": "DELL'EVA Giuliana",
+    "societa": "A.S.D. ORIENTEERING CLUB APPENNINO",
+    "punteggio": "80.92",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "01:52:55",
+    "nome": "ZANNIER Erik",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "61.39",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "02:13:26",
+    "nome": "ROZZANIGO Erika",
+    "societa": "A.S.D. EREBUS ORIENTAMENTO VICENZA",
+    "punteggio": "67.79",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:00:00",
+    "nome": "PERUFFO Lorenzo",
+    "societa": "A.S.D. EREBUS ORIENTAMENTO VICENZA",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:00:00",
+    "nome": "GUARINO Stefano",
+    "societa": "A.S.D. UNIONE LOMBARDA",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:00:00",
+    "nome": "MIOLA Nicolò",
+    "societa": "A.S.D. EREBUS ORIENTAMENTO VICENZA",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:00:00",
+    "nome": "SCIPPA Antonio",
+    "societa": "FIRENZE ORIENTEERING ASD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:00:00",
+    "nome": "AMADESI Claudio",
+    "societa": "A.S.D. ORIENTEERING CLUB APPENNINO",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:17:43",
+    "nome": "SCHUSTER GUIDOLIN Kathrin",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:21:01",
+    "nome": "GRETTER Nicole",
+    "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+    "punteggio": "84.30",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:23:36",
+    "nome": "IUSSIG Agnese",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "75.07",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:24:15",
+    "nome": "ANESIN Martina",
+    "societa": "ORIENTEERING PINÈ A.S.D.",
+    "punteggio": "73.06",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:25:44",
+    "nome": "MARSILETTI Bianca",
+    "societa": "A.S.D. G.S. PAVIONE",
+    "punteggio": "68.85",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:27:23",
+    "nome": "VEDOATO Sofia",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "64.70",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:29:31",
+    "nome": "BANCHER Anna",
+    "societa": "A.S.D. G.S. PAVIONE",
+    "punteggio": "60.02",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:37:06",
+    "nome": "BIANCHI Anna",
+    "societa": "IKP",
+    "punteggio": "47.75",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:44:56",
+    "nome": "VINCENZI Sofia",
+    "societa": "ORIENTEERING TREVISO A.S.D.",
+    "punteggio": "39.43",
+    "femmina": true
+  },
+  {
+    "categoria": "W10",
+    "tempo": "00:00:00",
+    "nome": "DALLA SEGA Dafne",
+    "societa": "A.S.D. G.S. PAVIONE",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:37:01",
+    "nome": "VASSILEVA Tzvetanka",
+    "societa": "A.S.D. ARCO DI CARTA",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:39:29",
+    "nome": "VAN BUUREN Nadia",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "93.75",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:45:21",
+    "nome": "SIGHEL Monica",
+    "societa": "ORIENTEERING PINÈ A.S.D.",
+    "punteggio": "81.62",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:45:58",
+    "nome": "RAGONA Federica",
+    "societa": "TOL TERLANER ORIENTIERUNGSLAEUFER AMATEURSPORTVEREIN",
+    "punteggio": "80.53",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:46:20",
+    "nome": "NONES Rita",
+    "societa": "G.S. CASTELLO DI FIEMME",
+    "punteggio": "79.89",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:56:46",
+    "nome": "VALER Antonella",
+    "societa": "U.S.D. SAN GIORGIO",
+    "punteggio": "65.21",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:59:25",
+    "nome": "MANFRIN Ester",
+    "societa": "A.S.D. ORIENTEERING PRATO",
+    "punteggio": "62.30",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "01:00:52",
+    "nome": "COMETTO Elena",
+    "societa": "ORICUNEO ASSOCIAZIONE SPORTIVA A.S.D.",
+    "punteggio": "60.82",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "01:10:45",
+    "nome": "TOMASELLI Lina",
+    "societa": "GRONLAIT ORIENTEERING TEAM A.S.D.",
+    "punteggio": "52.32",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "01:13:45",
+    "nome": "MANFRIN Fabiana",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "50.19",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "01:24:14",
+    "nome": "DONAGGIO Cristiana",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "43.95",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "01:29:29",
+    "nome": "TITOLI Michela",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "41.37",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "01:44:45",
+    "nome": "PEPINO Viviana",
+    "societa": "ORIENTEERING PINÈ A.S.D.",
+    "punteggio": "35.34",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "01:47:51",
+    "nome": "FIETTA Fiorenza",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "34.32",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "02:08:23",
+    "nome": "FAVERO Elena",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "28.83",
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:00:00",
+    "nome": "BORTOLINI Monica",
+    "societa": "ORIENTEERING TARZO A.S.D.",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:00:00",
+    "nome": "CREPAZ Mita",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W50",
+    "tempo": "00:00:00",
+    "nome": "PFISTER Oriana",
+    "societa": "GRONLAIT ORIENTEERING TEAM A.S.D.",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:43:11",
+    "nome": "GOTTARDINI Elena",
+    "societa": "ORIENTEERING PERGINE A.S.D.",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:43:53",
+    "nome": "PACHER Mirta",
+    "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+    "punteggio": "98.40",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:44:14",
+    "nome": "DAVID Donatella",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "97.63",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:46:02",
+    "nome": "RUINI Cristina",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "93.81",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:48:03",
+    "nome": "PIFFER Maria",
+    "societa": "TRENTO ORIENTEERING A.S.D.",
+    "punteggio": "89.87",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:50:11",
+    "nome": "POZZI Ambrogina",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": "86.05",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:51:48",
+    "nome": "STOCORO Anna Maria",
+    "societa": "ENEA CASACCIA ORIENTERING A.S.D.",
+    "punteggio": "83.37",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:52:02",
+    "nome": "PUTZU Daniela",
+    "societa": "VARESE ORIENTEERING ASD",
+    "punteggio": "82.99",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:54:02",
+    "nome": "TUROLLA Cristina",
+    "societa": "A.S.D. POLISPORTIVA BESANESE",
+    "punteggio": "79.92",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:04:06",
+    "nome": "LEONARDELLI Angela",
+    "societa": "ORIENTEERING PERGINE A.S.D.",
+    "punteggio": "67.37",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:07:53",
+    "nome": "BOLZONELLA Manuela",
+    "societa": "A.S.D. ORIENTEERING MALIPIERO",
+    "punteggio": "63.61",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:10:49",
+    "nome": "SANIN Cristina",
+    "societa": "TOL TERLANER ORIENTIERUNGSLAEUFER AMATEURSPORTVEREIN",
+    "punteggio": "60.98",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:11:18",
+    "nome": "FURLIN Marisa",
+    "societa": "A.S.D. FONZASO",
+    "punteggio": "60.57",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "02:11:30",
+    "nome": "BERNAGOZZI Marisa",
+    "societa": "POLISPORTIVA G. MASI A.S.D.",
+    "punteggio": "32.84",
+    "femmina": true
+  },
+  {
+    "categoria": "WB",
+    "tempo": "00:54:45",
+    "nome": "ANEDDA Nicole",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "90.00",
+    "femmina": true
+  },
+  {
+    "categoria": "WB",
+    "tempo": "01:10:01",
+    "nome": "PATTARELLO Giulia",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "70.38",
+    "femmina": true
+  },
+  {
+    "categoria": "WB",
+    "tempo": "01:10:13",
+    "nome": "TOMIELLO Elisa",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "70.18",
+    "femmina": true
+  },
+  {
+    "categoria": "WB",
+    "tempo": "01:11:27",
+    "nome": "TOMIELLO Irene",
+    "societa": "A.S.D. POLISPORTIVA PUNTO NORD",
+    "punteggio": "68.96",
+    "femmina": true
+  },
+  {
+    "categoria": "WB",
+    "tempo": "01:14:20",
+    "nome": "FRANCHI Elisa",
+    "societa": "A.S.D. AGOROSSO S.ALESSANDRO ORIENTEERING",
+    "punteggio": "66.29",
+    "femmina": true
+  },
+  {
+    "categoria": "WB",
+    "tempo": "01:15:43",
+    "nome": "MAURIZI Carlotta",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "65.08",
+    "femmina": true
+  },
+  {
+    "categoria": "WB",
+    "tempo": "01:19:56",
+    "nome": "CORTI Laura",
+    "societa": "A.S.D. EREBUS ORIENTAMENTO VICENZA",
+    "punteggio": "61.65",
+    "femmina": true
+  },
+  {
+    "categoria": "WB",
+    "tempo": "01:21:44",
+    "nome": "BELLIO Irene",
+    "societa": "A.S.D. ORIENTEERING G. GALILEI",
+    "punteggio": "60.29",
+    "femmina": true
+  },
+  {
+    "categoria": "WB",
+    "tempo": "01:59:41",
+    "nome": "CONCI Agostina",
+    "societa": "ORIENTEERING PINÈ A.S.D.",
+    "punteggio": "41.17",
+    "femmina": true
+  },
+  {
+    "categoria": "WB",
+    "tempo": "02:07:08",
+    "nome": "MORPURGO Giada",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "38.76",
+    "femmina": true
+  },
+  {
+    "categoria": "WB",
+    "tempo": "00:00:00",
+    "nome": "FRISANCO Angelica",
+    "societa": "ORIENTEERING PERGINE A.S.D.",
+    "punteggio": 0,
+    "femmina": true
+  },
+],
+ },
+
+  
 ];
