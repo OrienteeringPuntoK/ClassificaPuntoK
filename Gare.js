@@ -109,7 +109,7 @@ const tutteLeGare = [
             {
                 "categoria": "Giallo",
                 "tempo": "00:30:08",
-                "nome": "COLETTI Giulio Livio",
+                "nome": "COLETTI Giulio",
                 "societa": "PUNTO K ORIENTEERING ASD",
                 "punteggio": "64.29",
                 "femmina": false
@@ -1762,7 +1762,7 @@ const tutteLeGare = [
             {
                 "categoria": "M14",
                 "tempo": "00:44:36",
-                "nome": "COLETTI Giulio Livio",
+                "nome": "COLETTI Giulio",
                 "societa": "PUNTO K ORIENTEERING ASD",
                 "punteggio": "57.92",
                 "femmina": false
@@ -11342,7 +11342,7 @@ const tutteLeGare = [
             {
                 "categoria": "Giallo",
                 "tempo": "00:28:26",
-                "nome": "Coletti Giulio Livio",
+                "nome": "Coletti Giulio",
                 "societa": "PUNTO K ORIENTEERING ASD",
                 "punteggio": "58.24",
                 "femmina": false
@@ -11947,7 +11947,7 @@ const tutteLeGare = [
             {
                 "categoria": "M14",
                 "tempo": "00:32:50",
-                "nome": "COLETTI Giulio Livio",
+                "nome": "COLETTI Giulio",
                 "societa": "PUNTO K ORIENTEERING ASD",
                 "punteggio": "68.75",
                 "femmina": false
@@ -12984,7 +12984,7 @@ const tutteLeGare = [
             {
                 "categoria": "Giallo",
                 "tempo": "00:30:44",
-                "nome": "COLETTI Giulio Livio",
+                "nome": "COLETTI Giulio",
                 "societa": "PUNTO K ORIENTEERING ASD",
                 "punteggio": "51.02",
                 "femmina": false
@@ -14805,7 +14805,7 @@ const tutteLeGare = [
             {
                 "categoria": "Rosso",
                 "tempo": "00:44:45",
-                "nome": "Coletti Giulio Livio",
+                "nome": "Coletti Giulio",
                 "societa": "PUNTO K ORIENTEERING ASD",
                 "punteggio": "45.96",
                 "femmina": false
@@ -15050,7 +15050,7 @@ const tutteLeGare = [
             {
                 "categoria": "Giallo",
                 "tempo": "00:51:53",
-                "nome": "COLETTI Giulio Livio",
+                "nome": "COLETTI Giulio",
                 "societa": "PUNTO K ORIENTEERING ASD",
                 "punteggio": "51.50",
                 "femmina": false
@@ -15847,7 +15847,7 @@ const tutteLeGare = [
             {
                 "categoria": "M14",
                 "tempo": "00:20:00",
-                "nome": "COLETTI Giulio Livio",
+                "nome": "COLETTI Giulio",
                 "societa": "PUNTO K ORIENTEERING ASD",
                 "punteggio": "49.67",
                 "femmina": false
@@ -17628,7 +17628,7 @@ const tutteLeGare = [
             {
                 "categoria": "M14",
                 "tempo": "01:47:02",
-                "nome": "COLETTI Giulio Livio",
+                "nome": "COLETTI Giulio",
                 "societa": "PUNTO K ORIENTEERING ASD",
                 "punteggio": "26.85",
                 "femmina": false
@@ -19964,7 +19964,7 @@ const tutteLeGare = [
             {
                 "categoria": "Giallo",
                 "tempo": "00:42:12",
-                "nome": "Coletti Giulio Livio",
+                "nome": "Coletti Giulio",
                 "societa": "PUNTO K ORIENTEERING ASD",
                 "punteggio": "49.10",
                 "femmina": false
@@ -20036,7 +20036,7 @@ const tutteLeGare = [
             {
                 "categoria": "Giallo",
                 "tempo": "00:41:29",
-                "nome": "Coletti Lara Julia",
+                "nome": "Coletti Lara",
                 "societa": "PUNTO K ORIENTEERING ASD",
                 "punteggio": "70.10",
                 "femmina": true
@@ -20467,7 +20467,8 @@ const tutteLeGare = [
             }
         ]
     },
-    {nome:"16) Ampezzo FVG O-TOUR Tappa 8 13/07",
+    {
+        nome: "16) Ampezzo FVG O-TOUR Tappa 8 13/07",
      dati:[
   {
     "categoria": "NERO",
@@ -20839,7 +20840,8 @@ const tutteLeGare = [
   }
 ]
     },
-    {nome:"17) Orange Cup Day 1 27/07",
+    {
+        nome: "17) Orange Cup Day 1 27/07",
      dati: [
   {
     "categoria": "M14",
@@ -23099,7 +23101,8 @@ const tutteLeGare = [
   }
 ]
     },
-    {nome:"18) Orange Cup Day 2 28/07",
+    {
+        nome: "18) Orange Cup Day 2 28/07",
      dati: [
   {
     "categoria": "M14",
@@ -26151,7 +26154,8 @@ const tutteLeGare = [
   }
 ]
     },
-    {nome:"19) Orange Cup Day 3 29/07",
+    {
+        nome: "19) Orange Cup Day 3 29/07",
      dati: [
   {
     "categoria": "M45",
@@ -28611,7 +28615,8 @@ const tutteLeGare = [
   }
 ]
     },
-  {nome:"20) Orange Cup Day 4 30/07",
+    {
+        nome: "20) Orange Cup Day 4 30/07",
      dati: [
   {
     "categoria": "M14",
@@ -32159,7 +32164,8 @@ const tutteLeGare = [
   }
 ]
   },
-    {nome:"21) Orange Cup Day 5 31/07",
+    {
+        nome: "21) Orange Cup Day 5 31/07",
      dati: [
   {
     "categoria": "M45",
@@ -35179,6 +35185,7 @@ const tutteLeGare = [
   }
 ]
     },
+    {
     nome: "22) Palmanova FVG O-TOUR Tappa 9 30/08",
         dati: [
   {
@@ -35688,7 +35695,7 @@ const tutteLeGare = [
   {
     "categoria": "Rosso",
     "tempo": "00:42:36",
-    "nome": "Coletti Giulio Livio",
+    "nome": "Coletti Giulio",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": "47.36",
     "femmina": false
@@ -36374,7 +36381,8 @@ const tutteLeGare = [
     "femmina": false
   }
 ]
-},
+    },
+    {
     nome: "23) Gradisca FVG O-TOUR Tappa 3 14/09",
         dati: [
   {
