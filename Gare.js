@@ -19900,6 +19900,7 @@ const tutteLeGare = [
                 "femmina": true
             }
         ]
+
     },
     {
         nome: "15) Faedis FVG O-TOUR Tappa 7 22/06",
@@ -20466,4 +20467,16302 @@ const tutteLeGare = [
             }
         ]
     },
+    {nome:"16) Ampezzo FVG O-TOUR Tappa 8 13/07",
+     dati:[
+  {
+    "categoria": "NERO",
+    "tempo": "00:26:13",
+    "nome": "LONER Marco",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:28:42",
+    "nome": "GIUDICI Gabriele",
+    "societa": "A.S.D. ORIENTEERING TRIESTE",
+    "punteggio": "91.35",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:36:41",
+    "nome": "TOMASIN Ian",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "71.47",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:37:55",
+    "nome": "SERAFINI Ivan",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "69.14",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:40:08",
+    "nome": "FERRANTE Edoardo",
+    "societa": "A.S.D. Orienteering Laguna Nord Venezia",
+    "punteggio": "65.32",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:41:20",
+    "nome": "SCALTRI Emanuele",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "63.43",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:41:32",
+    "nome": "CRUCIL Giacomo",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "63.12",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:41:41",
+    "nome": "TOMASIN Aaron",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "62.89",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:42:40",
+    "nome": "DAL ZILIO Ezio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "61.45",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:43:06",
+    "nome": "TOMASINO Stefano",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "60.83",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:43:59",
+    "nome": "ZAMBIASI Clizia",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:45:27",
+    "nome": "MARCUZZI Stefano",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "57.68",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:45:43",
+    "nome": "DI VORA Alessandra",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "96.21",
+    "femmina": true
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:47:02",
+    "nome": "FABRIS Fulvio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "55.74",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:47:17",
+    "nome": "GUBIANI Marzia",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "93.02",
+    "femmina": true
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:48:16",
+    "nome": "TABOGA Michele",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "54.32",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:51:52",
+    "nome": "FERRANTE Salvatore",
+    "societa": "A.S.D. Orienteering Laguna Nord Venezia",
+    "punteggio": "50.55",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:52:09",
+    "nome": "BALLARIN Matteo",
+    "societa": "ORIENTEERING SWALLOWS NOALE A.S.D.",
+    "punteggio": "50.27",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "01:02:12",
+    "nome": "ALTAN Germana",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "70.71",
+    "femmina": true
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "01:07:52",
+    "nome": "SPECOGNA Giuseppe",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "38.63",
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:00:00",
+    "nome": "MUKHIDINOV Serhiy",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "NERO",
+    "tempo": "00:00:00",
+    "nome": "APOLLONIO Daniele",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:33:35",
+    "nome": "DISSETTE Paolo",
+    "societa": "ORIENTEERING DOLOMITI ASD",
+    "punteggio": "90.00",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:36:39",
+    "nome": "TOMASINO Mattia",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "82.47",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:37:24",
+    "nome": "MARTIGNAGO Armando",
+    "societa": "OK MONTELLO A.S.D.",
+    "punteggio": "80.82",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:38:17",
+    "nome": "VAN BUUREN Nadia",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "90.00",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:39:36",
+    "nome": "FOSCHIAN Andrea",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "76.33",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:39:57",
+    "nome": "MARGIORE Andrea",
+    "societa": "A.S.D. C.R.A.L. TRIESTE TRASPORTI",
+    "punteggio": "75.66",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:40:44",
+    "nome": "PASSONE Gaia",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "84.59",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:42:38",
+    "nome": "APOLLONIO Fulvio",
+    "societa": "CORIVORIVO ORIENTEERING ASD",
+    "punteggio": "70.90",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:44:57",
+    "nome": "GERMANI Marko",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "67.24",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:45:18",
+    "nome": "CREPAZ Mita",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "66.72",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:46:37",
+    "nome": "TOMASIN Daniel",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "64.84",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:47:25",
+    "nome": "MITRI Denis",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "63.74",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:47:33",
+    "nome": "CIMADOR Enrico",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "63.56",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:48:24",
+    "nome": "KUZMIN Anka",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "71.19",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:51:39",
+    "nome": "DONAGGIO Cristiana",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "66.71",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:54:34",
+    "nome": "RUINI Cristina",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "63.14",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:55:31",
+    "nome": "VISINTIN Federica",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "62.06",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:56:56",
+    "nome": "MARMIROLI Benedetta",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "60.52",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "00:58:10",
+    "nome": "FRAPPA Monica",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "59.23",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "01:01:00",
+    "nome": "MARCHESAN Alessandro",
+    "societa": "A.S.D. ORIENTEERING TRIESTE",
+    "punteggio": "49.55",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "01:03:07",
+    "nome": "CEREATTI Roberto",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "47.89",
+    "femmina": false
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "01:08:45",
+    "nome": "MORPURGO Giada",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "50.12",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "01:11:19",
+    "nome": "PANFILO Tiziana",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "48.31",
+    "femmina": true
+  },
+  {
+    "categoria": "ROSSO",
+    "tempo": "01:13:43",
+    "nome": "DE DONATIS Annalisa",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "46.74",
+    "femmina": true
+  }
+]
+    },
+    {nome:"17) Orange Cup Day 1 27/07",
+     dati: [
+  {
+    "categoria": "M14",
+    "tempo": "00:20:08",
+    "nome": "Ondřej Lučan",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:24:17",
+    "nome": "Kristaps Krumins",
+    "societa": "Briksnis - Latvia",
+    "punteggio": "82.91",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:24:51",
+    "nome": "Matěj Janata",
+    "societa": "Kotlářka Jablonec Jilemnice",
+    "punteggio": "81.02",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:29:03",
+    "nome": "Timotejs Janovs",
+    "societa": "Siguldas Takas",
+    "punteggio": "69.31",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:30:10",
+    "nome": "Vince Sámuel Simon",
+    "societa": "Watch Out Cluj",
+    "punteggio": "66.74",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:30:27",
+    "nome": "Gustavs Lass",
+    "societa": "Auseklis IK",
+    "punteggio": "66.12",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:30:42",
+    "nome": "Jakob Wälti",
+    "societa": "OLC Winterthur",
+    "punteggio": "65.58",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:30:56",
+    "nome": "Kobe Deferm",
+    "societa": "hamok",
+    "punteggio": "65.09",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:31:08",
+    "nome": "David Kaltenbacher",
+    "societa": "HSV OL Wiener Neustadt",
+    "punteggio": "64.67",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:31:33",
+    "nome": "Péter Laping",
+    "societa": "Watch Out Cluj",
+    "punteggio": "63.81",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:32:31",
+    "nome": "Jon Gürtler",
+    "societa": "OLC Winterthur",
+    "punteggio": "61.92",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:32:39",
+    "nome": "Markus Ban",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": "61.66",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:32:54",
+    "nome": "Gustavs Arnicans",
+    "societa": "OK Kapa",
+    "punteggio": "61.20",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:34:00",
+    "nome": "Kārlis Poikāns",
+    "societa": "Auseklis IK",
+    "punteggio": "59.22",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:34:19",
+    "nome": "Ivan Zhuravlev",
+    "societa": "Devyni OSK",
+    "punteggio": "58.67",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:35:52",
+    "nome": "Leo Ryapolov",
+    "societa": "IFK Mora OK",
+    "punteggio": "56.13",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:36:01",
+    "nome": "Lasse Brunstedt Jacobsen",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "55.90",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:36:04",
+    "nome": "Alexander Baur",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": "55.82",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:36:10",
+    "nome": "Tom Flandrin",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "55.67",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:36:15",
+    "nome": "Tiago Gastineau",
+    "societa": "Balise 77 Fontainebleau Avon",
+    "punteggio": "55.54",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:36:58",
+    "nome": "Joosep Tali",
+    "societa": "Harju Orienteerumisklubi",
+    "punteggio": "54.46",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:37:22",
+    "nome": "Magnus Oscar Søes",
+    "societa": "OK Bomteknik",
+    "punteggio": "53.88",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:37:29",
+    "nome": "Jonin Burkhart",
+    "societa": "OL Regio Wil",
+    "punteggio": "53.71",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:39:13",
+    "nome": "Samuel Saranen",
+    "societa": "DT Helsingin Suunistajat",
+    "punteggio": "51.34",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:39:39",
+    "nome": "Raimonds Saklaurs",
+    "societa": "OK Kapa",
+    "punteggio": "50.78",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:39:47",
+    "nome": "Maël Durand",
+    "societa": "Balise 63",
+    "punteggio": "50.61",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:41:12",
+    "nome": "Martinien Moxhet",
+    "societa": "CO Liège",
+    "punteggio": "48.87",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:41:16",
+    "nome": "Norbert Szőcs",
+    "societa": "Watch Out Cluj",
+    "punteggio": "48.79",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:41:35",
+    "nome": "Adam Prins",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "48.42",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:42:43",
+    "nome": "Viesturs Jaudzems",
+    "societa": "Auseklis IK",
+    "punteggio": "47.13",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:43:14",
+    "nome": "Cillian Lynch",
+    "societa": "Lagan Valley Orienteers",
+    "punteggio": "46.57",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:45:57",
+    "nome": "Lucas Mcgrail",
+    "societa": "OK Bomteknik",
+    "punteggio": "43.82",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:46:07",
+    "nome": "Félix Gillet",
+    "societa": "C.O.Liège",
+    "punteggio": "43.66",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:46:46",
+    "nome": "Jonáš Kužel",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "43.05",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:49:04",
+    "nome": "Manuel García Gómez",
+    "societa": "COMA",
+    "punteggio": "41.03",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:49:12",
+    "nome": "Adam Imriska",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "40.92",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:50:19",
+    "nome": "Bence Török",
+    "societa": "Watch Out Cluj",
+    "punteggio": "40.01",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:51:38",
+    "nome": "Erik Bruns",
+    "societa": "MTK Bad Harzburg",
+    "punteggio": "38.99",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:52:43",
+    "nome": "Diego Segre",
+    "societa": "Villeneuve d'Ascq Lille Métropole Orientation",
+    "punteggio": "38.19",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:53:10",
+    "nome": "Jack Baxter",
+    "societa": "South Yorkshire Orienteers",
+    "punteggio": "37.87",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:54:33",
+    "nome": "Jakob Sandrisser",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "36.91",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:56:51",
+    "nome": "Marc Maier",
+    "societa": "SPORTUNION Klagenfurt",
+    "punteggio": "35.41",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:01:28",
+    "nome": "Isak Graasbøl Ødum",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "32.75",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:01:29",
+    "nome": "Léo Ruiz",
+    "societa": "balise orientation albigeoise",
+    "punteggio": "32.75",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:02:07",
+    "nome": "Etienne Hohl",
+    "societa": "GO Vallemaggia",
+    "punteggio": "32.41",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:03:23",
+    "nome": "Luka Leovac",
+    "societa": "OK Japetić",
+    "punteggio": "31.76",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:03:23",
+    "nome": "Valentin Angermann",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "31.76",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:06:02",
+    "nome": "Laurin Fritschi",
+    "societa": "OLC Winterthur",
+    "punteggio": "30.49",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:09:36",
+    "nome": "Fabian Wernersson",
+    "societa": "Järfälla OK",
+    "punteggio": "28.93",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:09:49",
+    "nome": "Benjamin Kaljikovic",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": "28.84",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:11:19",
+    "nome": "Tim Rothauer",
+    "societa": "ASKÖ Henndorf Orienteering",
+    "punteggio": "28.23",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:21:47",
+    "nome": "Florian Mauschitz",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": "24.62",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:24:31",
+    "nome": "Daniel Švihovský",
+    "societa": "Team Jizerky",
+    "punteggio": "23.82",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:36:31",
+    "nome": "Giulio Coletti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "20.86",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:46:22",
+    "nome": "Leo Reindl",
+    "societa": "SPORTUNION Klagenfurt",
+    "punteggio": "18.93",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "02:05:10",
+    "nome": "Vítek Antoš",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "16.09",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Péter Molnár",
+    "societa": "Watch Out Cluj",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Theodor Barton",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Nolan Bialou",
+    "societa": "NORD58",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Max Jonas Obczovsky",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:43:50",
+    "nome": "Adrián Tóth",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "95.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:47:56",
+    "nome": "Anže Kolner",
+    "societa": "Orientacijski klub Komenda",
+    "punteggio": "86.87",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:51:22",
+    "nome": "Erik Hajdu",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "81.07",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:52:24",
+    "nome": "Brina Kolner",
+    "societa": "Orientacijski klub Komenda",
+    "punteggio": "95.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:52:31",
+    "nome": "Neža Obid",
+    "societa": "OK Azimut",
+    "punteggio": "94.79",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:56:50",
+    "nome": "Martin Weisbrich",
+    "societa": "SSV PLANETA Radebeul",
+    "punteggio": "73.27",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:01:25",
+    "nome": "Nico Laško",
+    "societa": "Belgian Big Fat Guys",
+    "punteggio": "67.80",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:05:37",
+    "nome": "Jari Johansson",
+    "societa": "OK Trian",
+    "punteggio": "63.46",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:08:49",
+    "nome": "Matej Sedej",
+    "societa": "OK Azimut",
+    "punteggio": "60.51",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:11:54",
+    "nome": "Claudia Rooman",
+    "societa": "Belgian Big Fat Guys",
+    "punteggio": "69.24",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:15:14",
+    "nome": "Petr Dvorak",
+    "societa": "Lucifer headlamps",
+    "punteggio": "55.35",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:23:39",
+    "nome": "Audrey Ehanno",
+    "societa": "Balise 63",
+    "punteggio": "49.78",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:24:25",
+    "nome": "Magda Horová",
+    "societa": "Universitni Sportovni Klub Praha",
+    "punteggio": "58.97",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:27:48",
+    "nome": "Tommy Bouchet",
+    "societa": "TRAILPHALIENS RAID",
+    "punteggio": "47.43",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:29:38",
+    "nome": "Javier Flores",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "46.46",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:44:55",
+    "nome": "Alessia Albano",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "47.45",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:13:49",
+    "nome": "Anna Clementi",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "37.20",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "03:14:52",
+    "nome": "Anne Soumoy",
+    "societa": "ASUB Orientation",
+    "punteggio": "25.55",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "03:14:58",
+    "nome": "Christian Nameche",
+    "societa": "ASUB Orientation",
+    "punteggio": "21.36",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "03:18:50",
+    "nome": "Vladimír Hora",
+    "societa": "Universitni Sportovni Klub Praha",
+    "punteggio": "20.94",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:00:00",
+    "nome": "Nicolo Venuti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:00:00",
+    "nome": "Enrico Pascatti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:00:00",
+    "nome": "Korinna Tóth",
+    "societa": "Salgótarjáni Dornyay SE",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:26:35",
+    "nome": "Per Lenander",
+    "societa": "Växjö OK",
+    "punteggio": "90.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:32:58",
+    "nome": "Claudia Rooman",
+    "societa": "Belgian Big Fat Guys",
+    "punteggio": "90.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:37:57",
+    "nome": "Kasper Tofte",
+    "societa": "Odense OK",
+    "punteggio": "63.04",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:38:18",
+    "nome": "Péter Gyurcsik",
+    "societa": "Göcsej KTFE",
+    "punteggio": "62.47",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:38:39",
+    "nome": "László Faggyas",
+    "societa": "Veszpremi Honved Sportegyesulet",
+    "punteggio": "61.90",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:38:58",
+    "nome": "Adrienne Brandi",
+    "societa": "Corsaorientamento Club Roma",
+    "punteggio": "76.14",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:39:01",
+    "nome": "Patrick Buchberger",
+    "societa": "Der Berger-Clan",
+    "punteggio": "61.32",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:39:15",
+    "nome": "Georg jun. Gittmaier",
+    "societa": "HSV Ried im Innkreis",
+    "punteggio": "60.96",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:40:42",
+    "nome": "Karoline Weisbrich",
+    "societa": "SSV PLANETA Radebeul",
+    "punteggio": "72.90",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:40:57",
+    "nome": "Esben Linde",
+    "societa": "Søllerød OK",
+    "punteggio": "58.42",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:43:15",
+    "nome": "Martin Lejsek",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "55.32",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:43:19",
+    "nome": "Signe Faber",
+    "societa": "OK Bomteknik",
+    "punteggio": "55.23",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:43:43",
+    "nome": "Göran Ohlsson",
+    "societa": "Tullinge SK",
+    "punteggio": "54.73",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:44:14",
+    "nome": "Michal Veljacik",
+    "societa": "OK Sparta Praha",
+    "punteggio": "54.09",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:44:51",
+    "nome": "Fanni Kocsis",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "66.15",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:45:04",
+    "nome": "Varsányi Attila",
+    "societa": "Veszpremi Honved Sportegyesulet",
+    "punteggio": "53.09",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:47:14",
+    "nome": "Mirja Pavić",
+    "societa": "OK Japetić",
+    "punteggio": "62.82",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:49:21",
+    "nome": "Lucile Chabance",
+    "societa": "Nature Orientation Saint Etienne",
+    "punteggio": "60.12",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:49:46",
+    "nome": "Erik Magnus Graae",
+    "societa": "Søllerød OK",
+    "punteggio": "48.07",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:50:01",
+    "nome": "Anne Johansson",
+    "societa": "OK Trian",
+    "punteggio": "59.32",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:50:03",
+    "nome": "Marin Philibert",
+    "societa": "Søllerød OK",
+    "punteggio": "47.80",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:51:57",
+    "nome": "Zsofia Kertesz",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "57.11",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:53:03",
+    "nome": "Barbora Dvorakova",
+    "societa": "Lucifer headlamps",
+    "punteggio": "55.93",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:53:40",
+    "nome": "Jānis Bernāns",
+    "societa": "Auseklis IK",
+    "punteggio": "44.58",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:53:42",
+    "nome": "Zuzana Wibmer",
+    "societa": "Haunold Orienteering Team",
+    "punteggio": "55.25",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:54:05",
+    "nome": "Johanna Honkanen",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "54.86",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:54:12",
+    "nome": "Aki Saranen",
+    "societa": "DT Pihkaniskat",
+    "punteggio": "44.14",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:55:55",
+    "nome": "Veera Kimpimäki",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "53.06",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:57:01",
+    "nome": "Gustavs Dubovs",
+    "societa": "Auseklis IK",
+    "punteggio": "41.96",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:57:49",
+    "nome": "Kathrin Kollndorfer",
+    "societa": "HSV OL Wiener Neustadt",
+    "punteggio": "51.32",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:57:57",
+    "nome": "Maddalena Zupin",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "51.20",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:59:12",
+    "nome": "Urša Štanfel",
+    "societa": "SRD Alpe Adria trek i trail",
+    "punteggio": "50.12",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:59:15",
+    "nome": "François Beerten",
+    "societa": "C.O.Liege",
+    "punteggio": "40.38",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:59:19",
+    "nome": "Mihály Laping",
+    "societa": "Watch Out Cluj",
+    "punteggio": "40.33",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:59:42",
+    "nome": "Federico Bucci",
+    "societa": "ASD Orsa Maggiore",
+    "punteggio": "40.08",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:00:01",
+    "nome": "Elmeri Wanne",
+    "societa": "Rasti-Hyry",
+    "punteggio": "39.86",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:00:26",
+    "nome": "Sabine Wareyka-Glaner",
+    "societa": "OJE Wappler",
+    "punteggio": "49.10",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:00:41",
+    "nome": "Zoltán Molnár",
+    "societa": "Watch Out Cluj",
+    "punteggio": "39.43",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:00:57",
+    "nome": "Kerstin Wessberg",
+    "societa": "Härlövs IF",
+    "punteggio": "39.25",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:01:39",
+    "nome": "Heimo Keränen",
+    "societa": "Rasti-Hyry",
+    "punteggio": "38.81",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:01:55",
+    "nome": "Hana Moudra",
+    "societa": "OK Sparta Praha",
+    "punteggio": "47.92",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:04:00",
+    "nome": "Marcus Geoghegan",
+    "societa": "Irish Rovers",
+    "punteggio": "37.38",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:04:08",
+    "nome": "Nanna Hvidberg Tofte",
+    "societa": "Odense OK",
+    "punteggio": "46.26",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:05:10",
+    "nome": "Jerome Jacobs",
+    "societa": "C.O.Liège",
+    "punteggio": "36.71",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:05:41",
+    "nome": "Noora Holappa",
+    "societa": "Espoon Suunta",
+    "punteggio": "45.17",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:08:17",
+    "nome": "Rafaela Campanha",
+    "societa": "Clube de Montanha do Funchal",
+    "punteggio": "43.45",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:08:33",
+    "nome": "Tomas Benes",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": "34.90",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:09:17",
+    "nome": "Jakob Wirtz",
+    "societa": "ORIENT'ALP",
+    "punteggio": "34.53",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:10:56",
+    "nome": "Danni Zhen",
+    "societa": "YCONE SENS",
+    "punteggio": "33.73",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:11:34",
+    "nome": "Jan Wessberg",
+    "societa": "Härlövs IF",
+    "punteggio": "33.43",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:12:06",
+    "nome": "Ditte Linde",
+    "societa": "Søllerød OK",
+    "punteggio": "41.15",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:12:16",
+    "nome": "Catherine Dupont",
+    "societa": "ASUB Orientation",
+    "punteggio": "41.06",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:13:02",
+    "nome": "Lauri Kimpimäki",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "40.63",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:13:37",
+    "nome": "Camille Bossard",
+    "societa": "Club Rennais de CO",
+    "punteggio": "40.30",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:21:22",
+    "nome": "Inese Miķelsone",
+    "societa": "Auseklis IK",
+    "punteggio": "36.46",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:23:49",
+    "nome": "Charles-edouard Massart",
+    "societa": "C.O.Liège",
+    "punteggio": "28.54",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:27:25",
+    "nome": "Martti Salonen",
+    "societa": "Loimaan Jankko",
+    "punteggio": "27.37",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:28:23",
+    "nome": "Maja Obid",
+    "societa": "OK Azimut",
+    "punteggio": "33.57",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:34:12",
+    "nome": "Marta Raituma",
+    "societa": "Auseklis IK",
+    "punteggio": "31.50",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:41:56",
+    "nome": "Valerie Meriguet",
+    "societa": "Guyancourt Orientation 78",
+    "punteggio": "29.11",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:43:30",
+    "nome": "Noémi Pusztai",
+    "societa": "Watch Out Cluj",
+    "punteggio": "28.67",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:44:43",
+    "nome": "Sebastian Geier",
+    "societa": "Der Berger-Clan",
+    "punteggio": "22.85",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:52:58",
+    "nome": "Wolfgang Schüller",
+    "societa": "Der Berger-Clan",
+    "punteggio": "21.18",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:39:30",
+    "nome": "Maribeth Rothwell",
+    "societa": "Grizzly Orienteering",
+    "punteggio": "18.60",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:39:38",
+    "nome": "Darrell Brown",
+    "societa": "Grizzly Orienteering",
+    "punteggio": "14.99",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:58:49",
+    "nome": "Ieva Epnere",
+    "societa": "Auseklis IK",
+    "punteggio": "16.59",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Urs Schmutz",
+    "societa": "Leksands OK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Markku Piittari",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Gosia Nedzi",
+    "societa": "CNOC",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Jonas Veljacik",
+    "societa": "OK Sparta Praha",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Catherine Duterage",
+    "societa": "Guyancourt Orientation 78",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Dace Bernāne",
+    "societa": "Auseklis IK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:30:26",
+    "nome": "Iris Skammelsen Gilleladen",
+    "societa": "OK Bomteknik",
+    "punteggio": "85.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:33:13",
+    "nome": "Pernille Prud'homme",
+    "societa": "Nature Orientation Saint Etienne",
+    "punteggio": "77.88",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:41:09",
+    "nome": "Dace Lubāne",
+    "societa": "Auseklis IK",
+    "punteggio": "85.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:43:18",
+    "nome": "Katerina Skripnikova",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": "59.74",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:45:59",
+    "nome": "William Mcgrail",
+    "societa": "OK Bomteknik",
+    "punteggio": "76.07",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:46:16",
+    "nome": "Ela Kuželová",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "55.91",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:50:32",
+    "nome": "Karsten Längerich",
+    "societa": "Allerød OrienteringsKlub",
+    "punteggio": "51.19",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:52:11",
+    "nome": "Milena Barca",
+    "societa": "GO Vallemaggia",
+    "punteggio": "49.57",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:54:11",
+    "nome": "Gaël Champ",
+    "societa": "Sud Médoc Orientation Gironde",
+    "punteggio": "64.55",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:57:52",
+    "nome": "Marcela Kovarikova",
+    "societa": "Lucifer headlamps",
+    "punteggio": "44.70",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:58:14",
+    "nome": "Nora Sophie Graasbøl Ødum",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "44.42",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:59:00",
+    "nome": "Robin Cermak",
+    "societa": "OK Sparta Praha",
+    "punteggio": "59.28",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:59:29",
+    "nome": "Dorisz Hajdu",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "58.80",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:59:31",
+    "nome": "Claudia Gulyás",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "43.46",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:59:39",
+    "nome": "Katarina Sedej",
+    "societa": "OK Azimut",
+    "punteggio": "43.37",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:00:12",
+    "nome": "Jessica Davies",
+    "societa": "DrongO",
+    "punteggio": "42.97",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:01:44",
+    "nome": "Eskild Spile",
+    "societa": "Odense OK",
+    "punteggio": "41.90",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:02:59",
+    "nome": "Karine Champ",
+    "societa": "Sud Médoc Orientation Gironde",
+    "punteggio": "41.07",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:03:38",
+    "nome": "Gilles Ravier",
+    "societa": "Course d'Orientation Coeur de Savoie",
+    "punteggio": "54.97",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:07:34",
+    "nome": "Josefina Klašková",
+    "societa": "Oddíl OB Kotlářka, z.s.",
+    "punteggio": "38.29",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:08:18",
+    "nome": "Anna Rita Bertolazzo",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "37.87",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:08:56",
+    "nome": "Janka Dienová",
+    "societa": "KOBRA Bratislava",
+    "punteggio": "37.53",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:09:20",
+    "nome": "Petra Kocsis",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "37.31",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:10:27",
+    "nome": "Brigitte Rapotz",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "36.72",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:16:41",
+    "nome": "Nicoleta Marian",
+    "societa": "Watch Out Cluj",
+    "punteggio": "33.73",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:18:56",
+    "nome": "Franco Bellotti",
+    "societa": "Orientalp SROD",
+    "punteggio": "44.31",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:19:32",
+    "nome": "Elisabeth Buschek",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "32.53",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:19:43",
+    "nome": "Pierre Ferrand",
+    "societa": "MBLO",
+    "punteggio": "43.88",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:27:38",
+    "nome": "Diana Kälin Bähler",
+    "societa": "Thurgorienta",
+    "punteggio": "29.52",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:30:50",
+    "nome": "Brady Brown",
+    "societa": "Grizzly Orienteering",
+    "punteggio": "38.51",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:32:31",
+    "nome": "Christine Teichmann",
+    "societa": "Sportunion Schöckl Graz",
+    "punteggio": "27.96",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:38:18",
+    "nome": "Dana Bernāne",
+    "societa": "Auseklis IK",
+    "punteggio": "26.32",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:45:16",
+    "nome": "Antonia Gittmaier",
+    "societa": "HSV Ried im Innkreis",
+    "punteggio": "24.57",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:47:20",
+    "nome": "Barbara Resch",
+    "societa": "Järfälla OK",
+    "punteggio": "24.10",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:48:23",
+    "nome": "Ellen Thisted",
+    "societa": "Søllerød OK",
+    "punteggio": "23.87",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:53:23",
+    "nome": "Catherine Causeret",
+    "societa": "Noyon Course d'Orientation",
+    "punteggio": "22.81",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:54:49",
+    "nome": "Perrine Brin",
+    "societa": "TRAILPHALIENS RAID",
+    "punteggio": "30.46",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:04:03",
+    "nome": "Aistė Petrevičienė",
+    "societa": "Fortuna OSK",
+    "punteggio": "28.20",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:06:07",
+    "nome": "Zsuzsa Török",
+    "societa": "Watch Out Cluj",
+    "punteggio": "20.51",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:20:13",
+    "nome": "Maha Moujtahid",
+    "societa": "Nature Orientation Saint Etienne",
+    "punteggio": "24.95",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:24:32",
+    "nome": "Mauro Spano",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "24.20",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:35:48",
+    "nome": "Sandi Kmetič",
+    "societa": "Zarana",
+    "punteggio": "22.45",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Thor Skammelsen Gilleladen",
+    "societa": "OK Bomteknik",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Kati Luffy",
+    "societa": "Watch Out Cluj",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Santina Doherty",
+    "societa": "GEN",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Kincső Szalontai",
+    "societa": "Balatonfüredi Sport Club",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:16:15",
+    "nome": "Anna Novotná",
+    "societa": "OK99 Hradec Králové",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:18:34",
+    "nome": "Olivia Ojapalo",
+    "societa": "Lynx",
+    "punteggio": "87.52",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:20:18",
+    "nome": "Felicita Priedīte",
+    "societa": "Auseklis IK",
+    "punteggio": "80.05",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:22:05",
+    "nome": "Selma Roth",
+    "societa": "OLC Winterthur",
+    "punteggio": "73.58",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:22:44",
+    "nome": "Sára Szőcs",
+    "societa": "Watch Out Cluj",
+    "punteggio": "71.48",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:23:12",
+    "nome": "Alžběta Kárníková",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "70.04",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:23:14",
+    "nome": "Lærke Skammelsen Gilleladen",
+    "societa": "OK Bomteknik",
+    "punteggio": "69.94",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:23:23",
+    "nome": "Beatrice Sessi",
+    "societa": "ASD-AŠZ GAJA Orienteering",
+    "punteggio": "69.49",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:24:33",
+    "nome": "Nora Branta",
+    "societa": "Auseklis IK",
+    "punteggio": "66.19",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:24:42",
+    "nome": "Alise Lubāne",
+    "societa": "Auseklis IK",
+    "punteggio": "65.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:27:30",
+    "nome": "Tara Grmovšek",
+    "societa": "MOK Pohorje",
+    "punteggio": "59.09",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:28:24",
+    "nome": "Juliette Huguet",
+    "societa": "ROMANS COURSE D'ORIENTATION",
+    "punteggio": "57.22",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:29:29",
+    "nome": "Karlīna Epnere",
+    "societa": "Auseklis IK",
+    "punteggio": "55.12",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:30:14",
+    "nome": "Paula Angermann",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "53.75",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:31:04",
+    "nome": "Penny Pinker-hull",
+    "societa": "Airienteers",
+    "punteggio": "52.31",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:31:19",
+    "nome": "Ana Leovac",
+    "societa": "OK Japetić",
+    "punteggio": "51.89",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:31:58",
+    "nome": "Annika Binder",
+    "societa": "SPORTUNION Klagenfurt",
+    "punteggio": "50.83",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:32:05",
+    "nome": "Zoé Gastineau",
+    "societa": "Balise 77 Fontainebleau Avon",
+    "punteggio": "50.65",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:33:24",
+    "nome": "Lucia Meizer",
+    "societa": "SPORTUNION Klagenfurt",
+    "punteggio": "48.65",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:34:35",
+    "nome": "Gro Linde",
+    "societa": "Søllerød OK",
+    "punteggio": "46.99",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:35:06",
+    "nome": "Imola Laping",
+    "societa": "Watch Out Cluj",
+    "punteggio": "46.30",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:38:00",
+    "nome": "Janni Holappa",
+    "societa": "Espoon Suunta",
+    "punteggio": "42.76",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:38:54",
+    "nome": "Maja Eva Voveris",
+    "societa": "Devyni OSK",
+    "punteggio": "41.77",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:39:51",
+    "nome": "Burkhart Levinia",
+    "societa": "OL Regio Wil",
+    "punteggio": "40.78",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:41:05",
+    "nome": "Lucia Ujvari",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "39.55",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:42:35",
+    "nome": "Lauren Simpson",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "38.16",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:42:59",
+    "nome": "Anna Hohenwarter",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "37.81",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:45:04",
+    "nome": "Náya Livia Krüger",
+    "societa": "Berliner Turnerschaft Korp. Turn- und Sportverein e.V.",
+    "punteggio": "36.06",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:46:36",
+    "nome": "Vilja Kimpimäki",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "34.87",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:47:06",
+    "nome": "Isabella Chemis",
+    "societa": "Wing OK",
+    "punteggio": "34.50",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:47:33",
+    "nome": "Anna Kurfürstová",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "34.17",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:54:27",
+    "nome": "Kateřina Redlichová",
+    "societa": "RBK Blansko",
+    "punteggio": "29.84",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "01:04:13",
+    "nome": "Fern Downing",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "25.30",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "01:05:06",
+    "nome": "Sophia Vassileva",
+    "societa": "CO2",
+    "punteggio": "24.96",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "01:07:27",
+    "nome": "Lara Pfarrwaller",
+    "societa": "OLC Winterthur",
+    "punteggio": "24.09",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:00:00",
+    "nome": "Lara Coletti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:00:00",
+    "nome": "Anka Duran García",
+    "societa": "Malarruta",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:00:00",
+    "nome": "Tereza Švihovská",
+    "societa": "Team Jizerky",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:33:10",
+    "nome": "Christina Smedberg",
+    "societa": "OK Skogsfalken",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:35:43",
+    "nome": "Päivi Lassila",
+    "societa": "DT Rastiimi",
+    "punteggio": "92.86",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:36:28",
+    "nome": "Maria Douglas",
+    "societa": "FIF Hillerod",
+    "punteggio": "90.95",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:37:11",
+    "nome": "Liisa Rihko-Struckmann",
+    "societa": "Braunschweiger MTV",
+    "punteggio": "89.20",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:37:32",
+    "nome": "Taina Louhivuori",
+    "societa": "Anttolan Urheilijat",
+    "punteggio": "88.37",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:39:08",
+    "nome": "Renate Lienhart",
+    "societa": "OLC Winterthur",
+    "punteggio": "84.75",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:40:48",
+    "nome": "Priska Curiger",
+    "societa": "OLC Kapreolo",
+    "punteggio": "81.29",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:42:03",
+    "nome": "Annika Von Schoultz",
+    "societa": "Bastholmens IF",
+    "punteggio": "78.87",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:42:37",
+    "nome": "Ildikó Mátyás",
+    "societa": "HSE Szentendre",
+    "punteggio": "77.83",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:43:15",
+    "nome": "Joli Wehrli",
+    "societa": "swissotours.ch",
+    "punteggio": "76.69",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:43:48",
+    "nome": "Mette Edsen",
+    "societa": "Nordvest ok",
+    "punteggio": "75.72",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:44:14",
+    "nome": "Anna-karin Sundqvist",
+    "societa": "Tullinge SK",
+    "punteggio": "74.98",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:45:14",
+    "nome": "Susanne Wenk",
+    "societa": "O-Explorer TG/ZH",
+    "punteggio": "73.32",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:46:12",
+    "nome": "Doris Gittmaier",
+    "societa": "HSV Ried im Innkreis",
+    "punteggio": "71.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:46:32",
+    "nome": "Annelli Sandbaek",
+    "societa": "OK Pan Aarhus - Hauerslev",
+    "punteggio": "71.28",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:48:06",
+    "nome": "Nathalie Bouche",
+    "societa": "Animation Sillery Orientation",
+    "punteggio": "68.95",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:48:51",
+    "nome": "Tuija Jurvakainen",
+    "societa": "Rasti-Hyry",
+    "punteggio": "67.89",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:48:59",
+    "nome": "Jackie Butt",
+    "societa": "Balker",
+    "punteggio": "67.71",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:50:43",
+    "nome": "Inger Simonsen",
+    "societa": "Silkeborg OK",
+    "punteggio": "65.40",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:51:29",
+    "nome": "Cristina Ruini",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "64.42",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:52:48",
+    "nome": "Irene Gassner",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "62.82",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:54:33",
+    "nome": "Anne Svantesson",
+    "societa": "Hjärnarps OL",
+    "punteggio": "60.80",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:55:09",
+    "nome": "Roswitha Micko",
+    "societa": "Gruppe Orientierungs-Sport Harzberg",
+    "punteggio": "60.14",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:55:57",
+    "nome": "Bernadette Govaerts",
+    "societa": "LOST",
+    "punteggio": "59.28",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:57:30",
+    "nome": "Laurence Champigny",
+    "societa": "ACA Aix Provence",
+    "punteggio": "57.68",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:58:35",
+    "nome": "Toril Hallan",
+    "societa": "Lillomarka o-lag",
+    "punteggio": "56.61",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:59:27",
+    "nome": "Regina Ježková",
+    "societa": "SK Praga",
+    "punteggio": "55.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:04:46",
+    "nome": "Hildegard Scherr",
+    "societa": "HSV Spittal/Drau",
+    "punteggio": "51.21",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:07:35",
+    "nome": "Annick Rouserez",
+    "societa": "ASUB Orientation",
+    "punteggio": "49.08",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:09:31",
+    "nome": "Nicoletta Dutly",
+    "societa": "GO Vallemaggia",
+    "punteggio": "47.71",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:09:58",
+    "nome": "Véronique Bolzer",
+    "societa": "Sports Orientation Lunéville",
+    "punteggio": "47.40",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:11:53",
+    "nome": "Claire Muyllaert",
+    "societa": "ASUB Orientation",
+    "punteggio": "46.14",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:14:57",
+    "nome": "Catherine Coulier",
+    "societa": "LUBO",
+    "punteggio": "44.25",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:15:02",
+    "nome": "Rosário Matias",
+    "societa": "Lisboa OK",
+    "punteggio": "44.20",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:15:48",
+    "nome": "Edith Bridcut",
+    "societa": "GEN",
+    "punteggio": "43.76",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:23:04",
+    "nome": "Adriana Flórez-estrada Mallart",
+    "societa": "CLUB RIOJANO DE ORIENTACION EN LA NATURALEZA",
+    "punteggio": "39.93",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:25:56",
+    "nome": "Odile Poulain",
+    "societa": "ASUB Orientation",
+    "punteggio": "38.60",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:35:59",
+    "nome": "Ursula Wolf",
+    "societa": "OLG Davos",
+    "punteggio": "34.55",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:50:02",
+    "nome": "Myriam Stewart",
+    "societa": "Valbonne Sophia Antipolis Orientation",
+    "punteggio": "30.14",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "02:25:21",
+    "nome": "Prisca Guglielmetti",
+    "societa": "GO Vallemaggia",
+    "punteggio": "22.82",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Gerhild Pacher",
+    "societa": "Sportunion Schöckl Graz",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Marketa Veljacikova",
+    "societa": "OK Sparta Praha",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Sylvie Marchesin",
+    "societa": "SCAPA NANCY ORIENTATION",
+    "punteggio": 0,
+    "femmina": true
+  }
+]
+    },
+    {nome:"18) Orange Cup Day 2 28/07",
+     dati: [
+  {
+    "categoria": "M14",
+    "tempo": "00:27:10",
+    "nome": "Matěj Janata",
+    "societa": "Kotlářka Jablonec Jilemnice",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:30:54",
+    "nome": "Ondřej Lučan",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "87.92",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:31:33",
+    "nome": "Kristaps Krumins",
+    "societa": "Briksnis - Latvia",
+    "punteggio": "86.11",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:32:17",
+    "nome": "Max Jonas Obczovsky",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": "84.15",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:32:48",
+    "nome": "Kobe Deferm",
+    "societa": "hamok",
+    "punteggio": "82.83",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:33:49",
+    "nome": "Tim Rothauer",
+    "societa": "ASKÖ Henndorf Orienteering",
+    "punteggio": "80.34",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:35:12",
+    "nome": "Timotejs Janovs",
+    "societa": "Siguldas Takas",
+    "punteggio": "77.18",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:35:26",
+    "nome": "Antonin Variot",
+    "societa": "Club Orientation Ambérieu",
+    "punteggio": "76.67",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:35:39",
+    "nome": "Tiago Gastineau",
+    "societa": "Balise 77 Fontainebleau Avon",
+    "punteggio": "76.20",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:36:38",
+    "nome": "Gustavs Lass",
+    "societa": "Auseklis IK",
+    "punteggio": "74.16",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:36:49",
+    "nome": "Gustavs Arnicans",
+    "societa": "OK Kapa",
+    "punteggio": "73.79",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:37:36",
+    "nome": "Tom Flandrin",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "72.25",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:38:25",
+    "nome": "Jonáš Kužel",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "70.72",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:38:43",
+    "nome": "Joosep Tali",
+    "societa": "Harju Orienteerumisklubi",
+    "punteggio": "70.17",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:38:46",
+    "nome": "Lasse Brunstedt Jacobsen",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "70.08",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:38:47",
+    "nome": "David Kaltenbacher",
+    "societa": "HSV OL Wiener Neustadt",
+    "punteggio": "70.05",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:39:18",
+    "nome": "Ivan Zhuravlev",
+    "societa": "Devyni OSK",
+    "punteggio": "69.13",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:39:19",
+    "nome": "Markus Ban",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": "69.10",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:39:34",
+    "nome": "Vítek Antoš",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "68.66",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:39:37",
+    "nome": "Jonin Burkhart",
+    "societa": "OL Regio Wil",
+    "punteggio": "68.57",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:39:42",
+    "nome": "Leo Ryapolov",
+    "societa": "IFK Mora OK",
+    "punteggio": "68.43",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:39:50",
+    "nome": "Emil Skouenborg",
+    "societa": "OK Bomteknik",
+    "punteggio": "68.20",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:41:20",
+    "nome": "Jon Gürtler",
+    "societa": "OLC Winterthur",
+    "punteggio": "65.73",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:41:46",
+    "nome": "Adam Prins",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "65.04",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:42:03",
+    "nome": "Kārlis Poikāns",
+    "societa": "Auseklis IK",
+    "punteggio": "64.61",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:42:29",
+    "nome": "Alexander Baur",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": "63.95",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:42:56",
+    "nome": "Viesturs Jaudzems",
+    "societa": "Auseklis IK",
+    "punteggio": "63.28",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:44:07",
+    "nome": "Jakob Wälti",
+    "societa": "OLC Winterthur",
+    "punteggio": "61.58",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:44:08",
+    "nome": "Magnus Oscar Søes",
+    "societa": "OK Bomteknik",
+    "punteggio": "61.56",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:44:30",
+    "nome": "Jakub Udrzal",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "61.05",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:44:33",
+    "nome": "Benjamin Kaljikovic",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": "60.98",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:44:58",
+    "nome": "Florian Mauschitz",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": "60.42",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:45:28",
+    "nome": "Nolan Bialou",
+    "societa": "NORD58",
+    "punteggio": "59.75",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:49:23",
+    "nome": "Lucas Mcgrail",
+    "societa": "OK Bomteknik",
+    "punteggio": "55.01",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:50:32",
+    "nome": "Manuel García Gómez",
+    "societa": "COMA",
+    "punteggio": "53.76",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:51:52",
+    "nome": "Erik Bruns",
+    "societa": "MTK Bad Harzburg",
+    "punteggio": "52.38",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:51:55",
+    "nome": "Cillian Lynch",
+    "societa": "Lagan Valley Orienteers",
+    "punteggio": "52.33",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:52:32",
+    "nome": "Léo Ruiz",
+    "societa": "balise orientation albigeoise",
+    "punteggio": "51.71",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:52:48",
+    "nome": "Tobias Hohenwarter",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "51.45",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:53:19",
+    "nome": "Adam Imriska",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "50.95",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:53:48",
+    "nome": "Daniel Švihovský",
+    "societa": "Team Jizerky",
+    "punteggio": "50.50",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:54:08",
+    "nome": "Raimonds Saklaurs",
+    "societa": "OK Kapa",
+    "punteggio": "50.18",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:55:36",
+    "nome": "Etienne Hohl",
+    "societa": "GO Vallemaggia",
+    "punteggio": "48.86",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:58:33",
+    "nome": "Diego Segre",
+    "societa": "Villeneuve d'Ascq Lille Métropole Orientation",
+    "punteggio": "46.40",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:01:43",
+    "nome": "Marc Maier",
+    "societa": "SPORTUNION Klagenfurt",
+    "punteggio": "44.02",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:02:38",
+    "nome": "Martinien Moxhet",
+    "societa": "CO Liège",
+    "punteggio": "43.37",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:03:12",
+    "nome": "Leo Reindl",
+    "societa": "SPORTUNION Klagenfurt",
+    "punteggio": "42.99",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:05:11",
+    "nome": "Félix Gillet",
+    "societa": "C.O.Liège",
+    "punteggio": "41.68",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:12:06",
+    "nome": "Isak Graasbøl Ødum",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "37.68",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:21:25",
+    "nome": "Emanuel Decorti",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "33.37",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:40:00",
+    "nome": "Fabian Wernersson",
+    "societa": "Järfälla OK",
+    "punteggio": "27.17",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Valentin Angermann",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Jakob Sandrisser",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Theodor Barton",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Laurin Fritschi",
+    "societa": "OLC Winterthur",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Maël Durand",
+    "societa": "Balise 63",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Giulio Coletti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Samuel Saranen",
+    "societa": "DT Helsingin Suunistajat",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Jack Baxter",
+    "societa": "South Yorkshire Orienteers",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:51:19",
+    "nome": "Tomáš Fibír",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:51:37",
+    "nome": "Fabien Pasquasy",
+    "societa": "O'Team Besançon",
+    "punteggio": "99.42",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:52:56",
+    "nome": "Rune Nygaard Monrad",
+    "societa": "OK Bomteknik",
+    "punteggio": "96.95",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:53:14",
+    "nome": "Thomas Antoine",
+    "societa": "L'Etabli",
+    "punteggio": "96.40",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:53:15",
+    "nome": "Jiří Novák",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "96.37",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:54:34",
+    "nome": "Bernhard Fink",
+    "societa": "ASKÖ Henndorf Orienteering",
+    "punteggio": "94.04",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:55:20",
+    "nome": "Michael Hohenwarter",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "92.74",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:55:35",
+    "nome": "Boris Granovskiy",
+    "societa": "Grizzly Orienteering",
+    "punteggio": "92.32",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:55:50",
+    "nome": "Fredrik Persson",
+    "societa": "Wing OK",
+    "punteggio": "91.91",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:56:06",
+    "nome": "Filip Antoš",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "91.47",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:56:54",
+    "nome": "Ludovic Ruiz",
+    "societa": "balise orientation albigeoise",
+    "punteggio": "90.19",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:58:07",
+    "nome": "Toni Pikkarainen",
+    "societa": "Helsingin Suunnistajat",
+    "punteggio": "88.30",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:59:12",
+    "nome": "Blaž Kölner",
+    "societa": "Orientacijski klub Komenda",
+    "punteggio": "86.68",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:59:32",
+    "nome": "Andreas Hinder",
+    "societa": "OLC Winterthur",
+    "punteggio": "86.20",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:00:07",
+    "nome": "Michael Sørensen",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "85.36",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:00:54",
+    "nome": "Pierre Kaltenbacher",
+    "societa": "HSV OL Wiener Neustadt",
+    "punteggio": "84.26",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:01:23",
+    "nome": "Thomas Radon",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "83.60",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:02:48",
+    "nome": "Cyril Herve",
+    "societa": "ASM CO",
+    "punteggio": "81.71",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:02:54",
+    "nome": "Markus König",
+    "societa": "ASKÖ Henndorf Orienteering",
+    "punteggio": "81.58",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:03:22",
+    "nome": "Rolf Reubi",
+    "societa": "Thurgorienta",
+    "punteggio": "80.98",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:04:50",
+    "nome": "Frédéric Parquet",
+    "societa": "Vikazim",
+    "punteggio": "79.15",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:04:52",
+    "nome": "Juris Dzenitis",
+    "societa": "OK Meridians",
+    "punteggio": "79.11",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:06:35",
+    "nome": "Ondrej Skripnik",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": "77.07",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:06:59",
+    "nome": "Johan Hedman",
+    "societa": "Söders Orientering Tyresö",
+    "punteggio": "76.61",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:08:00",
+    "nome": "Nicolas Guilbert",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "75.47",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:08:30",
+    "nome": "Tõnis Kruusmaa",
+    "societa": "Rakvere Orienteeringclub",
+    "punteggio": "74.91",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:08:33",
+    "nome": "Pavel Kurfürst",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "74.86",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:09:40",
+    "nome": "Jan Kárník",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "73.66",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:09:44",
+    "nome": "Clément Serret",
+    "societa": "US CENON course d'orientation",
+    "punteggio": "73.59",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:10:01",
+    "nome": "Tomas Zemla",
+    "societa": "OK Kamenice",
+    "punteggio": "73.29",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:10:40",
+    "nome": "Tomáš Kužel",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "72.62",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:11:16",
+    "nome": "Karel Nitsch",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "72.01",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:11:42",
+    "nome": "David Currie",
+    "societa": "Southampton Orienteering Club",
+    "punteggio": "71.57",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:12:17",
+    "nome": "Paulius Markovas",
+    "societa": "OK \"Perkunas\"",
+    "punteggio": "70.99",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:12:50",
+    "nome": "Karlis Prieditis",
+    "societa": "Auseklis IK",
+    "punteggio": "70.46",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:13:35",
+    "nome": "Valdis Janovs",
+    "societa": "Siguldas Takas",
+    "punteggio": "69.74",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:15:04",
+    "nome": "Sergey Churkin",
+    "societa": "Orientacijski klub Komenda",
+    "punteggio": "68.36",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:15:39",
+    "nome": "Salvador Perez Piqueras",
+    "societa": "Desorientados",
+    "punteggio": "67.83",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:18:16",
+    "nome": "Sebastiano Pollock",
+    "societa": "GO Vallemaggia",
+    "punteggio": "65.57",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:18:16",
+    "nome": "Mantas Rimkus",
+    "societa": "Azuolas",
+    "punteggio": "65.57",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:18:18",
+    "nome": "Simon Philibert",
+    "societa": "Søllerød OK",
+    "punteggio": "65.54",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:20:09",
+    "nome": "Ilmārs Miķelsons",
+    "societa": "Auseklis IK",
+    "punteggio": "64.03",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:21:13",
+    "nome": "Branimir Pongrac",
+    "societa": "OK Japetić",
+    "punteggio": "63.18",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:22:56",
+    "nome": "Mateo Vijande",
+    "societa": "Malarruta",
+    "punteggio": "61.88",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:23:06",
+    "nome": "Gauthier Flandrin",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "61.75",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:23:53",
+    "nome": "Gregory Prins",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "61.18",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:24:02",
+    "nome": "Nick Downing",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "61.07",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:24:30",
+    "nome": "Benjamin Variot",
+    "societa": "Club Orientation Ambérieu",
+    "punteggio": "60.73",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:24:56",
+    "nome": "Pablo Barreiro",
+    "societa": "Raza Palleira",
+    "punteggio": "60.42",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:26:51",
+    "nome": "Alan O'Donnell",
+    "societa": "Fingal Orienteers",
+    "punteggio": "59.09",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:27:15",
+    "nome": "Zoltán Weibl",
+    "societa": "Dva Kuku Orienteering",
+    "punteggio": "58.82",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:28:27",
+    "nome": "Niklas Wernersson",
+    "societa": "Järfälla OK",
+    "punteggio": "58.02",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:29:16",
+    "nome": "Antonio Domínguez Portas",
+    "societa": "Raza Palleira",
+    "punteggio": "57.49",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:29:30",
+    "nome": "David Alcock",
+    "societa": "Airienteers",
+    "punteggio": "57.34",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:29:50",
+    "nome": "Francois Huguet",
+    "societa": "ROMANS COURSE D'ORIENTATION",
+    "punteggio": "57.12",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:31:05",
+    "nome": "Christoph Gürtler",
+    "societa": "OLC Winterthur",
+    "punteggio": "56.34",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:33:38",
+    "nome": "Kristaps Epners",
+    "societa": "Auseklis IK",
+    "punteggio": "54.81",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:33:53",
+    "nome": "Andrius Jasiunas",
+    "societa": "OSK Šilas",
+    "punteggio": "54.66",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:34:02",
+    "nome": "Isaak Klieber",
+    "societa": "OL Zimmerberg",
+    "punteggio": "54.57",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:34:56",
+    "nome": "Tamás Máthé",
+    "societa": "Balatonfüredi Sport Club",
+    "punteggio": "54.06",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:35:45",
+    "nome": "Francisco Sáez García",
+    "societa": "Desorientados",
+    "punteggio": "53.59",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:36:17",
+    "nome": "Laurent Mouchette",
+    "societa": "Course d'orientation des pierres dorées",
+    "punteggio": "53.30",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:37:06",
+    "nome": "Andreas Binkert",
+    "societa": "OLC Winterthur",
+    "punteggio": "52.85",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:37:39",
+    "nome": "Valdas Lelkaitis",
+    "societa": "Fortuna OSK",
+    "punteggio": "52.55",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:38:34",
+    "nome": "Jose Puche Madrid",
+    "societa": "Desorientados",
+    "punteggio": "52.06",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:42:59",
+    "nome": "Martin Angermann",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "49.83",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:43:15",
+    "nome": "Cédric Chevalier",
+    "societa": "Brivelimousinco",
+    "punteggio": "49.70",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:47:16",
+    "nome": "Hannes Wenzel",
+    "societa": "OLC Union Viktring",
+    "punteggio": "47.84",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:50:17",
+    "nome": "Gatis Ribaks",
+    "societa": "Auseklis IK",
+    "punteggio": "46.53",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:59:18",
+    "nome": "Peter Sigvardt",
+    "societa": "Odense OK",
+    "punteggio": "43.01",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:00:09",
+    "nome": "Cédric Humbert",
+    "societa": "TOULON SPORTS NATURE",
+    "punteggio": "42.71",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:01:58",
+    "nome": "László Iván",
+    "societa": "MOM Budapest",
+    "punteggio": "42.07",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:14:14",
+    "nome": "José Joaquín Montero Moya",
+    "societa": "Desorientados",
+    "punteggio": "38.23",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:19:47",
+    "nome": "Antoine Safin",
+    "societa": "C.O.Liège",
+    "punteggio": "36.71",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:37:18",
+    "nome": "Erik Zannier",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "32.62",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:37:35",
+    "nome": "Fabien Jouanillou",
+    "societa": "AbsoluRaid Occitanie",
+    "punteggio": "32.56",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:42:41",
+    "nome": "Gaspard Lafarge",
+    "societa": "O'Bugey",
+    "punteggio": "31.54",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:44:11",
+    "nome": "Leon Ricketts",
+    "societa": "Airienteers",
+    "punteggio": "31.26",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Sam Deferm",
+    "societa": "hamok",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Miroslav Kadane",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Iván Antonio Gálvez Muñoz",
+    "societa": "COMA",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Ronny Krüger",
+    "societa": "Berliner Turnerschaft Korp. Turn- und Sportverein e.V.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:12:30",
+    "nome": "Jari Johansson",
+    "societa": "OK Trian",
+    "punteggio": "95.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:13:29",
+    "nome": "Erik Hajdu",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "93.73",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:17:05",
+    "nome": "Nico Laško",
+    "societa": "Belgian Big Fat Guys",
+    "punteggio": "89.35",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:26:34",
+    "nome": "Adrián Tóth",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "79.56",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:32:42",
+    "nome": "Nicolo Venuti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "74.30",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:36:50",
+    "nome": "Claudia Rooman",
+    "societa": "Belgian Big Fat Guys",
+    "punteggio": "95.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:40:27",
+    "nome": "Petr Dvorak",
+    "societa": "Lucifer headlamps",
+    "punteggio": "68.57",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:49:12",
+    "nome": "Tommy Bouchet",
+    "societa": "TRAILPHALIENS RAID",
+    "punteggio": "63.07",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:01:42",
+    "nome": "Bence Turschl",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "75.59",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:04:16",
+    "nome": "Magda Horová",
+    "societa": "Universitni Sportovni Klub Praha",
+    "punteggio": "74.03",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:11:17",
+    "nome": "Audrey Ehanno",
+    "societa": "Balise 63",
+    "punteggio": "52.46",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:12:48",
+    "nome": "Alessia Albano",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "69.27",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:20:42",
+    "nome": "Jan Valeš",
+    "societa": "Team Jizerky",
+    "punteggio": "48.95",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:33:11",
+    "nome": "Anna Clementi",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "60.05",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:45:20",
+    "nome": "Javier Flores",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "41.66",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "03:45:10",
+    "nome": "Anne Soumoy",
+    "societa": "ASUB Orientation",
+    "punteggio": "40.85",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "03:45:25",
+    "nome": "Christian Nameche",
+    "societa": "ASUB Orientation",
+    "punteggio": "30.55",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:00:00",
+    "nome": "Enrico Pascatti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:00:00",
+    "nome": "Vladimír Hora",
+    "societa": "Universitni Sportovni Klub Praha",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:00:00",
+    "nome": "Korinna Tóth",
+    "societa": "Salgótarjáni Dornyay SE",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:48:15",
+    "nome": "Martin Lejsek",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "90.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:52:58",
+    "nome": "Kasper Tofte",
+    "societa": "Odense OK",
+    "punteggio": "81.99",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:53:31",
+    "nome": "Göran Ohlsson",
+    "societa": "Tullinge SK",
+    "punteggio": "81.14",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:53:43",
+    "nome": "Barbora Dvorakova",
+    "societa": "Lucifer headlamps",
+    "punteggio": "90.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:54:53",
+    "nome": "Georg jun. Gittmaier",
+    "societa": "HSV Ried im Innkreis",
+    "punteggio": "79.12",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:56:02",
+    "nome": "László Faggyas",
+    "societa": "Veszpremi Honved Sportegyesulet",
+    "punteggio": "77.50",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:02:01",
+    "nome": "Signe Faber",
+    "societa": "OK Bomteknik",
+    "punteggio": "70.02",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:02:50",
+    "nome": "Dace Bernāne",
+    "societa": "Auseklis IK",
+    "punteggio": "69.11",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:03:55",
+    "nome": "Aki Saranen",
+    "societa": "DT Pihkaniskat",
+    "punteggio": "67.94",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:05:21",
+    "nome": "Péter Gyurcsik",
+    "societa": "Göcsej KTFE",
+    "punteggio": "66.45",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:06:43",
+    "nome": "Lucile Chabance",
+    "societa": "Nature Orientation Saint Etienne",
+    "punteggio": "72.46",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:06:52",
+    "nome": "Maddalena Zupin",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "72.30",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:10:17",
+    "nome": "Gustavs Dubovs",
+    "societa": "Auseklis IK",
+    "punteggio": "61.79",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:10:42",
+    "nome": "Wai Nang Chung",
+    "societa": "Hong Kong Orienteering Club",
+    "punteggio": "68.38",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:11:13",
+    "nome": "Michal Veljacik",
+    "societa": "OK Sparta Praha",
+    "punteggio": "60.98",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:13:49",
+    "nome": "Urša Štanfel",
+    "societa": "SRD Alpe Adria trek i trail",
+    "punteggio": "65.49",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:15:06",
+    "nome": "Marin Philibert",
+    "societa": "Søllerød OK",
+    "punteggio": "57.82",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:19:39",
+    "nome": "Patrick Buchberger",
+    "societa": "Der Berger-Clan",
+    "punteggio": "54.52",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:19:44",
+    "nome": "Zuzana Wibmer",
+    "societa": "Haunold Orienteering Team",
+    "punteggio": "60.63",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:19:47",
+    "nome": "Anne Johansson",
+    "societa": "OK Trian",
+    "punteggio": "60.60",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:20:04",
+    "nome": "Tomas Benes",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": "54.24",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:22:37",
+    "nome": "Jaka Pišljar",
+    "societa": "Orientacijski Klub Polaris",
+    "punteggio": "58.52",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:23:37",
+    "nome": "Kerstin Wessberg",
+    "societa": "Härlövs IF",
+    "punteggio": "51.93",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:24:42",
+    "nome": "Noora Holappa",
+    "societa": "Espoon Suunta",
+    "punteggio": "57.08",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:27:04",
+    "nome": "Nanna Hvidberg Tofte",
+    "societa": "Odense OK",
+    "punteggio": "55.53",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:27:04",
+    "nome": "Heimo Keränen",
+    "societa": "Rasti-Hyry",
+    "punteggio": "49.88",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:29:22",
+    "nome": "François Beerten",
+    "societa": "C.O.Liege",
+    "punteggio": "48.59",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:30:10",
+    "nome": "Jan Wessberg",
+    "societa": "Härlövs IF",
+    "punteggio": "48.16",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:33:16",
+    "nome": "Erik Magnus Graae",
+    "societa": "Søllerød OK",
+    "punteggio": "46.56",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:39:01",
+    "nome": "Jānis Bernāns",
+    "societa": "Auseklis IK",
+    "punteggio": "43.86",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:39:10",
+    "nome": "Jakob Wirtz",
+    "societa": "ORIENT'ALP",
+    "punteggio": "43.79",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:41:05",
+    "nome": "Fanni Kocsis",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "47.83",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:43:23",
+    "nome": "Charles-edouard Massart",
+    "societa": "C.O.Liège",
+    "punteggio": "42.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:46:58",
+    "nome": "Man Wai Lee",
+    "societa": "Hong Kong Orienteering Club",
+    "punteggio": "40.60",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:48:18",
+    "nome": "Inese Miķelsone",
+    "societa": "Auseklis IK",
+    "punteggio": "44.64",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:49:56",
+    "nome": "Wai Kay Law",
+    "societa": "Hong Kong Orienteering Club",
+    "punteggio": "39.50",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:50:48",
+    "nome": "Ditte Linde",
+    "societa": "Søllerød OK",
+    "punteggio": "43.63",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:52:47",
+    "nome": "Hana Moudra",
+    "societa": "OK Sparta Praha",
+    "punteggio": "42.87",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:00:11",
+    "nome": "Timo Määttä",
+    "societa": "Rasti-Hyry",
+    "punteggio": "36.13",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:01:36",
+    "nome": "Kaija Ruotsalainen",
+    "societa": "Rasti-Hyry",
+    "punteggio": "39.76",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:03:45",
+    "nome": "Camille Bossard",
+    "societa": "Club Rennais de CO",
+    "punteggio": "39.07",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:05:06",
+    "nome": "Valerie Meriguet",
+    "societa": "Guyancourt Orientation 78",
+    "punteggio": "38.65",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:07:26",
+    "nome": "Sebastian Geier",
+    "societa": "Der Berger-Clan",
+    "punteggio": "34.08",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:08:27",
+    "nome": "Wolfgang Schüller",
+    "societa": "Der Berger-Clan",
+    "punteggio": "33.81",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:10:15",
+    "nome": "Jerome Jacobs",
+    "societa": "C.O.Liège",
+    "punteggio": "33.34",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:14:02",
+    "nome": "Catherine Dupont",
+    "societa": "ASUB Orientation",
+    "punteggio": "36.07",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:14:32",
+    "nome": "Stéphanie Henry",
+    "societa": "CLUB ORIENTATION STRASBOURG EUROPE",
+    "punteggio": "35.94",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:16:07",
+    "nome": "Martti Salonen",
+    "societa": "Loimaan Jankko",
+    "punteggio": "35.52",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:19:57",
+    "nome": "Maribeth Rothwell",
+    "societa": "Grizzly Orienteering",
+    "punteggio": "34.54",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "03:13:40",
+    "nome": "Esben Linde",
+    "societa": "Søllerød OK",
+    "punteggio": "24.96",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Kathrin Kollndorfer",
+    "societa": "HSV OL Wiener Neustadt",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Varsányi Attila",
+    "societa": "Veszpremi Honved Sportegyesulet",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Adrienne Brandi",
+    "societa": "Corsaorientamento Club Roma",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Rafaela Campanha",
+    "societa": "Clube de Montanha do Funchal",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Gosia Nedzi",
+    "societa": "CNOC",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Jonas Veljacik",
+    "societa": "OK Sparta Praha",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Catherine Duterage",
+    "societa": "Guyancourt Orientation 78",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Marta Raituma",
+    "societa": "Auseklis IK",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Claudia Rooman",
+    "societa": "Belgian Big Fat Guys",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Federico Bucci",
+    "societa": "ASD Orsa Maggiore",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Darrell Brown",
+    "societa": "Grizzly Orienteering",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Ieva Epnere",
+    "societa": "Auseklis IK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:35:29",
+    "nome": "William Mcgrail",
+    "societa": "OK Bomteknik",
+    "punteggio": "85.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:41:08",
+    "nome": "Jessica Davies",
+    "societa": "DrongO",
+    "punteggio": "85.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:42:22",
+    "nome": "Pernille Prud'homme",
+    "societa": "Nature Orientation Saint Etienne",
+    "punteggio": "71.19",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:46:14",
+    "nome": "Iris Skammelsen Gilleladen",
+    "societa": "OK Bomteknik",
+    "punteggio": "75.62",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:47:33",
+    "nome": "Katerina Skripnikova",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": "73.53",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:47:53",
+    "nome": "Eskild Spile",
+    "societa": "Odense OK",
+    "punteggio": "62.99",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:48:01",
+    "nome": "Dace Lubāne",
+    "societa": "Auseklis IK",
+    "punteggio": "62.81",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:51:11",
+    "nome": "Thor Skammelsen Gilleladen",
+    "societa": "OK Bomteknik",
+    "punteggio": "58.93",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:53:29",
+    "nome": "Janka Dienová",
+    "societa": "KOBRA Bratislava",
+    "punteggio": "65.37",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:06:42",
+    "nome": "Brigitte Rapotz",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "52.42",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:07:38",
+    "nome": "Kincső Szalontai",
+    "societa": "Balatonfüredi Sport Club",
+    "punteggio": "44.59",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:07:55",
+    "nome": "Marcela Kovarikova",
+    "societa": "Lucifer headlamps",
+    "punteggio": "51.48",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:09:40",
+    "nome": "Robin Cermak",
+    "societa": "OK Sparta Praha",
+    "punteggio": "43.29",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:12:11",
+    "nome": "Christine Teichmann",
+    "societa": "Sportunion Schöckl Graz",
+    "punteggio": "48.44",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:15:58",
+    "nome": "Brady Brown",
+    "societa": "Grizzly Orienteering",
+    "punteggio": "39.70",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:18:07",
+    "nome": "Milena Barca",
+    "societa": "GO Vallemaggia",
+    "punteggio": "44.76",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:19:21",
+    "nome": "Pierre Ferrand",
+    "societa": "MBLO",
+    "punteggio": "38.01",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:21:06",
+    "nome": "Daniel Fogelmark",
+    "societa": "OK Södertörn",
+    "punteggio": "37.19",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:21:22",
+    "nome": "Mauro Spano",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "37.07",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:21:33",
+    "nome": "Claudia Gulyás",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "42.87",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:21:37",
+    "nome": "Petra Kocsis",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "42.84",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:24:05",
+    "nome": "Anna Rita Bertolazzo",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "41.58",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:24:49",
+    "nome": "Elisabeth Buschek",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "41.22",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:24:55",
+    "nome": "Aistė Petrevičienė",
+    "societa": "Fortuna OSK",
+    "punteggio": "41.17",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:24:56",
+    "nome": "Gaël Champ",
+    "societa": "Sud Médoc Orientation Gironde",
+    "punteggio": "35.51",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:29:03",
+    "nome": "Josefina Klašková",
+    "societa": "Oddíl OB Kotlářka, z.s.",
+    "punteggio": "39.26",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:39:07",
+    "nome": "Karine Champ",
+    "societa": "Sud Médoc Orientation Gironde",
+    "punteggio": "35.27",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:39:53",
+    "nome": "Dana Bernāne",
+    "societa": "Auseklis IK",
+    "punteggio": "35.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:41:57",
+    "nome": "Ilze Gilla",
+    "societa": "Auseklis IK",
+    "punteggio": "34.29",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:54:12",
+    "nome": "Nora Sophie Graasbøl Ødum",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "30.62",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:06:17",
+    "nome": "Barbara Resch",
+    "societa": "Järfälla OK",
+    "punteggio": "27.69",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:07:45",
+    "nome": "Maha Moujtahid",
+    "societa": "Nature Orientation Saint Etienne",
+    "punteggio": "27.37",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:20:20",
+    "nome": "Ellen Thisted",
+    "societa": "Søllerød OK",
+    "punteggio": "24.91",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:38:04",
+    "nome": "Sandi Kmetič",
+    "societa": "Zarana",
+    "punteggio": "19.08",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Catherine Causeret",
+    "societa": "Noyon Course d'Orientation",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Gilles Ravier",
+    "societa": "Course d'Orientation Coeur de Savoie",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Diana Kälin Bähler",
+    "societa": "Thurgorienta",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Perrine Brin",
+    "societa": "TRAILPHALIENS RAID",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Santina Doherty",
+    "societa": "GEN",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Antonia Gittmaier",
+    "societa": "HSV Ried im Innkreis",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:42:02",
+    "nome": "Lucie Rothauer",
+    "societa": "ASKÖ Henndorf Orienteering",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:42:58",
+    "nome": "Mojca Flerin Drevenšek",
+    "societa": "Kamniški orientacijski klub",
+    "punteggio": "97.83",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:44:37",
+    "nome": "Greet Oeyen",
+    "societa": "hamok",
+    "punteggio": "94.21",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:48:54",
+    "nome": "Kim Baxter",
+    "societa": "South Yorkshire Orienteers",
+    "punteggio": "85.96",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:50:07",
+    "nome": "Aline Hermans",
+    "societa": "C.O.Liège",
+    "punteggio": "83.87",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:50:46",
+    "nome": "Katarina Lenander",
+    "societa": "Växjö OK",
+    "punteggio": "82.80",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:51:40",
+    "nome": "Catherine Wilson",
+    "societa": "Pendle Forest Orienteers",
+    "punteggio": "81.35",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:52:30",
+    "nome": "Astrid Fritschi",
+    "societa": "OLC Winterthur",
+    "punteggio": "80.06",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:52:41",
+    "nome": "Rie McGrail",
+    "societa": "OK Bomteknik",
+    "punteggio": "79.78",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:53:12",
+    "nome": "Linda Larsson",
+    "societa": "Järfälla OK",
+    "punteggio": "79.01",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:53:24",
+    "nome": "Toni O'donovan",
+    "societa": "Leicestershire Orienteering Club",
+    "punteggio": "78.71",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:55:08",
+    "nome": "Elisabeth Schutjes",
+    "societa": "hamok",
+    "punteggio": "76.24",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:55:22",
+    "nome": "Marina Skern",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "75.92",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:55:57",
+    "nome": "Hanna-Riikka Koskinen",
+    "societa": "Espoon Suunta",
+    "punteggio": "75.13",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:55:58",
+    "nome": "Pernille Buch",
+    "societa": "OK Gorm",
+    "punteggio": "75.10",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:56:26",
+    "nome": "Johanna Tervo",
+    "societa": "Pihkaniskat",
+    "punteggio": "74.48",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:58:40",
+    "nome": "Petra Reubi",
+    "societa": "Thurgorienta",
+    "punteggio": "71.65",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:58:48",
+    "nome": "Elisabeth Sandrisser",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "71.49",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:00:55",
+    "nome": "Kateřina Arnoštová",
+    "societa": "Sportovni akademie Dobris",
+    "punteggio": "69.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:03:31",
+    "nome": "Reda Velde",
+    "societa": "RE",
+    "punteggio": "66.18",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:03:53",
+    "nome": "Stinne Skammelsen",
+    "societa": "OK Bomteknik",
+    "punteggio": "65.80",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:04:34",
+    "nome": "Karīna Janova",
+    "societa": "Siguldas Takas",
+    "punteggio": "65.10",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:04:35",
+    "nome": "Fionne Austin",
+    "societa": "Lagan Valley Orienteers",
+    "punteggio": "65.08",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:05:59",
+    "nome": "Markéta Držková",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "63.70",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:06:02",
+    "nome": "Pernille Brunstedt Jacobsen",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "63.65",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:06:14",
+    "nome": "Vinciane Mulpas",
+    "societa": "ASUB Orientation",
+    "punteggio": "63.46",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:07:13",
+    "nome": "Aline Harmand",
+    "societa": "Søllerød OK",
+    "punteggio": "62.53",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:08:25",
+    "nome": "Céline Ruiz",
+    "societa": "balise orientation albigeoise",
+    "punteggio": "61.44",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:08:25",
+    "nome": "Adela Illamola Colome",
+    "societa": "Unió Excursionista Vic",
+    "punteggio": "61.44",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:09:04",
+    "nome": "Mette Pilemand",
+    "societa": "Søllerød OK",
+    "punteggio": "60.86",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:09:15",
+    "nome": "Rebecca Simpson",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "60.70",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:10:24",
+    "nome": "Eva Zemlova",
+    "societa": "OK Kamenice",
+    "punteggio": "59.71",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:11:46",
+    "nome": "Sonja Jantar",
+    "societa": "OK Japetić",
+    "punteggio": "58.57",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:13:20",
+    "nome": "Rikke Kofoed",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "57.32",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:15:32",
+    "nome": "Zuzana Fibírová",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "55.65",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:16:39",
+    "nome": "Caroline Chevalier",
+    "societa": "Brivelimousinco",
+    "punteggio": "54.84",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:17:03",
+    "nome": "Tanja Grmovšek",
+    "societa": "MOK Pohorje",
+    "punteggio": "54.55",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:18:16",
+    "nome": "Marlène Sanchez",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "53.71",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:18:24",
+    "nome": "Ieva Maulina",
+    "societa": "Briksnis - Latvia",
+    "punteggio": "53.61",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:18:46",
+    "nome": "Peichi Chuang",
+    "societa": "Moxina OK",
+    "punteggio": "53.36",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:19:34",
+    "nome": "Marion Durand",
+    "societa": "Balise 77 Fontainebleau Avon",
+    "punteggio": "52.83",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:20:18",
+    "nome": "Elodie Vandomme",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "52.35",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:22:03",
+    "nome": "Magdalena Kurfurstova",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "51.23",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:23:17",
+    "nome": "elisabeth Huguet",
+    "societa": "ROMANS COURSE D'ORIENTATION",
+    "punteggio": "50.47",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:24:05",
+    "nome": "Chrystelle Fauvet",
+    "societa": "Noyon Course d'Orientation",
+    "punteggio": "49.99",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:24:06",
+    "nome": "Elisa Albrizio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "49.98",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:24:19",
+    "nome": "Szabó Ágnes",
+    "societa": "Gerecse Tájfutó Club",
+    "punteggio": "49.85",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:24:42",
+    "nome": "Jeanette Downing",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "49.63",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:26:23",
+    "nome": "Ida Baluskova",
+    "societa": "OK 24 Praha",
+    "punteggio": "48.66",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:26:39",
+    "nome": "Virginia Guell Rovira",
+    "societa": "Xinoxano Orientació",
+    "punteggio": "48.51",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:27:49",
+    "nome": "Irena Hacin Kölner",
+    "societa": "Orientacijski klub Komenda",
+    "punteggio": "47.86",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:31:44",
+    "nome": "Nicole Steinlin",
+    "societa": "OLC Winterthur",
+    "punteggio": "45.82",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:31:52",
+    "nome": "Andrea Klieber",
+    "societa": "OL Zimmerberg",
+    "punteggio": "45.75",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:32:50",
+    "nome": "Nadejda Vasiloi",
+    "societa": "OPA MONTIGNY",
+    "punteggio": "45.28",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:35:08",
+    "nome": "Coralie Jourde",
+    "societa": "Balise 63",
+    "punteggio": "44.18",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:35:15",
+    "nome": "Pavla Svítilová",
+    "societa": "SK Praga",
+    "punteggio": "44.13",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:35:20",
+    "nome": "Ilze Kažociņa",
+    "societa": "Auseklis IK",
+    "punteggio": "44.09",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:38:35",
+    "nome": "Sandra Priedite",
+    "societa": "Auseklis IK",
+    "punteggio": "42.64",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:39:14",
+    "nome": "Marta Dlouhá",
+    "societa": "SK Praga",
+    "punteggio": "42.36",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:39:41",
+    "nome": "Šárka Holasová",
+    "societa": "OBO",
+    "punteggio": "42.17",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:45:32",
+    "nome": "Hanne Fredberg",
+    "societa": "OK Bomteknik",
+    "punteggio": "39.83",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:49:44",
+    "nome": "Morgane Cyffers",
+    "societa": "Villeneuve d'Ascq Lille Métropole Orientation",
+    "punteggio": "38.30",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:50:00",
+    "nome": "Gundega Ulme",
+    "societa": "OK Kapa",
+    "punteggio": "38.21",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:03:32",
+    "nome": "Anna Antošová",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "34.03",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:05:57",
+    "nome": "Frédérique Ribo",
+    "societa": "NATURE ORIENTATION RANDONNEE DETENTE",
+    "punteggio": "33.37",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Sara Gaion",
+    "societa": "ORIENTEERING TRIESTE A.S.D.",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Cécile Ricard",
+    "societa": "ORIENT'ALP",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Marie-laure Soubielle",
+    "societa": "US CENON course d'orientation",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Hélène Madranges",
+    "societa": "ASM CO",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Vilma Balciunaite",
+    "societa": "Telšiai OK",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Baiba Nummure",
+    "societa": "Auseklis IK",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Rasa Ivanauskaite",
+    "societa": "Azuolas",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Ilze Bara",
+    "societa": "Briksnis - Latvia",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Linda Krumina",
+    "societa": "Briksnis - Latvia",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:27:31",
+    "nome": "Christina Smedberg",
+    "societa": "OK Skogsfalken",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:31:41",
+    "nome": "Anna-karin Sundqvist",
+    "societa": "Tullinge SK",
+    "punteggio": "86.85",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:32:21",
+    "nome": "Doris Gittmaier",
+    "societa": "HSV Ried im Innkreis",
+    "punteggio": "85.06",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:33:06",
+    "nome": "Priska Curiger",
+    "societa": "OLC Kapreolo",
+    "punteggio": "83.13",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:34:16",
+    "nome": "Taina Louhivuori",
+    "societa": "Anttolan Urheilijat",
+    "punteggio": "80.30",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:34:57",
+    "nome": "Toril Hallan",
+    "societa": "Lillomarka o-lag",
+    "punteggio": "78.73",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:35:12",
+    "nome": "Päivi Lassila",
+    "societa": "DT Rastiimi",
+    "punteggio": "78.17",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:36:51",
+    "nome": "Liisa Rihko-Struckmann",
+    "societa": "Braunschweiger MTV",
+    "punteggio": "74.67",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:38:50",
+    "nome": "Nicoletta Dutly",
+    "societa": "GO Vallemaggia",
+    "punteggio": "70.86",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:38:56",
+    "nome": "Joli Wehrli",
+    "societa": "swissotours.ch",
+    "punteggio": "70.68",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:39:36",
+    "nome": "Hildegard Scherr",
+    "societa": "HSV Spittal/Drau",
+    "punteggio": "69.49",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:40:25",
+    "nome": "Susanne Wenk",
+    "societa": "O-Explorer TG/ZH",
+    "punteggio": "68.08",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:40:54",
+    "nome": "Mette Edsen",
+    "societa": "Nordvest ok",
+    "punteggio": "67.28",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:42:49",
+    "nome": "Ursula Wolf",
+    "societa": "OLG Davos",
+    "punteggio": "64.27",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:43:57",
+    "nome": "Ildikó Mátyás",
+    "societa": "HSE Szentendre",
+    "punteggio": "62.61",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:44:26",
+    "nome": "Cristina Ruini",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "61.93",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:45:41",
+    "nome": "Annelli Sandbaek",
+    "societa": "OK Pan Aarhus - Hauerslev",
+    "punteggio": "60.23",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:45:56",
+    "nome": "Catherine Coulier",
+    "societa": "LUBO",
+    "punteggio": "59.91",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:54:12",
+    "nome": "Adriana Flórez-estrada Mallart",
+    "societa": "CLUB RIOJANO DE ORIENTACION EN LA NATURALEZA",
+    "punteggio": "50.77",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:54:29",
+    "nome": "Roswitha Micko",
+    "societa": "Gruppe Orientierungs-Sport Harzberg",
+    "punteggio": "50.50",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:55:29",
+    "nome": "Bernadette Govaerts",
+    "societa": "LOST",
+    "punteggio": "49.59",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:56:24",
+    "nome": "Nathalie Bouche",
+    "societa": "Animation Sillery Orientation",
+    "punteggio": "48.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:56:55",
+    "nome": "Maria Douglas",
+    "societa": "FIF Hillerod",
+    "punteggio": "48.35",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:57:35",
+    "nome": "Tuija Jurvakainen",
+    "societa": "Rasti-Hyry",
+    "punteggio": "47.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:58:44",
+    "nome": "Claire Muyllaert",
+    "societa": "ASUB Orientation",
+    "punteggio": "46.85",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:59:15",
+    "nome": "Irene Gassner",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "46.44",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:05:33",
+    "nome": "Annick Rouserez",
+    "societa": "ASUB Orientation",
+    "punteggio": "41.98",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:05:43",
+    "nome": "Myriam Stewart",
+    "societa": "Valbonne Sophia Antipolis Orientation",
+    "punteggio": "41.87",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:05:44",
+    "nome": "Laurence Champigny",
+    "societa": "ACA Aix Provence",
+    "punteggio": "41.86",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:06:28",
+    "nome": "Anne Svantesson",
+    "societa": "Hjärnarps OL",
+    "punteggio": "41.40",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:07:16",
+    "nome": "Véronique Bolzer",
+    "societa": "Sports Orientation Lunéville",
+    "punteggio": "40.91",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:11:27",
+    "nome": "Inger Simonsen",
+    "societa": "Silkeborg OK",
+    "punteggio": "38.51",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:14:54",
+    "nome": "Regina Ježková",
+    "societa": "SK Praga",
+    "punteggio": "36.74",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:26:59",
+    "nome": "Vickie Wong Wai Ching",
+    "societa": "Hong Kong Orienteering Club",
+    "punteggio": "31.63",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:38:01",
+    "nome": "Rosário Matias",
+    "societa": "Lisboa OK",
+    "punteggio": "28.07",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Annika Von Schoultz",
+    "societa": "Bastholmens IF",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Prisca Guglielmetti",
+    "societa": "GO Vallemaggia",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Renate Lienhart",
+    "societa": "OLC Winterthur",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Annaliisa Issakainen",
+    "societa": "Rasti-Hyry",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Gerhild Pacher",
+    "societa": "Sportunion Schöckl Graz",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Marketa Veljacikova",
+    "societa": "OK Sparta Praha",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Odile Poulain",
+    "societa": "ASUB Orientation",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Jackie Butt",
+    "societa": "Balker",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Sylvie Marchesin",
+    "societa": "SCAPA NANCY ORIENTATION",
+    "punteggio": 0,
+    "femmina": true
+  }
+]
+    },
+    {nome:"19) Orange Cup Day 3 29/07",
+     dati: [
+  {
+    "categoria": "M45",
+    "tempo": "00:36:50",
+    "nome": "Rune Nygaard Monrad",
+    "societa": "OK Bomteknik",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:38:22",
+    "nome": "Filip Antoš",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "96.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:38:39",
+    "nome": "Tomáš Fibír",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "95.30",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:39:01",
+    "nome": "Michael Sørensen",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "94.40",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:39:17",
+    "nome": "Fabien Pasquasy",
+    "societa": "O'Team Besançon",
+    "punteggio": "93.76",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:39:57",
+    "nome": "Pierre Kaltenbacher",
+    "societa": "HSV OL Wiener Neustadt",
+    "punteggio": "92.20",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:41:41",
+    "nome": "Jiří Novák",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "88.36",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:41:49",
+    "nome": "Michael Hohenwarter",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "88.08",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:42:16",
+    "nome": "Andreas Hinder",
+    "societa": "OLC Winterthur",
+    "punteggio": "87.15",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:42:48",
+    "nome": "Blaž Kölner",
+    "societa": "Orientacijski klub Komenda",
+    "punteggio": "86.06",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:43:02",
+    "nome": "Thomas Antoine",
+    "societa": "L'Etabli",
+    "punteggio": "85.59",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:44:31",
+    "nome": "Tõnis Kruusmaa",
+    "societa": "Rakvere Orienteeringclub",
+    "punteggio": "82.74",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:45:54",
+    "nome": "Ludovic Ruiz",
+    "societa": "balise orientation albigeoise",
+    "punteggio": "80.25",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:46:16",
+    "nome": "Boris Granovskiy",
+    "societa": "Grizzly Orienteering",
+    "punteggio": "79.61",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:46:37",
+    "nome": "Thomas Radon",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "79.01",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:46:55",
+    "nome": "Fredrik Persson",
+    "societa": "Wing OK",
+    "punteggio": "78.51",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:47:18",
+    "nome": "Bernhard Fink",
+    "societa": "ASKÖ Henndorf Orienteering",
+    "punteggio": "77.87",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:48:58",
+    "nome": "Valdis Janovs",
+    "societa": "Siguldas Takas",
+    "punteggio": "75.22",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:49:32",
+    "nome": "Ondrej Skripnik",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": "74.36",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:49:35",
+    "nome": "Toni Pikkarainen",
+    "societa": "Helsingin Suunnistajat",
+    "punteggio": "74.29",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:50:33",
+    "nome": "Jan Kárník",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "72.87",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:50:50",
+    "nome": "Rolf Reubi",
+    "societa": "Thurgorienta",
+    "punteggio": "72.46",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:51:14",
+    "nome": "Johan Hedman",
+    "societa": "Söders Orientering Tyresö",
+    "punteggio": "71.89",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:51:42",
+    "nome": "Sergey Churkin",
+    "societa": "Orientacijski klub Komenda",
+    "punteggio": "71.24",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:52:01",
+    "nome": "Pavel Kurfürst",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "70.81",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:52:39",
+    "nome": "Zoltán Weibl",
+    "societa": "Dva Kuku Orienteering",
+    "punteggio": "69.96",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:52:52",
+    "nome": "David Alcock",
+    "societa": "Airienteers",
+    "punteggio": "69.67",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:53:06",
+    "nome": "Andrius Jasiunas",
+    "societa": "OSK Šilas",
+    "punteggio": "69.37",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:53:50",
+    "nome": "Ilmārs Miķelsons",
+    "societa": "Auseklis IK",
+    "punteggio": "68.42",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:54:15",
+    "nome": "Mateo Vijande",
+    "societa": "Malarruta",
+    "punteggio": "67.90",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:54:18",
+    "nome": "Gregory Prins",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "67.83",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:54:57",
+    "nome": "Frédéric Parquet",
+    "societa": "Vikazim",
+    "punteggio": "67.03",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:54:58",
+    "nome": "Gauthier Flandrin",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "67.01",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:55:16",
+    "nome": "Nicolas Guilbert",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "66.65",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:55:36",
+    "nome": "Paulius Markovas",
+    "societa": "OK \"Perkunas\"",
+    "punteggio": "66.25",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:55:45",
+    "nome": "Mantas Rimkus",
+    "societa": "Azuolas",
+    "punteggio": "66.07",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:56:04",
+    "nome": "Cyril Herve",
+    "societa": "ASM CO",
+    "punteggio": "65.70",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:56:31",
+    "nome": "Tomas Zemla",
+    "societa": "OK Kamenice",
+    "punteggio": "65.17",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:56:33",
+    "nome": "Sam Deferm",
+    "societa": "hamok",
+    "punteggio": "65.13",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:56:57",
+    "nome": "Laurent Mouchette",
+    "societa": "Course d'orientation des pierres dorées",
+    "punteggio": "64.68",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:57:41",
+    "nome": "Tomáš Kužel",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "63.85",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:57:54",
+    "nome": "Kristaps Epners",
+    "societa": "Auseklis IK",
+    "punteggio": "63.62",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:57:59",
+    "nome": "Hannes Wenzel",
+    "societa": "OLC Union Viktring",
+    "punteggio": "63.52",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:58:26",
+    "nome": "Sebastiano Pollock",
+    "societa": "GO Vallemaggia",
+    "punteggio": "63.03",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:58:47",
+    "nome": "David Currie",
+    "societa": "Southampton Orienteering Club",
+    "punteggio": "62.66",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:59:20",
+    "nome": "Benjamin Variot",
+    "societa": "Club Orientation Ambérieu",
+    "punteggio": "62.08",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:59:46",
+    "nome": "Karlis Prieditis",
+    "societa": "Auseklis IK",
+    "punteggio": "61.63",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:02:04",
+    "nome": "Gatis Ribaks",
+    "societa": "Auseklis IK",
+    "punteggio": "59.34",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:03:30",
+    "nome": "Clément Serret",
+    "societa": "US CENON course d'orientation",
+    "punteggio": "58.01",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:03:49",
+    "nome": "Simon Philibert",
+    "societa": "Søllerød OK",
+    "punteggio": "57.72",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:05:00",
+    "nome": "Branimir Pongrac",
+    "societa": "OK Japetić",
+    "punteggio": "56.67",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:05:28",
+    "nome": "Valdas Lelkaitis",
+    "societa": "Fortuna OSK",
+    "punteggio": "56.26",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:05:51",
+    "nome": "Iván Antonio Gálvez Muñoz",
+    "societa": "COMA",
+    "punteggio": "55.94",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:06:06",
+    "nome": "Jose Puche Madrid",
+    "societa": "Desorientados",
+    "punteggio": "55.72",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:06:20",
+    "nome": "Karel Nitsch",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "55.53",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:06:33",
+    "nome": "Francois Huguet",
+    "societa": "ROMANS COURSE D'ORIENTATION",
+    "punteggio": "55.35",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:09:23",
+    "nome": "Pablo Barreiro",
+    "societa": "Raza Palleira",
+    "punteggio": "53.09",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:12:35",
+    "nome": "Niklas Wernersson",
+    "societa": "Järfälla OK",
+    "punteggio": "50.75",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:12:50",
+    "nome": "Antonio Domínguez Portas",
+    "societa": "Raza Palleira",
+    "punteggio": "50.57",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:13:59",
+    "nome": "Christoph Gürtler",
+    "societa": "OLC Winterthur",
+    "punteggio": "49.79",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:17:31",
+    "nome": "Cédric Chevalier",
+    "societa": "Brivelimousinco",
+    "punteggio": "47.52",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:18:36",
+    "nome": "Martin Angermann",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "46.86",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:20:15",
+    "nome": "Peter Sigvardt",
+    "societa": "Odense OK",
+    "punteggio": "45.90",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:20:19",
+    "nome": "Andreas Binkert",
+    "societa": "OLC Winterthur",
+    "punteggio": "45.86",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:20:52",
+    "nome": "Isaak Klieber",
+    "societa": "OL Zimmerberg",
+    "punteggio": "45.55",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:28:07",
+    "nome": "Nick Downing",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "41.80",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:36:47",
+    "nome": "Antoine Safin",
+    "societa": "C.O.Liège",
+    "punteggio": "38.06",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:44:48",
+    "nome": "Marius Marian",
+    "societa": "Watch Out Cluj",
+    "punteggio": "35.15",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:45:29",
+    "nome": "Lászlo Hermann",
+    "societa": "Watch Out Cluj",
+    "punteggio": "34.92",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:46:17",
+    "nome": "Cédric Humbert",
+    "societa": "TOULON SPORTS NATURE",
+    "punteggio": "34.66",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:47:45",
+    "nome": "Leon Ricketts",
+    "societa": "Airienteers",
+    "punteggio": "34.18",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:55:20",
+    "nome": "László Iván",
+    "societa": "MOM Budapest",
+    "punteggio": "31.94",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:28:33",
+    "nome": "Fabien Jouanillou",
+    "societa": "AbsoluRaid Occitanie",
+    "punteggio": "24.80",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Tamás Máthé",
+    "societa": "Balatonfüredi Sport Club",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Ronny Krüger",
+    "societa": "Berliner Turnerschaft Korp. Turn- und Sportverein e.V.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Markus König",
+    "societa": "ASKÖ Henndorf Orienteering",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Miroslav Kadane",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Gaspard Lafarge",
+    "societa": "O'Bugey",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Juris Dzenitis",
+    "societa": "OK Meridians",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Alan O'Donnell",
+    "societa": "Fingal Orienteers",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Erik Zannier",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:43:02",
+    "nome": "Martin Weisbrich",
+    "societa": "SSV PLANETA Radebeul",
+    "punteggio": "95.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:45:38",
+    "nome": "Erik Hajdu",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "89.59",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:48:07",
+    "nome": "Adrián Tóth",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "84.96",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:50:49",
+    "nome": "Nico Laško",
+    "societa": "Belgian Big Fat Guys",
+    "punteggio": "80.45",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:57:42",
+    "nome": "Petr Dvorak",
+    "societa": "Lucifer headlamps",
+    "punteggio": "70.85",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:59:10",
+    "nome": "Jari Johansson",
+    "societa": "OK Trian",
+    "punteggio": "69.10",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:04:55",
+    "nome": "Tommy Bouchet",
+    "societa": "TRAILPHALIENS RAID",
+    "punteggio": "62.98",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:06:11",
+    "nome": "Nicolo Venuti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "61.77",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:15:36",
+    "nome": "Audrey Ehanno",
+    "societa": "Balise 63",
+    "punteggio": "54.08",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:16:40",
+    "nome": "Claudia Rooman",
+    "societa": "Belgian Big Fat Guys",
+    "punteggio": "95.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:18:51",
+    "nome": "Bence Turschl",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "51.85",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:32:04",
+    "nome": "Magda Horová",
+    "societa": "Universitni Sportovni Klub Praha",
+    "punteggio": "79.11",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:33:09",
+    "nome": "Anna Clementi",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "78.19",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:34:59",
+    "nome": "Jan Valeš",
+    "societa": "Team Jizerky",
+    "punteggio": "43.04",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:36:58",
+    "nome": "Enrico Pascatti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "42.16",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:42:19",
+    "nome": "Alessia Albano",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "71.18",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:43:23",
+    "nome": "Javier Flores",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "39.54",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:51:01",
+    "nome": "Vladimír Hora",
+    "societa": "Universitni Sportovni Klub Praha",
+    "punteggio": "36.82",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:34:57",
+    "nome": "Anne Soumoy",
+    "societa": "ASUB Orientation",
+    "punteggio": "47.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:35:01",
+    "nome": "Christian Nameche",
+    "societa": "ASUB Orientation",
+    "punteggio": "26.37",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:00:00",
+    "nome": "Korinna Tóth",
+    "societa": "Salgótarjáni Dornyay SE",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:33:44",
+    "nome": "Eskild Spile",
+    "societa": "Odense OK",
+    "punteggio": "85.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:35:52",
+    "nome": "Antonia Gittmaier",
+    "societa": "HSV Ried im Innkreis",
+    "punteggio": "85.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:36:54",
+    "nome": "William Mcgrail",
+    "societa": "OK Bomteknik",
+    "punteggio": "77.71",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:42:42",
+    "nome": "Iris Skammelsen Gilleladen",
+    "societa": "OK Bomteknik",
+    "punteggio": "71.40",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:43:32",
+    "nome": "Janka Dienová",
+    "societa": "KOBRA Bratislava",
+    "punteggio": "70.03",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:43:33",
+    "nome": "Klara Strejckova",
+    "societa": "KOS Tesla Brno",
+    "punteggio": "70.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:43:35",
+    "nome": "Katerina Skripnikova",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": "69.95",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:44:11",
+    "nome": "Verna Kalliokulju",
+    "societa": "Helsingin Suunnistajat",
+    "punteggio": "69.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:44:28",
+    "nome": "Ela Kuželová",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "68.56",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:46:38",
+    "nome": "Pernille Prud'homme",
+    "societa": "Nature Orientation Saint Etienne",
+    "punteggio": "65.38",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:46:59",
+    "nome": "Dace Lubāne",
+    "societa": "Auseklis IK",
+    "punteggio": "61.03",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:47:05",
+    "nome": "Sun Yi",
+    "societa": "Deer-O",
+    "punteggio": "60.90",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:48:46",
+    "nome": "Thor Skammelsen Gilleladen",
+    "societa": "OK Bomteknik",
+    "punteggio": "58.80",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:50:06",
+    "nome": "Klara Strejckova",
+    "societa": "KOS Tesla Brno",
+    "punteggio": "60.85",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:56:44",
+    "nome": "Gaël Champ",
+    "societa": "Sud Médoc Orientation Gironde",
+    "punteggio": "50.54",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:57:35",
+    "nome": "Diana Kälin Bähler",
+    "societa": "Thurgorienta",
+    "punteggio": "52.94",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:58:22",
+    "nome": "Robin Cermak",
+    "societa": "OK Sparta Praha",
+    "punteggio": "49.13",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:58:39",
+    "nome": "Gilles Ravier",
+    "societa": "Course d'Orientation Coeur de Savoie",
+    "punteggio": "48.89",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:02:55",
+    "nome": "Kincső Szalontai",
+    "societa": "Balatonfüredi Sport Club",
+    "punteggio": "45.57",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:03:29",
+    "nome": "Helen Anthony",
+    "societa": "Airienteers",
+    "punteggio": "48.02",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:03:44",
+    "nome": "Milena Barca",
+    "societa": "GO Vallemaggia",
+    "punteggio": "47.83",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:03:49",
+    "nome": "Karsten Längerich",
+    "societa": "Allerød OrienteringsKlub",
+    "punteggio": "44.93",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:05:19",
+    "nome": "Brigitte Rapotz",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "46.68",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:07:37",
+    "nome": "Marcela Kovarikova",
+    "societa": "Lucifer headlamps",
+    "punteggio": "45.09",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:10:36",
+    "nome": "Christine Teichmann",
+    "societa": "Sportunion Schöckl Graz",
+    "punteggio": "43.18",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:10:36",
+    "nome": "Josefina Klašková",
+    "societa": "Oddíl OB Kotlářka, z.s.",
+    "punteggio": "43.18",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:11:18",
+    "nome": "Karine Champ",
+    "societa": "Sud Médoc Orientation Gironde",
+    "punteggio": "42.76",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:12:30",
+    "nome": "Nicoleta Marian",
+    "societa": "Watch Out Cluj",
+    "punteggio": "42.05",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:13:30",
+    "nome": "Anna Rita Bertolazzo",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "41.48",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:15:28",
+    "nome": "Nora Sophie Graasbøl Ødum",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "40.40",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:19:50",
+    "nome": "Aistė Petrevičienė",
+    "societa": "Fortuna OSK",
+    "punteggio": "38.19",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:20:02",
+    "nome": "Brady Brown",
+    "societa": "Grizzly Orienteering",
+    "punteggio": "35.83",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:20:52",
+    "nome": "Elisabeth Buschek",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "37.70",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:25:42",
+    "nome": "Barbara Resch",
+    "societa": "Järfälla OK",
+    "punteggio": "35.57",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:34:08",
+    "nome": "Maha Moujtahid",
+    "societa": "Nature Orientation Saint Etienne",
+    "punteggio": "32.39",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:36:18",
+    "nome": "Morgane Bonhomme",
+    "societa": "COLIEGE",
+    "punteggio": "31.66",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:40:24",
+    "nome": "Zsuzsa Török",
+    "societa": "Watch Out Cluj",
+    "punteggio": "30.37",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:41:27",
+    "nome": "Santina Doherty",
+    "societa": "GEN",
+    "punteggio": "30.05",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:50:20",
+    "nome": "Catherine Causeret",
+    "societa": "Noyon Course d'Orientation",
+    "punteggio": "27.63",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:00:34",
+    "nome": "Mauro Spano",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "23.78",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:01:07",
+    "nome": "Petra Kocsis",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "25.17",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:01:07",
+    "nome": "Perrine Brin",
+    "societa": "TRAILPHALIENS RAID",
+    "punteggio": "25.17",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:08:17",
+    "nome": "Sandi Kmetič",
+    "societa": "Zarana",
+    "punteggio": "23.77",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Ellen Thisted",
+    "societa": "Søllerød OK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Franco Bellotti",
+    "societa": "Orientalp SROD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Kati Luffy",
+    "societa": "Watch Out Cluj",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Pierre Ferrand",
+    "societa": "MBLO",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:15:50",
+    "nome": "Anna Novotná",
+    "societa": "OK99 Hradec Králové",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:16:34",
+    "nome": "Maja Eva Voveris",
+    "societa": "Devyni OSK",
+    "punteggio": "95.57",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:17:14",
+    "nome": "Janni Holappa",
+    "societa": "Espoon Suunta",
+    "punteggio": "91.88",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:18:40",
+    "nome": "Olivia Ojapalo",
+    "societa": "Lynx",
+    "punteggio": "84.82",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:18:44",
+    "nome": "Alžběta Kárníková",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "84.52",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:19:27",
+    "nome": "Felicita Priedīte",
+    "societa": "Auseklis IK",
+    "punteggio": "81.41",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:19:41",
+    "nome": "Selma Roth",
+    "societa": "OLC Winterthur",
+    "punteggio": "80.44",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:20:12",
+    "nome": "Beatrice Sessi",
+    "societa": "ASD-AŠZ GAJA Orienteering",
+    "punteggio": "78.38",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:20:28",
+    "nome": "Tara Grmovšek",
+    "societa": "MOK Pohorje",
+    "punteggio": "77.36",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:20:48",
+    "nome": "Lærke Skammelsen Gilleladen",
+    "societa": "OK Bomteknik",
+    "punteggio": "76.12",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:21:53",
+    "nome": "Burkhart Levinia",
+    "societa": "OL Regio Wil",
+    "punteggio": "72.35",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:22:31",
+    "nome": "Náya Livia Krüger",
+    "societa": "Berliner Turnerschaft Korp. Turn- und Sportverein e.V.",
+    "punteggio": "70.32",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:23:09",
+    "nome": "Zoé Gastineau",
+    "societa": "Balise 77 Fontainebleau Avon",
+    "punteggio": "68.39",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:23:34",
+    "nome": "Karlīna Epnere",
+    "societa": "Auseklis IK",
+    "punteggio": "67.19",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:24:16",
+    "nome": "Lucia Meizer",
+    "societa": "SPORTUNION Klagenfurt",
+    "punteggio": "65.25",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:24:24",
+    "nome": "Annika Binder",
+    "societa": "SPORTUNION Klagenfurt",
+    "punteggio": "64.89",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:24:34",
+    "nome": "Nora Branta",
+    "societa": "Auseklis IK",
+    "punteggio": "64.45",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:24:40",
+    "nome": "Sára Szőcs",
+    "societa": "Watch Out Cluj",
+    "punteggio": "64.19",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:24:54",
+    "nome": "Paula Angermann",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "63.59",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:25:02",
+    "nome": "Sophia Vassileva",
+    "societa": "CO2",
+    "punteggio": "63.25",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:25:33",
+    "nome": "Kateřina Redlichová",
+    "societa": "RBK Blansko",
+    "punteggio": "61.97",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:27:08",
+    "nome": "Fern Downing",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "58.35",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:27:22",
+    "nome": "Anna Hohenwarter",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "57.86",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:28:24",
+    "nome": "Lauren Simpson",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "55.75",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:29:25",
+    "nome": "Anna Kurfürstová",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "53.82",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:30:33",
+    "nome": "Imola Laping",
+    "societa": "Watch Out Cluj",
+    "punteggio": "51.83",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:30:33",
+    "nome": "Isabella Chemis",
+    "societa": "Wing OK",
+    "punteggio": "51.83",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:31:32",
+    "nome": "Alise Lubāne",
+    "societa": "Auseklis IK",
+    "punteggio": "50.21",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:32:34",
+    "nome": "Juliette Huguet",
+    "societa": "ROMANS COURSE D'ORIENTATION",
+    "punteggio": "48.62",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:34:58",
+    "nome": "Marie Valešová",
+    "societa": "Team Jizerky",
+    "punteggio": "45.28",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:35:43",
+    "nome": "Gro Linde",
+    "societa": "Søllerød OK",
+    "punteggio": "44.33",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:36:38",
+    "nome": "Tereza Švihovská",
+    "societa": "Team Jizerky",
+    "punteggio": "43.22",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:38:09",
+    "nome": "Lucia Ujvari",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "41.50",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:38:46",
+    "nome": "Vilja Kimpimäki",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "40.84",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:43:41",
+    "nome": "Lara Pfarrwaller",
+    "societa": "OLC Winterthur",
+    "punteggio": "36.25",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:56:01",
+    "nome": "Anka Duran García",
+    "societa": "Malarruta",
+    "punteggio": "28.27",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "01:06:40",
+    "nome": "Lara Coletti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "23.75",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:00:00",
+    "nome": "Penny Pinker-hull",
+    "societa": "Airienteers",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:29:49",
+    "nome": "Mojca Flerin Drevenšek",
+    "societa": "Kamniški orientacijski klub",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:31:10",
+    "nome": "Greet Oeyen",
+    "societa": "hamok",
+    "punteggio": "95.67",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:32:51",
+    "nome": "Lucie Rothauer",
+    "societa": "ASKÖ Henndorf Orienteering",
+    "punteggio": "90.77",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:33:40",
+    "nome": "Kim Baxter",
+    "societa": "South Yorkshire Orienteers",
+    "punteggio": "88.56",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:35:28",
+    "nome": "Toni O'donovan",
+    "societa": "Leicestershire Orienteering Club",
+    "punteggio": "84.07",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:38:08",
+    "nome": "Aline Hermans",
+    "societa": "C.O.Liège",
+    "punteggio": "78.19",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:38:30",
+    "nome": "Szabó Ágnes",
+    "societa": "Gerecse Tájfutó Club",
+    "punteggio": "77.45",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:38:51",
+    "nome": "Stinne Skammelsen",
+    "societa": "OK Bomteknik",
+    "punteggio": "76.75",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:39:48",
+    "nome": "Linda Larsson",
+    "societa": "Järfälla OK",
+    "punteggio": "74.92",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:39:55",
+    "nome": "Hanna-Riikka Koskinen",
+    "societa": "Espoon Suunta",
+    "punteggio": "74.70",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:40:23",
+    "nome": "Reda Velde",
+    "societa": "RE",
+    "punteggio": "73.83",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:40:26",
+    "nome": "Katarina Lenander",
+    "societa": "Växjö OK",
+    "punteggio": "73.74",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:41:09",
+    "nome": "Petra Reubi",
+    "societa": "Thurgorienta",
+    "punteggio": "72.46",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:41:10",
+    "nome": "Catherine Wilson",
+    "societa": "Pendle Forest Orienteers",
+    "punteggio": "72.43",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:41:50",
+    "nome": "Pernille Buch",
+    "societa": "OK Gorm",
+    "punteggio": "71.27",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:43:12",
+    "nome": "Johanna Tervo",
+    "societa": "Pihkaniskat",
+    "punteggio": "69.02",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:43:32",
+    "nome": "Pernille Brunstedt Jacobsen",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "68.49",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:43:47",
+    "nome": "Marina Skern",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "68.10",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:44:41",
+    "nome": "Ieva Maulina",
+    "societa": "Briksnis - Latvia",
+    "punteggio": "66.73",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:44:54",
+    "nome": "Vinciane Mulpas",
+    "societa": "ASUB Orientation",
+    "punteggio": "66.41",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:45:16",
+    "nome": "Elisabeth Schutjes",
+    "societa": "hamok",
+    "punteggio": "65.87",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:46:11",
+    "nome": "Kateřina Arnoštová",
+    "societa": "Sportovni akademie Dobris",
+    "punteggio": "64.56",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:46:40",
+    "nome": "Rie McGrail",
+    "societa": "OK Bomteknik",
+    "punteggio": "63.89",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:48:53",
+    "nome": "Rasa Ivanauskaite",
+    "societa": "Azuolas",
+    "punteggio": "61.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:50:10",
+    "nome": "Sandra Priedite",
+    "societa": "Auseklis IK",
+    "punteggio": "59.44",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:50:14",
+    "nome": "Sonja Jantar",
+    "societa": "OK Japetić",
+    "punteggio": "59.36",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:50:30",
+    "nome": "Marlène Sanchez",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "59.04",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:51:59",
+    "nome": "Karīna Janova",
+    "societa": "Siguldas Takas",
+    "punteggio": "57.36",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:52:43",
+    "nome": "Céline Ruiz",
+    "societa": "balise orientation albigeoise",
+    "punteggio": "56.56",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:52:57",
+    "nome": "Rebecca Simpson",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "56.31",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:53:09",
+    "nome": "Zuzana Fibírová",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "56.10",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:54:47",
+    "nome": "Mette Pilemand",
+    "societa": "Søllerød OK",
+    "punteggio": "54.43",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:55:50",
+    "nome": "Adela Illamola Colome",
+    "societa": "Unió Excursionista Vic",
+    "punteggio": "53.40",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:56:47",
+    "nome": "Nicole Steinlin",
+    "societa": "OLC Winterthur",
+    "punteggio": "52.51",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:57:06",
+    "nome": "Aline Harmand",
+    "societa": "Søllerød OK",
+    "punteggio": "52.22",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:57:24",
+    "nome": "Caroline Chevalier",
+    "societa": "Brivelimousinco",
+    "punteggio": "51.95",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:57:49",
+    "nome": "Jeanette Downing",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "51.57",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:58:20",
+    "nome": "Marta Dlouhá",
+    "societa": "SK Praga",
+    "punteggio": "51.11",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:59:42",
+    "nome": "Tanja Grmovšek",
+    "societa": "MOK Pohorje",
+    "punteggio": "49.94",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:01:22",
+    "nome": "Irena Hacin Kölner",
+    "societa": "Orientacijski klub Komenda",
+    "punteggio": "48.59",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:01:28",
+    "nome": "Pavla Svítilová",
+    "societa": "SK Praga",
+    "punteggio": "48.51",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:01:42",
+    "nome": "Sara Gaion",
+    "societa": "ORIENTEERING TRIESTE A.S.D.",
+    "punteggio": "48.33",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:01:53",
+    "nome": "Andrea Klieber",
+    "societa": "OL Zimmerberg",
+    "punteggio": "48.18",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:02:04",
+    "nome": "Ilze Bara",
+    "societa": "Briksnis - Latvia",
+    "punteggio": "48.04",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:02:34",
+    "nome": "Elodie Vandomme",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "47.66",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:02:56",
+    "nome": "Magdalena Kurfurstova",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "47.38",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:03:00",
+    "nome": "Markéta Držková",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "47.33",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:04:03",
+    "nome": "Luciana Szőcs",
+    "societa": "Watch Out Cluj",
+    "punteggio": "46.55",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:04:17",
+    "nome": "Ilze Kažociņa",
+    "societa": "Auseklis IK",
+    "punteggio": "46.38",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:06:37",
+    "nome": "Nadejda Vasiloi",
+    "societa": "OPA MONTIGNY",
+    "punteggio": "44.76",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:07:45",
+    "nome": "Šárka Holasová",
+    "societa": "OBO",
+    "punteggio": "44.01",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:09:06",
+    "nome": "Chrystelle Fauvet",
+    "societa": "Noyon Course d'Orientation",
+    "punteggio": "43.15",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:09:08",
+    "nome": "Ida Baluskova",
+    "societa": "OK 24 Praha",
+    "punteggio": "43.13",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:11:49",
+    "nome": "Virginia Guell Rovira",
+    "societa": "Xinoxano Orientació",
+    "punteggio": "41.52",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:11:49",
+    "nome": "Eva Zemlova",
+    "societa": "OK Kamenice",
+    "punteggio": "41.52",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:12:11",
+    "nome": "Marion Durand",
+    "societa": "Balise 77 Fontainebleau Avon",
+    "punteggio": "41.31",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:12:30",
+    "nome": "Gundega Ulme",
+    "societa": "OK Kapa",
+    "punteggio": "41.13",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:14:01",
+    "nome": "Rikke Kofoed",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "40.28",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:15:23",
+    "nome": "Peichi Chuang",
+    "societa": "Moxina OK",
+    "punteggio": "39.55",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:15:38",
+    "nome": "elisabeth Huguet",
+    "societa": "ROMANS COURSE D'ORIENTATION",
+    "punteggio": "39.42",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:17:31",
+    "nome": "Hanne Fredberg",
+    "societa": "OK Bomteknik",
+    "punteggio": "38.46",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:20:04",
+    "nome": "Coralie Jourde",
+    "societa": "Balise 63",
+    "punteggio": "37.24",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:20:49",
+    "nome": "Fionne Austin",
+    "societa": "Lagan Valley Orienteers",
+    "punteggio": "36.89",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:22:22",
+    "nome": "Marie-laure Soubielle",
+    "societa": "US CENON course d'orientation",
+    "punteggio": "36.20",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:23:35",
+    "nome": "Erzsébet Langviser",
+    "societa": "Watch Out Cluj",
+    "punteggio": "35.67",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:24:21",
+    "nome": "Baiba Nummure",
+    "societa": "Auseklis IK",
+    "punteggio": "35.35",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:25:20",
+    "nome": "Elisa Albrizio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "34.94",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:33:30",
+    "nome": "Cécile Ricard",
+    "societa": "ORIENT'ALP",
+    "punteggio": "31.89",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:47:52",
+    "nome": "Anna Antošová",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "27.64",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:51:14",
+    "nome": "Morgane Cyffers",
+    "societa": "Villeneuve d'Ascq Lille Métropole Orientation",
+    "punteggio": "26.81",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:59:40",
+    "nome": "Hélène Madranges",
+    "societa": "ASM CO",
+    "punteggio": "24.92",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:35:53",
+    "nome": "Åsa Otterbjörk",
+    "societa": "Umeå OK",
+    "punteggio": "19.13",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Linda Krumina",
+    "societa": "Briksnis - Latvia",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Frédérique Ribo",
+    "societa": "NATURE ORIENTATION RANDONNEE DETENTE",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Vilma Balciunaite",
+    "societa": "Telšiai OK",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Elisabeth Sandrisser",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Astrid Fritschi",
+    "societa": "OLC Winterthur",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:29:13",
+    "nome": "Priska Curiger",
+    "societa": "OLC Kapreolo",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:31:24",
+    "nome": "Christina Smedberg",
+    "societa": "OK Skogsfalken",
+    "punteggio": "93.05",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:32:05",
+    "nome": "Päivi Lassila",
+    "societa": "DT Rastiimi",
+    "punteggio": "91.06",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:33:23",
+    "nome": "Annika Von Schoultz",
+    "societa": "Bastholmens IF",
+    "punteggio": "87.52",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:33:27",
+    "nome": "Joli Wehrli",
+    "societa": "swissotours.ch",
+    "punteggio": "87.34",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:33:35",
+    "nome": "Toril Hallan",
+    "societa": "Lillomarka o-lag",
+    "punteggio": "87.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:34:15",
+    "nome": "Taina Louhivuori",
+    "societa": "Anttolan Urheilijat",
+    "punteggio": "85.30",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:34:53",
+    "nome": "Doris Gittmaier",
+    "societa": "HSV Ried im Innkreis",
+    "punteggio": "83.76",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:35:19",
+    "nome": "Mette Edsen",
+    "societa": "Nordvest ok",
+    "punteggio": "82.73",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:36:06",
+    "nome": "Susanne Wenk",
+    "societa": "O-Explorer TG/ZH",
+    "punteggio": "80.93",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:36:15",
+    "nome": "Anna-karin Sundqvist",
+    "societa": "Tullinge SK",
+    "punteggio": "80.60",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:38:33",
+    "nome": "Maria Douglas",
+    "societa": "FIF Hillerod",
+    "punteggio": "75.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:39:14",
+    "nome": "Ildikó Mátyás",
+    "societa": "HSE Szentendre",
+    "punteggio": "74.47",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:41:05",
+    "nome": "Nicoletta Dutly",
+    "societa": "GO Vallemaggia",
+    "punteggio": "71.12",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:41:07",
+    "nome": "Cristina Ruini",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "71.06",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:42:15",
+    "nome": "Jackie Butt",
+    "societa": "Balker",
+    "punteggio": "69.15",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:43:48",
+    "nome": "Tuija Jurvakainen",
+    "societa": "Rasti-Hyry",
+    "punteggio": "66.70",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:43:56",
+    "nome": "Annelli Sandbaek",
+    "societa": "OK Pan Aarhus - Hauerslev",
+    "punteggio": "66.50",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:43:58",
+    "nome": "Liisa Rihko-Struckmann",
+    "societa": "Braunschweiger MTV",
+    "punteggio": "66.45",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:49:05",
+    "nome": "Irene Gassner",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "59.52",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:49:27",
+    "nome": "Ursula Wolf",
+    "societa": "OLG Davos",
+    "punteggio": "59.08",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:50:10",
+    "nome": "Roswitha Micko",
+    "societa": "Gruppe Orientierungs-Sport Harzberg",
+    "punteggio": "58.24",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:50:19",
+    "nome": "Véronique Bolzer",
+    "societa": "Sports Orientation Lunéville",
+    "punteggio": "58.07",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:51:58",
+    "nome": "Bernadette Govaerts",
+    "societa": "LOST",
+    "punteggio": "56.22",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:52:16",
+    "nome": "Inger Simonsen",
+    "societa": "Silkeborg OK",
+    "punteggio": "55.90",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:58:11",
+    "nome": "Adriana Flórez-estrada Mallart",
+    "societa": "CLUB RIOJANO DE ORIENTACION EN LA NATURALEZA",
+    "punteggio": "50.21",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:59:55",
+    "nome": "Renate Lienhart",
+    "societa": "OLC Winterthur",
+    "punteggio": "48.76",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:01:06",
+    "nome": "Claire Muyllaert",
+    "societa": "ASUB Orientation",
+    "punteggio": "47.82",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:03:27",
+    "nome": "Vickie Wong Wai Ching",
+    "societa": "Hong Kong Orienteering Club",
+    "punteggio": "46.05",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:07:48",
+    "nome": "Nathalie Bouche",
+    "societa": "Animation Sillery Orientation",
+    "punteggio": "43.09",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:09:19",
+    "nome": "Regina Ježková",
+    "societa": "SK Praga",
+    "punteggio": "42.15",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:10:15",
+    "nome": "Annaliisa Issakainen",
+    "societa": "Rasti-Hyry",
+    "punteggio": "41.59",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:19:58",
+    "nome": "Odile Poulain",
+    "societa": "ASUB Orientation",
+    "punteggio": "36.54",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:20:17",
+    "nome": "Catherine Coulier",
+    "societa": "LUBO",
+    "punteggio": "36.39",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:20:57",
+    "nome": "Annick Rouserez",
+    "societa": "ASUB Orientation",
+    "punteggio": "36.09",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:24:58",
+    "nome": "Laurence Champigny",
+    "societa": "ACA Aix Provence",
+    "punteggio": "34.39",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:27:20",
+    "nome": "Rosário Matias",
+    "societa": "Lisboa OK",
+    "punteggio": "33.45",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:54:12",
+    "nome": "Myriam Stewart",
+    "societa": "Valbonne Sophia Antipolis Orientation",
+    "punteggio": "25.58",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:54:16",
+    "nome": "Prisca Guglielmetti",
+    "societa": "GO Vallemaggia",
+    "punteggio": "25.57",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Sylvie Marchesin",
+    "societa": "SCAPA NANCY ORIENTATION",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Gerhild Pacher",
+    "societa": "Sportunion Schöckl Graz",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Marketa Veljacikova",
+    "societa": "OK Sparta Praha",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Anne Svantesson",
+    "societa": "Hjärnarps OL",
+    "punteggio": 0,
+    "femmina": true
+  }
+]
+    },
+  {nome:"20) Orange Cup Day 4 30/07",
+     dati: [
+  {
+    "categoria": "M14",
+    "tempo": "00:34:52",
+    "nome": "Ondřej Lučan",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:37:46",
+    "nome": "Matěj Janata",
+    "societa": "Kotlářka Jablonec Jilemnice",
+    "punteggio": "92.32",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:40:10",
+    "nome": "Leo Ryapolov",
+    "societa": "IFK Mora OK",
+    "punteggio": "86.80",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:41:07",
+    "nome": "Vince Sámuel Simon",
+    "societa": "Watch Out Cluj",
+    "punteggio": "84.80",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:46:49",
+    "nome": "David Kaltenbacher",
+    "societa": "HSV OL Wiener Neustadt",
+    "punteggio": "74.47",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:47:25",
+    "nome": "Kristaps Krumins",
+    "societa": "Briksnis - Latvia",
+    "punteggio": "73.53",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:49:48",
+    "nome": "Timotejs Janovs",
+    "societa": "Siguldas Takas",
+    "punteggio": "70.01",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:49:57",
+    "nome": "Raimonds Saklaurs",
+    "societa": "OK Kapa",
+    "punteggio": "69.80",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:50:21",
+    "nome": "Antonin Variot",
+    "societa": "Club Orientation Ambérieu",
+    "punteggio": "69.25",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:51:11",
+    "nome": "Tiago Gastineau",
+    "societa": "Balise 77 Fontainebleau Avon",
+    "punteggio": "68.12",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:52:33",
+    "nome": "Norbert Szőcs",
+    "societa": "Watch Out Cluj",
+    "punteggio": "66.35",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:53:16",
+    "nome": "Markus Ban",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": "65.46",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:53:19",
+    "nome": "Péter Laping",
+    "societa": "Watch Out Cluj",
+    "punteggio": "65.40",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:53:19",
+    "nome": "Kobe Deferm",
+    "societa": "hamok",
+    "punteggio": "65.40",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:53:28",
+    "nome": "Max Jonas Obczovsky",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": "65.21",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:53:50",
+    "nome": "Ivan Zhuravlev",
+    "societa": "Devyni OSK",
+    "punteggio": "64.77",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:55:24",
+    "nome": "Adam Imriska",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "62.94",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:57:35",
+    "nome": "Jakub Udrzal",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "60.55",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:59:22",
+    "nome": "Péter Molnár",
+    "societa": "Watch Out Cluj",
+    "punteggio": "58.73",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:59:30",
+    "nome": "Florian Mauschitz",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": "58.60",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:00:31",
+    "nome": "Tim Rothauer",
+    "societa": "ASKÖ Henndorf Orienteering",
+    "punteggio": "57.61",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:01:30",
+    "nome": "Kārlis Poikāns",
+    "societa": "Auseklis IK",
+    "punteggio": "56.69",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:01:44",
+    "nome": "Alexander Baur",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": "56.48",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:02:10",
+    "nome": "Tom Flandrin",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "56.09",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:02:17",
+    "nome": "Valentin Angermann",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "55.98",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:04:47",
+    "nome": "Adam Prins",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "53.82",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:06:15",
+    "nome": "Laurin Fritschi",
+    "societa": "OLC Winterthur",
+    "punteggio": "52.63",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:06:33",
+    "nome": "Benjamin Kaljikovic",
+    "societa": "Youth team ASKOE Austria",
+    "punteggio": "52.39",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:08:02",
+    "nome": "Jonáš Kužel",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "51.25",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:08:41",
+    "nome": "Gustavs Arnicans",
+    "societa": "OK Kapa",
+    "punteggio": "50.76",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:10:45",
+    "nome": "Vítek Antoš",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "49.28",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:11:00",
+    "nome": "Marc Maier",
+    "societa": "SPORTUNION Klagenfurt",
+    "punteggio": "49.11",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:11:14",
+    "nome": "Erik Bruns",
+    "societa": "MTK Bad Harzburg",
+    "punteggio": "48.95",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:14:10",
+    "nome": "Martinien Moxhet",
+    "societa": "CO Liège",
+    "punteggio": "47.01",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:14:54",
+    "nome": "Lasse Brunstedt Jacobsen",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "46.55",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:16:23",
+    "nome": "Samuel Saranen",
+    "societa": "DT Helsingin Suunistajat",
+    "punteggio": "45.65",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:19:39",
+    "nome": "Emil Skouenborg",
+    "societa": "OK Bomteknik",
+    "punteggio": "43.77",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:20:03",
+    "nome": "Cillian Lynch",
+    "societa": "Lagan Valley Orienteers",
+    "punteggio": "43.56",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:21:02",
+    "nome": "Fabian Wernersson",
+    "societa": "Järfälla OK",
+    "punteggio": "43.03",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:21:19",
+    "nome": "Bence Török",
+    "societa": "Watch Out Cluj",
+    "punteggio": "42.88",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:22:20",
+    "nome": "Manuel García Gómez",
+    "societa": "COMA",
+    "punteggio": "42.35",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:23:22",
+    "nome": "Félix Gillet",
+    "societa": "C.O.Liège",
+    "punteggio": "41.82",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:23:30",
+    "nome": "Jonin Burkhart",
+    "societa": "OL Regio Wil",
+    "punteggio": "41.76",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:24:16",
+    "nome": "Magnus Oscar Søes",
+    "societa": "OK Bomteknik",
+    "punteggio": "41.38",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:25:44",
+    "nome": "Jack Baxter",
+    "societa": "South Yorkshire Orienteers",
+    "punteggio": "40.67",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:25:53",
+    "nome": "Maël Durand",
+    "societa": "Balise 63",
+    "punteggio": "40.60",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:26:16",
+    "nome": "Tobias Hohenwarter",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "40.42",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:27:57",
+    "nome": "Etienne Hohl",
+    "societa": "GO Vallemaggia",
+    "punteggio": "39.64",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:29:52",
+    "nome": "Viesturs Jaudzems",
+    "societa": "Auseklis IK",
+    "punteggio": "38.80",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:30:01",
+    "nome": "Joosep Tali",
+    "societa": "Harju Orienteerumisklubi",
+    "punteggio": "38.73",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:32:51",
+    "nome": "Jakob Wälti",
+    "societa": "OLC Winterthur",
+    "punteggio": "37.55",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:34:02",
+    "nome": "Isak Graasbøl Ødum",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "37.08",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:35:25",
+    "nome": "Leo Reindl",
+    "societa": "SPORTUNION Klagenfurt",
+    "punteggio": "36.54",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:37:28",
+    "nome": "Léo Ruiz",
+    "societa": "balise orientation albigeoise",
+    "punteggio": "35.77",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:44:50",
+    "nome": "Diego Segre",
+    "societa": "Villeneuve d'Ascq Lille Métropole Orientation",
+    "punteggio": "33.26",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "01:52:43",
+    "nome": "Chen Kaixin",
+    "societa": "Deer-O",
+    "punteggio": "30.93",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "02:08:50",
+    "nome": "Daniel Švihovský",
+    "societa": "Team Jizerky",
+    "punteggio": "27.06",
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Gustavs Lass",
+    "societa": "Auseklis IK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Jon Gürtler",
+    "societa": "OLC Winterthur",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Theodor Barton",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Jakob Sandrisser",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Giulio Coletti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Nolan Bialou",
+    "societa": "NORD58",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M14",
+    "tempo": "00:00:00",
+    "nome": "Lucas Mcgrail",
+    "societa": "OK Bomteknik",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:07:04",
+    "nome": "Rune Nygaard Monrad",
+    "societa": "OK Bomteknik",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:07:59",
+    "nome": "Andreas Hinder",
+    "societa": "OLC Winterthur",
+    "punteggio": "98.65",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:08:47",
+    "nome": "Fabien Pasquasy",
+    "societa": "O'Team Besançon",
+    "punteggio": "97.50",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:11:05",
+    "nome": "Mantas Rimkus",
+    "societa": "Azuolas",
+    "punteggio": "94.35",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:13:55",
+    "nome": "Tomáš Fibír",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "90.73",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:14:06",
+    "nome": "Toni Pikkarainen",
+    "societa": "Helsingin Suunnistajat",
+    "punteggio": "90.51",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:14:21",
+    "nome": "Filip Antoš",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "90.20",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:14:51",
+    "nome": "Michael Hohenwarter",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "89.60",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:18:10",
+    "nome": "Tomáš Kužel",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "85.80",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:19:07",
+    "nome": "Thomas Radon",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "84.77",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:19:29",
+    "nome": "Fredrik Persson",
+    "societa": "Wing OK",
+    "punteggio": "84.38",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:19:30",
+    "nome": "Boris Granovskiy",
+    "societa": "Grizzly Orienteering",
+    "punteggio": "84.36",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:20:39",
+    "nome": "Ludovic Ruiz",
+    "societa": "balise orientation albigeoise",
+    "punteggio": "83.16",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:21:27",
+    "nome": "Michael Sørensen",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "82.34",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:24:12",
+    "nome": "Sam Deferm",
+    "societa": "hamok",
+    "punteggio": "79.65",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:26:19",
+    "nome": "Ondrej Skripnik",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": "77.70",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:26:29",
+    "nome": "Cyril Herve",
+    "societa": "ASM CO",
+    "punteggio": "77.55",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:26:59",
+    "nome": "Pierre Kaltenbacher",
+    "societa": "HSV OL Wiener Neustadt",
+    "punteggio": "77.10",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:28:00",
+    "nome": "Blaž Kölner",
+    "societa": "Orientacijski klub Komenda",
+    "punteggio": "76.21",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:29:12",
+    "nome": "Andrius Jasiunas",
+    "societa": "OSK Šilas",
+    "punteggio": "75.19",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:29:44",
+    "nome": "Valdis Janovs",
+    "societa": "Siguldas Takas",
+    "punteggio": "74.74",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:30:40",
+    "nome": "Benjamin Variot",
+    "societa": "Club Orientation Ambérieu",
+    "punteggio": "73.97",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:32:14",
+    "nome": "Tõnis Kruusmaa",
+    "societa": "Rakvere Orienteeringclub",
+    "punteggio": "72.71",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:32:42",
+    "nome": "Jiří Novák",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "72.35",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:35:06",
+    "nome": "Juris Dzenitis",
+    "societa": "OK Meridians",
+    "punteggio": "70.52",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:35:09",
+    "nome": "David Alcock",
+    "societa": "Airienteers",
+    "punteggio": "70.49",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:35:11",
+    "nome": "Zoltán Weibl",
+    "societa": "Dva Kuku Orienteering",
+    "punteggio": "70.46",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:36:40",
+    "nome": "Valdas Lelkaitis",
+    "societa": "Fortuna OSK",
+    "punteggio": "69.38",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:37:26",
+    "nome": "Karlis Prieditis",
+    "societa": "Auseklis IK",
+    "punteggio": "68.83",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:37:52",
+    "nome": "Sergey Churkin",
+    "societa": "Orientacijski klub Komenda",
+    "punteggio": "68.53",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:39:26",
+    "nome": "Jan Kárník",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "67.45",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:41:00",
+    "nome": "David Currie",
+    "societa": "Southampton Orienteering Club",
+    "punteggio": "66.40",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:43:10",
+    "nome": "Kristaps Epners",
+    "societa": "Auseklis IK",
+    "punteggio": "65.01",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:43:48",
+    "nome": "Mateo Vijande",
+    "societa": "Malarruta",
+    "punteggio": "64.61",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:44:38",
+    "nome": "Gauthier Flandrin",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "64.10",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:47:07",
+    "nome": "Paulius Markovas",
+    "societa": "OK \"Perkunas\"",
+    "punteggio": "62.61",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:47:14",
+    "nome": "Karel Nitsch",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "62.54",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:47:34",
+    "nome": "Laurent Mouchette",
+    "societa": "Course d'orientation des pierres dorées",
+    "punteggio": "62.35",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:48:50",
+    "nome": "Tomas Zemla",
+    "societa": "OK Kamenice",
+    "punteggio": "61.62",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:49:25",
+    "nome": "Gregory Prins",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "61.29",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:50:56",
+    "nome": "Rolf Reubi",
+    "societa": "Thurgorienta",
+    "punteggio": "60.46",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:53:02",
+    "nome": "Nicolas Guilbert",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "59.33",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:53:40",
+    "nome": "Niklas Wernersson",
+    "societa": "Järfälla OK",
+    "punteggio": "59.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:54:01",
+    "nome": "Johan Hedman",
+    "societa": "Söders Orientering Tyresö",
+    "punteggio": "58.82",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:54:48",
+    "nome": "Iván Antonio Gálvez Muñoz",
+    "societa": "COMA",
+    "punteggio": "58.42",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:55:55",
+    "nome": "Hannes Wenzel",
+    "societa": "OLC Union Viktring",
+    "punteggio": "57.86",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:56:19",
+    "nome": "Alan O'Donnell",
+    "societa": "Fingal Orienteers",
+    "punteggio": "57.66",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:59:13",
+    "nome": "Pablo Barreiro",
+    "societa": "Raza Palleira",
+    "punteggio": "56.26",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:00:15",
+    "nome": "Christoph Gürtler",
+    "societa": "OLC Winterthur",
+    "punteggio": "55.77",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:00:41",
+    "nome": "Sebastiano Pollock",
+    "societa": "GO Vallemaggia",
+    "punteggio": "55.57",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:02:55",
+    "nome": "Ilmārs Miķelsons",
+    "societa": "Auseklis IK",
+    "punteggio": "54.56",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:03:20",
+    "nome": "Francois Huguet",
+    "societa": "ROMANS COURSE D'ORIENTATION",
+    "punteggio": "54.38",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:04:11",
+    "nome": "Peter Sigvardt",
+    "societa": "Odense OK",
+    "punteggio": "54.01",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:08:19",
+    "nome": "Nick Downing",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "52.27",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:11:03",
+    "nome": "Clément Serret",
+    "societa": "US CENON course d'orientation",
+    "punteggio": "51.18",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:14:15",
+    "nome": "Tamás Máthé",
+    "societa": "Balatonfüredi Sport Club",
+    "punteggio": "49.96",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:14:32",
+    "nome": "Gatis Ribaks",
+    "societa": "Auseklis IK",
+    "punteggio": "49.85",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:20:27",
+    "nome": "Andreas Binkert",
+    "societa": "OLC Winterthur",
+    "punteggio": "47.75",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:22:47",
+    "nome": "Pavel Kurfürst",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "46.97",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:23:36",
+    "nome": "Lászlo Hermann",
+    "societa": "Watch Out Cluj",
+    "punteggio": "46.70",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:23:38",
+    "nome": "Cédric Chevalier",
+    "societa": "Brivelimousinco",
+    "punteggio": "46.69",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:25:02",
+    "nome": "Martin Angermann",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "46.24",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:33:23",
+    "nome": "Antonio Domínguez Portas",
+    "societa": "Raza Palleira",
+    "punteggio": "43.72",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:36:46",
+    "nome": "Isaak Klieber",
+    "societa": "OL Zimmerberg",
+    "punteggio": "42.78",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "03:07:21",
+    "nome": "Leon Ricketts",
+    "societa": "Airienteers",
+    "punteggio": "35.80",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "03:07:55",
+    "nome": "Cédric Humbert",
+    "societa": "TOULON SPORTS NATURE",
+    "punteggio": "35.69",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "03:24:32",
+    "nome": "László Iván",
+    "societa": "MOM Budapest",
+    "punteggio": "32.79",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "03:43:14",
+    "nome": "Antoine Safin",
+    "societa": "C.O.Liège",
+    "punteggio": "30.04",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "03:53:58",
+    "nome": "Gaspard Lafarge",
+    "societa": "O'Bugey",
+    "punteggio": "28.67",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "04:12:58",
+    "nome": "Erik Zannier",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "26.51",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Thomas Antoine",
+    "societa": "L'Etabli",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Frédéric Parquet",
+    "societa": "Vikazim",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Branimir Pongrac",
+    "societa": "OK Japetić",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Marius Marian",
+    "societa": "Watch Out Cluj",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Miroslav Kadane",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Fabien Jouanillou",
+    "societa": "AbsoluRaid Occitanie",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Simon Philibert",
+    "societa": "Søllerød OK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Ronny Krüger",
+    "societa": "Berliner Turnerschaft Korp. Turn- und Sportverein e.V.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:18:58",
+    "nome": "Erik Hajdu",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "95.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:24:47",
+    "nome": "Adrián Tóth",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "88.48",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:31:16",
+    "nome": "Jari Johansson",
+    "societa": "OK Trian",
+    "punteggio": "82.20",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:33:47",
+    "nome": "Martin Weisbrich",
+    "societa": "SSV PLANETA Radebeul",
+    "punteggio": "79.99",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:55:24",
+    "nome": "Petr Dvorak",
+    "societa": "Lucifer headlamps",
+    "punteggio": "65.01",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:09:12",
+    "nome": "Tommy Bouchet",
+    "societa": "TRAILPHALIENS RAID",
+    "punteggio": "58.06",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:22:14",
+    "nome": "Nicolo Venuti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "52.74",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:30:54",
+    "nome": "Audrey Ehanno",
+    "societa": "Balise 63",
+    "punteggio": "49.71",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:48:28",
+    "nome": "Alessia Albano",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "95.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "02:57:44",
+    "nome": "Jan Valeš",
+    "societa": "Team Jizerky",
+    "punteggio": "42.21",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "03:03:56",
+    "nome": "Magda Horová",
+    "societa": "Universitni Sportovni Klub Praha",
+    "punteggio": "87.01",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "03:11:02",
+    "nome": "Enrico Pascatti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "39.27",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "03:17:02",
+    "nome": "Anna Clementi",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "81.23",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "03:19:57",
+    "nome": "Javier Flores",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "37.52",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "04:01:29",
+    "nome": "Vladimír Hora",
+    "societa": "Universitni Sportovni Klub Praha",
+    "punteggio": "31.07",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "05:29:33",
+    "nome": "Christian Nameche",
+    "societa": "ASUB Orientation",
+    "punteggio": "22.76",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "05:29:35",
+    "nome": "Anne Soumoy",
+    "societa": "ASUB Orientation",
+    "punteggio": "48.56",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:00:00",
+    "nome": "Claudia Rooman",
+    "societa": "Belgian Big Fat Guys",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:00:00",
+    "nome": "Korinna Tóth",
+    "societa": "Salgótarjáni Dornyay SE",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:00:00",
+    "nome": "Nico Laško",
+    "societa": "Belgian Big Fat Guys",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:00:00",
+    "nome": "Bence Turschl",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:48:57",
+    "nome": "Per Lenander",
+    "societa": "Växjö OK",
+    "punteggio": "90.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:55:41",
+    "nome": "Conor Short",
+    "societa": "CNOC",
+    "punteggio": "79.12",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:07:24",
+    "nome": "Karoline Weisbrich",
+    "societa": "SSV PLANETA Radebeul",
+    "punteggio": "90.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:09:15",
+    "nome": "Adrienne Brandi",
+    "societa": "Corsaorientamento Club Roma",
+    "punteggio": "87.60",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:10:08",
+    "nome": "Kasper Tofte",
+    "societa": "Odense OK",
+    "punteggio": "62.82",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:15:54",
+    "nome": "Göran Ohlsson",
+    "societa": "Tullinge SK",
+    "punteggio": "58.04",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:16:34",
+    "nome": "Martin Lejsek",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "57.54",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:19:26",
+    "nome": "Simon Andras",
+    "societa": "Watch Out Cluj",
+    "punteggio": "55.46",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:21:02",
+    "nome": "Marin Philibert",
+    "societa": "Søllerød OK",
+    "punteggio": "54.37",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:22:21",
+    "nome": "Patrick Buchberger",
+    "societa": "Der Berger-Clan",
+    "punteggio": "53.50",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:23:26",
+    "nome": "Veera Kimpimäki",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "72.70",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:23:40",
+    "nome": "Markku Piittari",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "52.66",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:23:48",
+    "nome": "Lauri Kimpimäki",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "52.57",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:25:08",
+    "nome": "Federico Bucci",
+    "societa": "ASD Orsa Maggiore",
+    "punteggio": "51.75",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:30:20",
+    "nome": "László Faggyas",
+    "societa": "Veszpremi Honved Sportegyesulet",
+    "punteggio": "48.77",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:32:28",
+    "nome": "Michal Veljacik",
+    "societa": "OK Sparta Praha",
+    "punteggio": "47.64",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:33:45",
+    "nome": "Johanna Honkanen",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "64.70",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:33:58",
+    "nome": "Wai Nang Chung",
+    "societa": "Hong Kong Orienteering Club",
+    "punteggio": "46.88",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:36:21",
+    "nome": "Urša Štanfel",
+    "societa": "SRD Alpe Adria trek i trail",
+    "punteggio": "62.96",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:36:41",
+    "nome": "Noora Holappa",
+    "societa": "Espoon Suunta",
+    "punteggio": "62.74",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:37:20",
+    "nome": "Aki Saranen",
+    "societa": "DT Pihkaniskat",
+    "punteggio": "62.32",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:37:35",
+    "nome": "Gustavs Dubovs",
+    "societa": "Auseklis IK",
+    "punteggio": "45.15",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:38:58",
+    "nome": "Lucile Chabance",
+    "societa": "Nature Orientation Saint Etienne",
+    "punteggio": "61.29",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:39:44",
+    "nome": "Kathrin Kollndorfer",
+    "societa": "HSV OL Wiener Neustadt",
+    "punteggio": "60.82",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:39:56",
+    "nome": "Hana Moudra",
+    "societa": "OK Sparta Praha",
+    "punteggio": "60.70",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:40:02",
+    "nome": "Signe Faber",
+    "societa": "OK Bomteknik",
+    "punteggio": "44.04",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:41:24",
+    "nome": "Erik Magnus Graae",
+    "societa": "Søllerød OK",
+    "punteggio": "43.45",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:43:08",
+    "nome": "Anne Johansson",
+    "societa": "OK Trian",
+    "punteggio": "58.82",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:43:26",
+    "nome": "Barbora Dvorakova",
+    "societa": "Lucifer headlamps",
+    "punteggio": "58.65",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:50:44",
+    "nome": "Péter Gyurcsik",
+    "societa": "Göcsej KTFE",
+    "punteggio": "39.78",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:53:54",
+    "nome": "Tomas Benes",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": "38.68",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:55:29",
+    "nome": "Maddalena Zupin",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "52.53",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:58:00",
+    "nome": "Heimo Keränen",
+    "societa": "Rasti-Hyry",
+    "punteggio": "37.33",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:03:03",
+    "nome": "Jakob Wirtz",
+    "societa": "ORIENT'ALP",
+    "punteggio": "35.80",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:05:17",
+    "nome": "Sabine Wareyka-Glaner",
+    "societa": "OJE Wappler",
+    "punteggio": "48.42",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:08:29",
+    "nome": "Fanni Kocsis",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "47.21",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:09:00",
+    "nome": "Georg jun. Gittmaier",
+    "societa": "HSV Ried im Innkreis",
+    "punteggio": "34.15",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:13:42",
+    "nome": "Marcus Geoghegan",
+    "societa": "Irish Rovers",
+    "punteggio": "32.95",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:14:43",
+    "nome": "Kerstin Wessberg",
+    "societa": "Härlövs IF",
+    "punteggio": "32.70",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:22:05",
+    "nome": "Varsányi Attila",
+    "societa": "Veszpremi Honved Sportegyesulet",
+    "punteggio": "31.01",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:22:19",
+    "nome": "Jerome Jacobs",
+    "societa": "C.O.Liège",
+    "punteggio": "30.96",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:32:01",
+    "nome": "Sebastian Geier",
+    "societa": "Der Berger-Clan",
+    "punteggio": "28.98",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:34:13",
+    "nome": "Mihály Laping",
+    "societa": "Watch Out Cluj",
+    "punteggio": "28.57",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:35:03",
+    "nome": "Rafaela Campanha",
+    "societa": "Clube de Montanha do Funchal",
+    "punteggio": "39.12",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:35:34",
+    "nome": "Man Wai Lee",
+    "societa": "Hong Kong Orienteering Club",
+    "punteggio": "28.32",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:38:27",
+    "nome": "Noémi Pusztai",
+    "societa": "Watch Out Cluj",
+    "punteggio": "38.28",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:40:23",
+    "nome": "Catherine Dupont",
+    "societa": "ASUB Orientation",
+    "punteggio": "37.82",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:40:57",
+    "nome": "Martti Salonen",
+    "societa": "Loimaan Jankko",
+    "punteggio": "37.69",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:46:23",
+    "nome": "Camille Bossard",
+    "societa": "Club Rennais de CO",
+    "punteggio": "36.46",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:48:05",
+    "nome": "Marta Raituma",
+    "societa": "Auseklis IK",
+    "punteggio": "36.09",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:50:52",
+    "nome": "Wai Kay Law",
+    "societa": "Hong Kong Orienteering Club",
+    "punteggio": "35.50",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:57:12",
+    "nome": "François Beerten",
+    "societa": "C.O.Liege",
+    "punteggio": "24.86",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:57:27",
+    "nome": "Wolfgang Schüller",
+    "societa": "Der Berger-Clan",
+    "punteggio": "24.83",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "03:01:20",
+    "nome": "Charles-edouard Massart",
+    "societa": "C.O.Liège",
+    "punteggio": "24.30",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "03:10:08",
+    "nome": "Zoltán Molnár",
+    "societa": "Watch Out Cluj",
+    "punteggio": "23.17",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "03:25:10",
+    "nome": "Fiona Buckley",
+    "societa": "Kerry Orienteers",
+    "punteggio": "29.57",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "03:55:01",
+    "nome": "Martin Buckley",
+    "societa": "Kerry Orienteers",
+    "punteggio": "18.75",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Maribeth Rothwell",
+    "societa": "Grizzly Orienteering",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Darrell Brown",
+    "societa": "Grizzly Orienteering",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Agne Medenia",
+    "societa": "Medeina OK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Ieva Epnere",
+    "societa": "Auseklis IK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Zuzana Wibmer",
+    "societa": "Haunold Orienteering Team",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Ditte Linde",
+    "societa": "Søllerød OK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Tjelvar Otterbjörk",
+    "societa": "Umeå OK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Jonas Veljacik",
+    "societa": "OK Sparta Praha",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Stéphanie Henry",
+    "societa": "CLUB ORIENTATION STRASBOURG EUROPE",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Gosia Nedzi",
+    "societa": "CNOC",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Jan Wessberg",
+    "societa": "Härlövs IF",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Inese Miķelsone",
+    "societa": "Auseklis IK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Nanna Hvidberg Tofte",
+    "societa": "Odense OK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Catherine Duterage",
+    "societa": "Guyancourt Orientation 78",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Valerie Meriguet",
+    "societa": "Guyancourt Orientation 78",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Esben Linde",
+    "societa": "Søllerød OK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:49:22",
+    "nome": "Iris Skammelsen Gilleladen",
+    "societa": "OK Bomteknik",
+    "punteggio": "85.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:58:07",
+    "nome": "Verna Kalliokulju",
+    "societa": "Helsingin Suunnistajat",
+    "punteggio": "72.20",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:06:14",
+    "nome": "William Mcgrail",
+    "societa": "OK Bomteknik",
+    "punteggio": "85.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:17:49",
+    "nome": "Milena Barca",
+    "societa": "GO Vallemaggia",
+    "punteggio": "53.92",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:17:54",
+    "nome": "Dace Lubāne",
+    "societa": "Auseklis IK",
+    "punteggio": "53.87",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:19:16",
+    "nome": "Ela Kuželová",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "52.94",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:20:11",
+    "nome": "Pernille Prud'homme",
+    "societa": "Nature Orientation Saint Etienne",
+    "punteggio": "52.33",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:21:20",
+    "nome": "Sun Yi",
+    "societa": "Deer-O",
+    "punteggio": "69.22",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:22:28",
+    "nome": "Klara Strejckova",
+    "societa": "KOS Tesla Brno",
+    "punteggio": "50.88",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:23:14",
+    "nome": "Eskild Spile",
+    "societa": "Odense OK",
+    "punteggio": "50.41",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:27:46",
+    "nome": "Janka Dienová",
+    "societa": "KOBRA Bratislava",
+    "punteggio": "47.81",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:28:44",
+    "nome": "Pierre Ferrand",
+    "societa": "MBLO",
+    "punteggio": "63.45",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:32:00",
+    "nome": "Robin Cermak",
+    "societa": "OK Sparta Praha",
+    "punteggio": "61.19",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:33:01",
+    "nome": "Katerina Skripnikova",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": "45.11",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:33:04",
+    "nome": "Klara Strejckova",
+    "societa": "KOS Tesla Brno",
+    "punteggio": "45.09",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:39:28",
+    "nome": "Nicoleta Marian",
+    "societa": "Watch Out Cluj",
+    "punteggio": "42.19",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:39:54",
+    "nome": "Brady Brown",
+    "societa": "Grizzly Orienteering",
+    "punteggio": "56.35",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:40:06",
+    "nome": "Nora Sophie Graasbøl Ødum",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "41.92",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:40:40",
+    "nome": "Gaël Champ",
+    "societa": "Sud Médoc Orientation Gironde",
+    "punteggio": "55.93",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:40:44",
+    "nome": "Morgane Bonhomme",
+    "societa": "COLIEGE",
+    "punteggio": "41.66",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:45:27",
+    "nome": "Petra Kocsis",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "39.79",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:47:15",
+    "nome": "Helen Anthony",
+    "societa": "Airienteers",
+    "punteggio": "39.13",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:50:10",
+    "nome": "Brigitte Rapotz",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "38.09",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:53:39",
+    "nome": "Antonia Gittmaier",
+    "societa": "HSV Ried im Innkreis",
+    "punteggio": "36.92",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:55:04",
+    "nome": "Zsuzsa Török",
+    "societa": "Watch Out Cluj",
+    "punteggio": "36.47",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:57:28",
+    "nome": "Elisabeth Buschek",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "35.72",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:03:31",
+    "nome": "Ilze Gilla",
+    "societa": "Auseklis IK",
+    "punteggio": "33.97",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:04:22",
+    "nome": "Marcela Kovarikova",
+    "societa": "Lucifer headlamps",
+    "punteggio": "33.74",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:07:43",
+    "nome": "Josefina Klašková",
+    "societa": "Oddíl OB Kotlářka, z.s.",
+    "punteggio": "32.86",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:11:19",
+    "nome": "Barbara Resch",
+    "societa": "Järfälla OK",
+    "punteggio": "31.95",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:14:45",
+    "nome": "Karine Champ",
+    "societa": "Sud Médoc Orientation Gironde",
+    "punteggio": "31.14",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:15:07",
+    "nome": "Aistė Petrevičienė",
+    "societa": "Fortuna OSK",
+    "punteggio": "31.06",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:17:00",
+    "nome": "Christine Teichmann",
+    "societa": "Sportunion Schöckl Graz",
+    "punteggio": "30.63",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:19:38",
+    "nome": "Anna Rita Bertolazzo",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "30.05",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:22:03",
+    "nome": "Franco Bellotti",
+    "societa": "Orientalp SROD",
+    "punteggio": "39.63",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:36:11",
+    "nome": "Maha Moujtahid",
+    "societa": "Nature Orientation Saint Etienne",
+    "punteggio": "26.87",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:40:08",
+    "nome": "Karina Ransby",
+    "societa": "Søllerød OK",
+    "punteggio": "26.20",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:53:33",
+    "nome": "Catherine Causeret",
+    "societa": "Noyon Course d'Orientation",
+    "punteggio": "24.18",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "03:16:16",
+    "nome": "Mauro Spano",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "28.68",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "03:22:43",
+    "nome": "Sandi Kmetič",
+    "societa": "Zarana",
+    "punteggio": "20.70",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Thor Skammelsen Gilleladen",
+    "societa": "OK Bomteknik",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Perrine Brin",
+    "societa": "TRAILPHALIENS RAID",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Gilles Ravier",
+    "societa": "Course d'Orientation Coeur de Savoie",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Cheyenne Ferrari",
+    "societa": "Braunschweiger MTV",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Daniel Fogelmark",
+    "societa": "OK Södertörn",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Ellen Thisted",
+    "societa": "Søllerød OK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Santina Doherty",
+    "societa": "GEN",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Kati Luffy",
+    "societa": "Watch Out Cluj",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Kincső Szalontai",
+    "societa": "Balatonfüredi Sport Club",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Diana Kälin Bähler",
+    "societa": "Thurgorienta",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:16:03",
+    "nome": "Maja Eva Voveris",
+    "societa": "Devyni OSK",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:17:06",
+    "nome": "Anna Novotná",
+    "societa": "OK99 Hradec Králové",
+    "punteggio": "93.86",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:18:09",
+    "nome": "Olivia Ojapalo",
+    "societa": "Lynx",
+    "punteggio": "88.43",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:18:39",
+    "nome": "Sára Szőcs",
+    "societa": "Watch Out Cluj",
+    "punteggio": "86.06",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:19:01",
+    "nome": "Felicita Priedīte",
+    "societa": "Auseklis IK",
+    "punteggio": "84.40",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:20:55",
+    "nome": "Beatrice Sessi",
+    "societa": "ASD-AŠZ GAJA Orienteering",
+    "punteggio": "76.73",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:22:21",
+    "nome": "Alžběta Kárníková",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "71.81",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:23:35",
+    "nome": "Burkhart Levinia",
+    "societa": "OL Regio Wil",
+    "punteggio": "68.06",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:24:41",
+    "nome": "Paula Angermann",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "65.02",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:25:27",
+    "nome": "Kateřina Redlichová",
+    "societa": "RBK Blansko",
+    "punteggio": "63.06",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:26:16",
+    "nome": "Alise Lubāne",
+    "societa": "Auseklis IK",
+    "punteggio": "61.10",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:26:24",
+    "nome": "Imola Laping",
+    "societa": "Watch Out Cluj",
+    "punteggio": "60.80",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:26:40",
+    "nome": "Janni Holappa",
+    "societa": "Espoon Suunta",
+    "punteggio": "60.19",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:26:41",
+    "nome": "Annika Binder",
+    "societa": "SPORTUNION Klagenfurt",
+    "punteggio": "60.15",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:27:09",
+    "nome": "Nora Branta",
+    "societa": "Auseklis IK",
+    "punteggio": "59.12",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:27:51",
+    "nome": "Anna Hohenwarter",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "57.63",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:28:00",
+    "nome": "Sophia Vassileva",
+    "societa": "CO2",
+    "punteggio": "57.32",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:29:42",
+    "nome": "Selma Roth",
+    "societa": "OLC Winterthur",
+    "punteggio": "54.04",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:30:25",
+    "nome": "Zoé Gastineau",
+    "societa": "Balise 77 Fontainebleau Avon",
+    "punteggio": "52.77",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:30:42",
+    "nome": "Lucia Meizer",
+    "societa": "SPORTUNION Klagenfurt",
+    "punteggio": "52.28",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:30:53",
+    "nome": "Penny Pinker-hull",
+    "societa": "Airienteers",
+    "punteggio": "51.97",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:31:41",
+    "nome": "Lauren Simpson",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "50.66",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:32:27",
+    "nome": "Náya Livia Krüger",
+    "societa": "Berliner Turnerschaft Korp. Turn- und Sportverein e.V.",
+    "punteggio": "49.46",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:32:37",
+    "nome": "Lærke Skammelsen Gilleladen",
+    "societa": "OK Bomteknik",
+    "punteggio": "49.21",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:33:22",
+    "nome": "Lara Coletti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "48.10",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:33:31",
+    "nome": "Anna Kurfürstová",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "47.89",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:38:00",
+    "nome": "Gro Linde",
+    "societa": "Søllerød OK",
+    "punteggio": "42.24",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:40:05",
+    "nome": "Fern Downing",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "40.04",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:42:27",
+    "nome": "Lucia Ujvari",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "37.81",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:42:33",
+    "nome": "Juliette Huguet",
+    "societa": "ROMANS COURSE D'ORIENTATION",
+    "punteggio": "37.72",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:43:06",
+    "nome": "Karlīna Epnere",
+    "societa": "Auseklis IK",
+    "punteggio": "37.24",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:46:47",
+    "nome": "Tara Grmovšek",
+    "societa": "MOK Pohorje",
+    "punteggio": "34.31",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:46:59",
+    "nome": "Isabella Chemis",
+    "societa": "Wing OK",
+    "punteggio": "34.16",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:54:50",
+    "nome": "Vilja Kimpimäki",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "29.27",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:54:59",
+    "nome": "Marie Valešová",
+    "societa": "Team Jizerky",
+    "punteggio": "29.19",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "01:02:56",
+    "nome": "Tereza Švihovská",
+    "societa": "Team Jizerky",
+    "punteggio": "25.50",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "01:03:06",
+    "nome": "Lara Pfarrwaller",
+    "societa": "OLC Winterthur",
+    "punteggio": "25.44",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "01:28:18",
+    "nome": "Anka Duran García",
+    "societa": "Malarruta",
+    "punteggio": "18.18",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:52:06",
+    "nome": "Greet Oeyen",
+    "societa": "hamok",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:04:27",
+    "nome": "Linda Larsson",
+    "societa": "Järfälla OK",
+    "punteggio": "80.84",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:06:26",
+    "nome": "Kim Baxter",
+    "societa": "South Yorkshire Orienteers",
+    "punteggio": "78.42",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:06:48",
+    "nome": "Elisabeth Schutjes",
+    "societa": "hamok",
+    "punteggio": "77.99",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:08:56",
+    "nome": "Åsa Otterbjörk",
+    "societa": "Umeå OK",
+    "punteggio": "75.58",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:09:18",
+    "nome": "Reda Velde",
+    "societa": "RE",
+    "punteggio": "75.18",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:12:06",
+    "nome": "Hanna-Riikka Koskinen",
+    "societa": "Espoon Suunta",
+    "punteggio": "72.26",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:12:08",
+    "nome": "Katarina Lenander",
+    "societa": "Växjö OK",
+    "punteggio": "72.23",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:12:29",
+    "nome": "Astrid Fritschi",
+    "societa": "OLC Winterthur",
+    "punteggio": "71.88",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:14:07",
+    "nome": "Pernille Buch",
+    "societa": "OK Gorm",
+    "punteggio": "70.29",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:14:45",
+    "nome": "Aline Hermans",
+    "societa": "C.O.Liège",
+    "punteggio": "69.70",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:14:54",
+    "nome": "Mojca Flerin Drevenšek",
+    "societa": "Kamniški orientacijski klub",
+    "punteggio": "69.56",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:15:01",
+    "nome": "Toni O'donovan",
+    "societa": "Leicestershire Orienteering Club",
+    "punteggio": "69.45",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:19:18",
+    "nome": "Johanna Tervo",
+    "societa": "Pihkaniskat",
+    "punteggio": "65.70",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:19:26",
+    "nome": "Stinne Skammelsen",
+    "societa": "OK Bomteknik",
+    "punteggio": "65.59",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:19:39",
+    "nome": "Pernille Brunstedt Jacobsen",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "65.41",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:23:31",
+    "nome": "Marina Skern",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "62.38",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:24:39",
+    "nome": "Kateřina Arnoštová",
+    "societa": "Sportovni akademie Dobris",
+    "punteggio": "61.55",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:28:48",
+    "nome": "Fionne Austin",
+    "societa": "Lagan Valley Orienteers",
+    "punteggio": "58.67",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:29:00",
+    "nome": "Rikke Kofoed",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "58.54",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:29:44",
+    "nome": "Eva Zemlova",
+    "societa": "OK Kamenice",
+    "punteggio": "58.06",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:30:06",
+    "nome": "Sandra Priedite",
+    "societa": "Auseklis IK",
+    "punteggio": "57.82",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:30:38",
+    "nome": "Ieva Maulina",
+    "societa": "Briksnis - Latvia",
+    "punteggio": "57.48",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:31:16",
+    "nome": "Pavla Svítilová",
+    "societa": "SK Praga",
+    "punteggio": "57.09",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:32:00",
+    "nome": "Petra Reubi",
+    "societa": "Thurgorienta",
+    "punteggio": "56.63",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:32:47",
+    "nome": "Catherine Wilson",
+    "societa": "Pendle Forest Orienteers",
+    "punteggio": "56.15",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:34:03",
+    "nome": "Sonja Jantar",
+    "societa": "OK Japetić",
+    "punteggio": "55.40",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:34:46",
+    "nome": "Rie McGrail",
+    "societa": "OK Bomteknik",
+    "punteggio": "54.98",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:35:56",
+    "nome": "Marta Dlouhá",
+    "societa": "SK Praga",
+    "punteggio": "54.31",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:37:35",
+    "nome": "Vinciane Mulpas",
+    "societa": "ASUB Orientation",
+    "punteggio": "53.39",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:40:06",
+    "nome": "Rebecca Simpson",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "52.05",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:41:04",
+    "nome": "Adela Illamola Colome",
+    "societa": "Unió Excursionista Vic",
+    "punteggio": "51.55",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:43:48",
+    "nome": "Céline Ruiz",
+    "societa": "balise orientation albigeoise",
+    "punteggio": "50.19",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:44:15",
+    "nome": "Markéta Držková",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "49.98",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:45:04",
+    "nome": "Szabó Ágnes",
+    "societa": "Gerecse Tájfutó Club",
+    "punteggio": "49.59",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:45:24",
+    "nome": "Caroline Chevalier",
+    "societa": "Brivelimousinco",
+    "punteggio": "49.43",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:46:43",
+    "nome": "Aline Harmand",
+    "societa": "Søllerød OK",
+    "punteggio": "48.82",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:47:29",
+    "nome": "Jeanette Downing",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "48.47",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:52:11",
+    "nome": "Karīna Janova",
+    "societa": "Siguldas Takas",
+    "punteggio": "46.44",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:53:06",
+    "nome": "Tanja Grmovšek",
+    "societa": "MOK Pohorje",
+    "punteggio": "46.07",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:56:48",
+    "nome": "Elodie Vandomme",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "44.61",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:57:26",
+    "nome": "Marion Durand",
+    "societa": "Balise 77 Fontainebleau Avon",
+    "punteggio": "44.37",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:58:02",
+    "nome": "Zuzana Fibírová",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "44.14",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:58:50",
+    "nome": "Virginia Guell Rovira",
+    "societa": "Xinoxano Orientació",
+    "punteggio": "43.84",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:58:58",
+    "nome": "Andrea Klieber",
+    "societa": "OL Zimmerberg",
+    "punteggio": "43.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:59:03",
+    "nome": "Ilze Bara",
+    "societa": "Briksnis - Latvia",
+    "punteggio": "43.76",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:59:27",
+    "nome": "Hanne Fredberg",
+    "societa": "OK Bomteknik",
+    "punteggio": "43.62",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:59:34",
+    "nome": "Chrystelle Fauvet",
+    "societa": "Noyon Course d'Orientation",
+    "punteggio": "43.57",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:00:41",
+    "nome": "Irena Hacin Kölner",
+    "societa": "Orientacijski klub Komenda",
+    "punteggio": "43.17",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:01:17",
+    "nome": "Marlène Sanchez",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "42.96",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:01:24",
+    "nome": "elisabeth Huguet",
+    "societa": "ROMANS COURSE D'ORIENTATION",
+    "punteggio": "42.92",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:01:58",
+    "nome": "Ida Baluskova",
+    "societa": "OK 24 Praha",
+    "punteggio": "42.72",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:03:15",
+    "nome": "Elisa Albrizio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "42.27",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:03:15",
+    "nome": "Sara Gaion",
+    "societa": "ORIENTEERING TRIESTE A.S.D.",
+    "punteggio": "42.27",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:05:17",
+    "nome": "Nadejda Vasiloi",
+    "societa": "OPA MONTIGNY",
+    "punteggio": "41.59",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:05:58",
+    "nome": "Coralie Jourde",
+    "societa": "Balise 63",
+    "punteggio": "41.36",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:08:29",
+    "nome": "Šárka Holasová",
+    "societa": "OBO",
+    "punteggio": "40.55",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:08:35",
+    "nome": "Peichi Chuang",
+    "societa": "Moxina OK",
+    "punteggio": "40.52",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:09:59",
+    "nome": "Baiba Nummure",
+    "societa": "Auseklis IK",
+    "punteggio": "40.08",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:14:33",
+    "nome": "Luciana Szőcs",
+    "societa": "Watch Out Cluj",
+    "punteggio": "38.72",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:16:31",
+    "nome": "Marie-laure Soubielle",
+    "societa": "US CENON course d'orientation",
+    "punteggio": "38.16",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:17:16",
+    "nome": "Nicole Steinlin",
+    "societa": "OLC Winterthur",
+    "punteggio": "37.96",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:33:17",
+    "nome": "Hélène Madranges",
+    "societa": "ASM CO",
+    "punteggio": "33.99",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:39:09",
+    "nome": "Magdalena Kurfurstova",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "32.74",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:50:28",
+    "nome": "Morgane Cyffers",
+    "societa": "Villeneuve d'Ascq Lille Métropole Orientation",
+    "punteggio": "30.56",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:59:41",
+    "nome": "Anna Antošová",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "29.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "03:19:56",
+    "nome": "Gundega Ulme",
+    "societa": "OK Kapa",
+    "punteggio": "26.06",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Linda Krumina",
+    "societa": "Briksnis - Latvia",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Rasa Ivanauskaite",
+    "societa": "Azuolas",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Vilma Balciunaite",
+    "societa": "Telšiai OK",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Cécile Ricard",
+    "societa": "ORIENT'ALP",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Mette Pilemand",
+    "societa": "Søllerød OK",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Ilze Kažociņa",
+    "societa": "Auseklis IK",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Erzsébet Langviser",
+    "societa": "Watch Out Cluj",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Lucie Rothauer",
+    "societa": "ASKÖ Henndorf Orienteering",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Elisabeth Sandrisser",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:49:46",
+    "nome": "Päivi Lassila",
+    "societa": "DT Rastiimi",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:56:37",
+    "nome": "Christina Smedberg",
+    "societa": "OK Skogsfalken",
+    "punteggio": "87.90",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:56:41",
+    "nome": "Priska Curiger",
+    "societa": "OLC Kapreolo",
+    "punteggio": "87.80",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:00:56",
+    "nome": "Taina Louhivuori",
+    "societa": "Anttolan Urheilijat",
+    "punteggio": "81.67",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:03:16",
+    "nome": "Joli Wehrli",
+    "societa": "swissotours.ch",
+    "punteggio": "78.66",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:09:26",
+    "nome": "Toril Hallan",
+    "societa": "Lillomarka o-lag",
+    "punteggio": "71.68",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:10:12",
+    "nome": "Anna-karin Sundqvist",
+    "societa": "Tullinge SK",
+    "punteggio": "70.89",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:11:41",
+    "nome": "Susanne Wenk",
+    "societa": "O-Explorer TG/ZH",
+    "punteggio": "69.43",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:13:58",
+    "nome": "Ildikó Mátyás",
+    "societa": "HSE Szentendre",
+    "punteggio": "67.28",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:18:12",
+    "nome": "Anne Svantesson",
+    "societa": "Hjärnarps OL",
+    "punteggio": "63.64",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:19:31",
+    "nome": "Annika Von Schoultz",
+    "societa": "Bastholmens IF",
+    "punteggio": "62.59",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:21:18",
+    "nome": "Irene Gassner",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "61.21",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:22:10",
+    "nome": "Roswitha Micko",
+    "societa": "Gruppe Orientierungs-Sport Harzberg",
+    "punteggio": "60.57",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:22:11",
+    "nome": "Liisa Rihko-Struckmann",
+    "societa": "Braunschweiger MTV",
+    "punteggio": "60.56",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:23:23",
+    "nome": "Maria Douglas",
+    "societa": "FIF Hillerod",
+    "punteggio": "59.68",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:29:12",
+    "nome": "Doris Gittmaier",
+    "societa": "HSV Ried im Innkreis",
+    "punteggio": "55.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:32:11",
+    "nome": "Cristina Ruini",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "53.99",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:42:22",
+    "nome": "Bernadette Govaerts",
+    "societa": "LOST",
+    "punteggio": "48.62",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:44:55",
+    "nome": "Ursula Wolf",
+    "societa": "OLG Davos",
+    "punteggio": "47.43",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:47:37",
+    "nome": "Nicoletta Dutly",
+    "societa": "GO Vallemaggia",
+    "punteggio": "46.24",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:48:51",
+    "nome": "Laurence Champigny",
+    "societa": "ACA Aix Provence",
+    "punteggio": "45.72",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:51:25",
+    "nome": "Mette Edsen",
+    "societa": "Nordvest ok",
+    "punteggio": "44.67",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:55:49",
+    "nome": "Tuija Jurvakainen",
+    "societa": "Rasti-Hyry",
+    "punteggio": "42.97",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:55:52",
+    "nome": "Adriana Flórez-estrada Mallart",
+    "societa": "CLUB RIOJANO DE ORIENTACION EN LA NATURALEZA",
+    "punteggio": "42.95",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "02:00:38",
+    "nome": "Nathalie Bouche",
+    "societa": "Animation Sillery Orientation",
+    "punteggio": "41.25",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "02:00:52",
+    "nome": "Regina Ježková",
+    "societa": "SK Praga",
+    "punteggio": "41.17",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "02:07:01",
+    "nome": "Annaliisa Issakainen",
+    "societa": "Rasti-Hyry",
+    "punteggio": "39.18",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "02:09:15",
+    "nome": "Catherine Coulier",
+    "societa": "LUBO",
+    "punteggio": "38.50",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "02:28:31",
+    "nome": "Inger Simonsen",
+    "societa": "Silkeborg OK",
+    "punteggio": "33.51",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "02:36:55",
+    "nome": "Claire Muyllaert",
+    "societa": "ASUB Orientation",
+    "punteggio": "31.72",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "02:40:16",
+    "nome": "Vickie Wong Wai Ching",
+    "societa": "Hong Kong Orienteering Club",
+    "punteggio": "31.05",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "02:42:47",
+    "nome": "Odile Poulain",
+    "societa": "ASUB Orientation",
+    "punteggio": "30.57",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "02:54:14",
+    "nome": "Edith Bridcut",
+    "societa": "GEN",
+    "punteggio": "28.56",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "03:28:07",
+    "nome": "Véronique Bolzer",
+    "societa": "Sports Orientation Lunéville",
+    "punteggio": "23.91",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Myriam Stewart",
+    "societa": "Valbonne Sophia Antipolis Orientation",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Annick Rouserez",
+    "societa": "ASUB Orientation",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Sylvie Marchesin",
+    "societa": "SCAPA NANCY ORIENTATION",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Rosário Matias",
+    "societa": "Lisboa OK",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Renate Lienhart",
+    "societa": "OLC Winterthur",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Annelli Sandbaek",
+    "societa": "OK Pan Aarhus - Hauerslev",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Marketa Veljacikova",
+    "societa": "OK Sparta Praha",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Prisca Guglielmetti",
+    "societa": "GO Vallemaggia",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Gerhild Pacher",
+    "societa": "Sportunion Schöckl Graz",
+    "punteggio": 0,
+    "femmina": true
+  }
+]
+  },
+    {nome:"21) Orange Cup Day 5 31/07",
+     dati: [
+  {
+    "categoria": "M45",
+    "tempo": "00:35:17",
+    "nome": "Tomáš Fibír",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:35:57",
+    "nome": "Fabien Pasquasy",
+    "societa": "O'Team Besançon",
+    "punteggio": "98.15",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:37:11",
+    "nome": "Rune Nygaard Monrad",
+    "societa": "OK Bomteknik",
+    "punteggio": "94.89",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:37:26",
+    "nome": "Michael Sørensen",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "94.26",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:39:55",
+    "nome": "Boris Granovskiy",
+    "societa": "Grizzly Orienteering",
+    "punteggio": "88.39",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:40:14",
+    "nome": "Mantas Rimkus",
+    "societa": "Azuolas",
+    "punteggio": "87.70",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:40:16",
+    "nome": "Pierre Kaltenbacher",
+    "societa": "HSV OL Wiener Neustadt",
+    "punteggio": "87.62",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:40:26",
+    "nome": "Andreas Hinder",
+    "societa": "OLC Winterthur",
+    "punteggio": "87.26",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:40:29",
+    "nome": "Sam Deferm",
+    "societa": "hamok",
+    "punteggio": "87.16",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:43:28",
+    "nome": "Jiří Novák",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "81.17",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:43:42",
+    "nome": "Juris Dzenitis",
+    "societa": "OK Meridians",
+    "punteggio": "80.74",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:44:10",
+    "nome": "Thomas Antoine",
+    "societa": "L'Etabli",
+    "punteggio": "79.89",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:44:14",
+    "nome": "Toni Pikkarainen",
+    "societa": "Helsingin Suunnistajat",
+    "punteggio": "79.77",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:44:15",
+    "nome": "David Currie",
+    "societa": "Southampton Orienteering Club",
+    "punteggio": "79.74",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:44:37",
+    "nome": "Ludovic Ruiz",
+    "societa": "balise orientation albigeoise",
+    "punteggio": "79.08",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:44:44",
+    "nome": "Tomáš Kužel",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "78.87",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:45:56",
+    "nome": "Rolf Reubi",
+    "societa": "Thurgorienta",
+    "punteggio": "76.81",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:46:14",
+    "nome": "Blaž Kölner",
+    "societa": "Orientacijski klub Komenda",
+    "punteggio": "76.32",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:46:24",
+    "nome": "Filip Antoš",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "76.04",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:46:43",
+    "nome": "Sergey Churkin",
+    "societa": "Orientacijski klub Komenda",
+    "punteggio": "75.53",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:46:49",
+    "nome": "Cyril Herve",
+    "societa": "ASM CO",
+    "punteggio": "75.36",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:46:51",
+    "nome": "Nicolas Guilbert",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "75.31",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:47:27",
+    "nome": "Frédéric Parquet",
+    "societa": "Vikazim",
+    "punteggio": "74.36",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:48:09",
+    "nome": "Thomas Radon",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "73.28",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:48:11",
+    "nome": "Fredrik Persson",
+    "societa": "Wing OK",
+    "punteggio": "73.23",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:49:01",
+    "nome": "Tõnis Kruusmaa",
+    "societa": "Rakvere Orienteeringclub",
+    "punteggio": "71.98",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:49:28",
+    "nome": "Johan Hedman",
+    "societa": "Söders Orientering Tyresö",
+    "punteggio": "71.33",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:49:42",
+    "nome": "Jan Kárník",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "70.99",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:50:37",
+    "nome": "Karlis Prieditis",
+    "societa": "Auseklis IK",
+    "punteggio": "69.71",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:52:21",
+    "nome": "Tomas Zemla",
+    "societa": "OK Kamenice",
+    "punteggio": "67.40",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:52:23",
+    "nome": "Valdis Janovs",
+    "societa": "Siguldas Takas",
+    "punteggio": "67.36",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:52:27",
+    "nome": "Karel Nitsch",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "67.27",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:53:25",
+    "nome": "Antonio Domínguez Portas",
+    "societa": "Raza Palleira",
+    "punteggio": "66.05",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:53:38",
+    "nome": "Zoltán Weibl",
+    "societa": "Dva Kuku Orienteering",
+    "punteggio": "65.79",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:54:13",
+    "nome": "Clément Serret",
+    "societa": "US CENON course d'orientation",
+    "punteggio": "65.08",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:55:21",
+    "nome": "David Alcock",
+    "societa": "Airienteers",
+    "punteggio": "63.75",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:55:37",
+    "nome": "Simon Philibert",
+    "societa": "Søllerød OK",
+    "punteggio": "63.44",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:56:06",
+    "nome": "Mateo Vijande",
+    "societa": "Malarruta",
+    "punteggio": "62.89",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:56:59",
+    "nome": "Pavel Kurfürst",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "61.92",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:57:45",
+    "nome": "Gatis Ribaks",
+    "societa": "Auseklis IK",
+    "punteggio": "61.10",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:58:04",
+    "nome": "Christoph Gürtler",
+    "societa": "OLC Winterthur",
+    "punteggio": "60.76",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:58:13",
+    "nome": "Andrius Jasiunas",
+    "societa": "OSK Šilas",
+    "punteggio": "60.61",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:58:39",
+    "nome": "Gregory Prins",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "60.16",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:59:19",
+    "nome": "Valdas Lelkaitis",
+    "societa": "Fortuna OSK",
+    "punteggio": "59.48",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:59:26",
+    "nome": "Kristaps Epners",
+    "societa": "Auseklis IK",
+    "punteggio": "59.37",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:00:04",
+    "nome": "Salvador Perez Piqueras",
+    "societa": "Desorientados",
+    "punteggio": "58.74",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:00:09",
+    "nome": "Niklas Wernersson",
+    "societa": "Järfälla OK",
+    "punteggio": "58.66",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:00:21",
+    "nome": "Pablo Barreiro",
+    "societa": "Raza Palleira",
+    "punteggio": "58.46",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:00:46",
+    "nome": "Laurent Mouchette",
+    "societa": "Course d'orientation des pierres dorées",
+    "punteggio": "58.06",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:01:41",
+    "nome": "Tamás Máthé",
+    "societa": "Balatonfüredi Sport Club",
+    "punteggio": "57.20",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:02:55",
+    "nome": "Ilmārs Miķelsons",
+    "societa": "Auseklis IK",
+    "punteggio": "56.08",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:03:27",
+    "nome": "Sebastiano Pollock",
+    "societa": "GO Vallemaggia",
+    "punteggio": "55.61",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:05:07",
+    "nome": "José Joaquín Montero Moya",
+    "societa": "Desorientados",
+    "punteggio": "54.18",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:05:37",
+    "nome": "Isaak Klieber",
+    "societa": "OL Zimmerberg",
+    "punteggio": "53.77",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:07:17",
+    "nome": "Hannes Wenzel",
+    "societa": "OLC Union Viktring",
+    "punteggio": "52.44",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:10:01",
+    "nome": "Francois Huguet",
+    "societa": "ROMANS COURSE D'ORIENTATION",
+    "punteggio": "50.39",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:11:18",
+    "nome": "Jose Puche Madrid",
+    "societa": "Desorientados",
+    "punteggio": "49.49",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:11:41",
+    "nome": "Martin Angermann",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "49.22",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:12:21",
+    "nome": "Francisco Sáez García",
+    "societa": "Desorientados",
+    "punteggio": "48.77",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:14:24",
+    "nome": "Peter Sigvardt",
+    "societa": "Odense OK",
+    "punteggio": "47.42",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:16:54",
+    "nome": "Alan O'Donnell",
+    "societa": "Fingal Orienteers",
+    "punteggio": "45.88",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:17:31",
+    "nome": "Andreas Binkert",
+    "societa": "OLC Winterthur",
+    "punteggio": "45.52",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:25:50",
+    "nome": "Antoine Safin",
+    "societa": "C.O.Liège",
+    "punteggio": "41.11",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:26:08",
+    "nome": "Fabien Jouanillou",
+    "societa": "AbsoluRaid Occitanie",
+    "punteggio": "40.96",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:32:30",
+    "nome": "Lászlo Hermann",
+    "societa": "Watch Out Cluj",
+    "punteggio": "38.14",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:35:10",
+    "nome": "Leon Ricketts",
+    "societa": "Airienteers",
+    "punteggio": "37.08",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:39:49",
+    "nome": "László Iván",
+    "societa": "MOM Budapest",
+    "punteggio": "35.35",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "01:43:08",
+    "nome": "Cédric Humbert",
+    "societa": "TOULON SPORTS NATURE",
+    "punteggio": "34.21",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:11:43",
+    "nome": "Gaspard Lafarge",
+    "societa": "O'Bugey",
+    "punteggio": "26.79",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "02:15:37",
+    "nome": "Marius Marian",
+    "societa": "Watch Out Cluj",
+    "punteggio": "26.02",
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Nick Downing",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Miroslav Kadane",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Ondrej Skripnik",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Ronny Krüger",
+    "societa": "Berliner Turnerschaft Korp. Turn- und Sportverein e.V.",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Iván Antonio Gálvez Muñoz",
+    "societa": "COMA",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Gauthier Flandrin",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Cédric Chevalier",
+    "societa": "Brivelimousinco",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Erik Zannier",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "M45",
+    "tempo": "00:00:00",
+    "nome": "Paulius Markovas",
+    "societa": "OK \"Perkunas\"",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:44:14",
+    "nome": "Erik Hajdu",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "95.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:55:49",
+    "nome": "Jari Johansson",
+    "societa": "OK Trian",
+    "punteggio": "75.29",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:58:43",
+    "nome": "Martin Weisbrich",
+    "societa": "SSV PLANETA Radebeul",
+    "punteggio": "71.57",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:59:51",
+    "nome": "Nico Laško",
+    "societa": "Belgian Big Fat Guys",
+    "punteggio": "70.21",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:03:19",
+    "nome": "Neža Obid",
+    "societa": "OK Azimut",
+    "punteggio": "95.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:11:35",
+    "nome": "Petr Dvorak",
+    "societa": "Lucifer headlamps",
+    "punteggio": "58.70",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:18:32",
+    "nome": "Tommy Bouchet",
+    "societa": "TRAILPHALIENS RAID",
+    "punteggio": "53.51",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:22:50",
+    "nome": "Claudia Rooman",
+    "societa": "Belgian Big Fat Guys",
+    "punteggio": "72.62",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:30:39",
+    "nome": "Audrey Ehanno",
+    "societa": "Balise 63",
+    "punteggio": "46.36",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:32:34",
+    "nome": "Alessia Albano",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "64.98",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:34:00",
+    "nome": "Magda Horová",
+    "societa": "Universitni Sportovni Klub Praha",
+    "punteggio": "63.99",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:39:54",
+    "nome": "Anna Clementi",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "60.21",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:41:41",
+    "nome": "Enrico Pascatti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "41.33",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:45:58",
+    "nome": "Jan Valeš",
+    "societa": "Team Jizerky",
+    "punteggio": "39.66",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "01:52:40",
+    "nome": "Vladimír Hora",
+    "societa": "Universitni Sportovni Klub Praha",
+    "punteggio": "37.30",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "03:23:06",
+    "nome": "Anne Soumoy",
+    "societa": "ASUB Orientation",
+    "punteggio": "29.62",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "03:23:07",
+    "nome": "Christian Nameche",
+    "societa": "ASUB Orientation",
+    "punteggio": "20.69",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:00:00",
+    "nome": "Nicolo Venuti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:00:00",
+    "nome": "Korinna Tóth",
+    "societa": "Salgótarjáni Dornyay SE",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN A",
+    "tempo": "00:00:00",
+    "nome": "Javier Flores",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:31:41",
+    "nome": "Per Lenander",
+    "societa": "Växjö OK",
+    "punteggio": "90.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:37:17",
+    "nome": "Adrienne Brandi",
+    "societa": "Corsaorientamento Club Roma",
+    "punteggio": "90.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:39:41",
+    "nome": "Simon Andras",
+    "societa": "Watch Out Cluj",
+    "punteggio": "71.86",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:40:30",
+    "nome": "Karoline Weisbrich",
+    "societa": "SSV PLANETA Radebeul",
+    "punteggio": "82.85",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:40:33",
+    "nome": "Marin Philibert",
+    "societa": "Søllerød OK",
+    "punteggio": "70.32",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:40:34",
+    "nome": "Péter Gyurcsik",
+    "societa": "Göcsej KTFE",
+    "punteggio": "70.29",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:41:19",
+    "nome": "Corinna Biel",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "81.21",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:42:20",
+    "nome": "Esben Linde",
+    "societa": "Søllerød OK",
+    "punteggio": "67.36",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:42:25",
+    "nome": "Martin Lejsek",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "67.23",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:44:57",
+    "nome": "Patrick Buchberger",
+    "societa": "Der Berger-Clan",
+    "punteggio": "63.44",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:45:02",
+    "nome": "Erik Magnus Graae",
+    "societa": "Søllerød OK",
+    "punteggio": "63.32",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:45:55",
+    "nome": "Markku Piittari",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "62.10",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:46:03",
+    "nome": "Lauri Kimpimäki",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "61.92",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:46:35",
+    "nome": "Michal Veljacik",
+    "societa": "OK Sparta Praha",
+    "punteggio": "61.21",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:48:22",
+    "nome": "Lucile Chabance",
+    "societa": "Nature Orientation Saint Etienne",
+    "punteggio": "69.38",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:48:57",
+    "nome": "Georg jun. Gittmaier",
+    "societa": "HSV Ried im Innkreis",
+    "punteggio": "58.25",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:49:10",
+    "nome": "Veera Kimpimäki",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "68.25",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:49:17",
+    "nome": "Johanna Honkanen",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "68.09",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:49:19",
+    "nome": "Jerome Jacobs",
+    "societa": "C.O.Liège",
+    "punteggio": "57.82",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:49:44",
+    "nome": "László Faggyas",
+    "societa": "Veszpremi Honved Sportegyesulet",
+    "punteggio": "57.34",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:50:32",
+    "nome": "Federico Bucci",
+    "societa": "ASD Orsa Maggiore",
+    "punteggio": "56.43",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:51:12",
+    "nome": "Charles-edouard Massart",
+    "societa": "C.O.Liège",
+    "punteggio": "55.69",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:51:45",
+    "nome": "Danni Zhen",
+    "societa": "YCONE SENS",
+    "punteggio": "55.10",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:53:36",
+    "nome": "Maddalena Zupin",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "62.60",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:54:19",
+    "nome": "Wai Nang Chung",
+    "societa": "Hong Kong Orienteering Club",
+    "punteggio": "61.78",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:54:38",
+    "nome": "Fanni Kocsis",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "61.42",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:54:52",
+    "nome": "Kasper Tofte",
+    "societa": "Odense OK",
+    "punteggio": "51.97",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:55:19",
+    "nome": "Elmeri Wanne",
+    "societa": "Rasti-Hyry",
+    "punteggio": "51.55",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:55:29",
+    "nome": "Urša Štanfel",
+    "societa": "SRD Alpe Adria trek i trail",
+    "punteggio": "60.48",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:55:37",
+    "nome": "Aki Saranen",
+    "societa": "DT Pihkaniskat",
+    "punteggio": "60.33",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:56:08",
+    "nome": "Noora Holappa",
+    "societa": "Espoon Suunta",
+    "punteggio": "59.78",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:56:10",
+    "nome": "Marcus Geoghegan",
+    "societa": "Irish Rovers",
+    "punteggio": "50.77",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:58:21",
+    "nome": "Gustavs Dubovs",
+    "societa": "Auseklis IK",
+    "punteggio": "48.87",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:58:50",
+    "nome": "Jan Wessberg",
+    "societa": "Härlövs IF",
+    "punteggio": "48.47",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:58:53",
+    "nome": "Signe Faber",
+    "societa": "OK Bomteknik",
+    "punteggio": "56.99",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:00:24",
+    "nome": "Sabine Wareyka-Glaner",
+    "societa": "OJE Wappler",
+    "punteggio": "55.55",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:00:39",
+    "nome": "Hana Moudra",
+    "societa": "OK Sparta Praha",
+    "punteggio": "55.33",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:00:49",
+    "nome": "Helga Kaltenbacher",
+    "societa": "HSV OL Wiener Neustadt",
+    "punteggio": "55.17",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:00:51",
+    "nome": "Barbora Dvorakova",
+    "societa": "Lucifer headlamps",
+    "punteggio": "55.14",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:01:27",
+    "nome": "Kathrin Kollndorfer",
+    "societa": "HSV OL Wiener Neustadt",
+    "punteggio": "54.61",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:01:47",
+    "nome": "Jakob Wirtz",
+    "societa": "ORIENT'ALP",
+    "punteggio": "46.15",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:02:20",
+    "nome": "Tomas Benes",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": "45.75",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:03:33",
+    "nome": "François Beerten",
+    "societa": "C.O.Liege",
+    "punteggio": "44.87",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:04:02",
+    "nome": "Varsányi Attila",
+    "societa": "Veszpremi Honved Sportegyesulet",
+    "punteggio": "44.53",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:05:03",
+    "nome": "Heimo Keränen",
+    "societa": "Rasti-Hyry",
+    "punteggio": "43.84",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:05:39",
+    "nome": "Man Wai Lee",
+    "societa": "Hong Kong Orienteering Club",
+    "punteggio": "43.43",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:08:02",
+    "nome": "Anne Johansson",
+    "societa": "OK Trian",
+    "punteggio": "49.32",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:10:45",
+    "nome": "Ditte Linde",
+    "societa": "Søllerød OK",
+    "punteggio": "47.43",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:11:39",
+    "nome": "Sebastian Geier",
+    "societa": "Der Berger-Clan",
+    "punteggio": "39.80",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:13:02",
+    "nome": "Wai Kay Law",
+    "societa": "Hong Kong Orienteering Club",
+    "punteggio": "45.94",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:13:10",
+    "nome": "Agne Medenia",
+    "societa": "Medeina OK",
+    "punteggio": "45.86",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:15:01",
+    "nome": "Ieva Epnere",
+    "societa": "Auseklis IK",
+    "punteggio": "44.73",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:16:13",
+    "nome": "Zuzana Wibmer",
+    "societa": "Haunold Orienteering Team",
+    "punteggio": "44.03",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:17:05",
+    "nome": "Rafaela Campanha",
+    "societa": "Clube de Montanha do Funchal",
+    "punteggio": "43.53",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:17:32",
+    "nome": "Mihály Laping",
+    "societa": "Watch Out Cluj",
+    "punteggio": "36.78",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:18:19",
+    "nome": "Maja Obid",
+    "societa": "OK Azimut",
+    "punteggio": "42.85",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:20:04",
+    "nome": "Kerstin Wessberg",
+    "societa": "Härlövs IF",
+    "punteggio": "41.91",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:22:04",
+    "nome": "Catherine Dupont",
+    "societa": "ASUB Orientation",
+    "punteggio": "40.89",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:23:02",
+    "nome": "Zoltán Molnár",
+    "societa": "Watch Out Cluj",
+    "punteggio": "34.34",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:23:08",
+    "nome": "Camille Bossard",
+    "societa": "Club Rennais de CO",
+    "punteggio": "40.36",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:32:16",
+    "nome": "Urs Schmutz",
+    "societa": "Leksands OK",
+    "punteggio": "30.90",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:33:10",
+    "nome": "Martti Salonen",
+    "societa": "Loimaan Jankko",
+    "punteggio": "30.61",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:34:57",
+    "nome": "Wolfgang Schüller",
+    "societa": "Der Berger-Clan",
+    "punteggio": "30.03",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:43:17",
+    "nome": "Noémi Pusztai",
+    "societa": "Watch Out Cluj",
+    "punteggio": "32.49",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:49:28",
+    "nome": "Martin Buckley",
+    "societa": "Kerry Orienteers",
+    "punteggio": "26.05",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:54:32",
+    "nome": "Catherine Duterage",
+    "societa": "Guyancourt Orientation 78",
+    "punteggio": "29.30",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "01:54:35",
+    "nome": "Valerie Meriguet",
+    "societa": "Guyancourt Orientation 78",
+    "punteggio": "29.28",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:37:42",
+    "nome": "Kaija Ruotsalainen",
+    "societa": "Rasti-Hyry",
+    "punteggio": "21.28",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "02:38:32",
+    "nome": "Timo Määttä",
+    "societa": "Rasti-Hyry",
+    "punteggio": "17.99",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Nanna Hvidberg Tofte",
+    "societa": "Odense OK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Darrell Brown",
+    "societa": "Grizzly Orienteering",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Marta Raituma",
+    "societa": "Auseklis IK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Jonas Veljacik",
+    "societa": "OK Sparta Praha",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Inese Miķelsone",
+    "societa": "Auseklis IK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Gosia Nedzi",
+    "societa": "CNOC",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN B",
+    "tempo": "00:00:00",
+    "nome": "Maribeth Rothwell",
+    "societa": "Grizzly Orienteering",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:37:55",
+    "nome": "Dace Lubāne",
+    "societa": "Auseklis IK",
+    "punteggio": "85.00",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:38:42",
+    "nome": "Ela Kuželová",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "85.00",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:38:57",
+    "nome": "Iris Skammelsen Gilleladen",
+    "societa": "OK Bomteknik",
+    "punteggio": "84.45",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:39:06",
+    "nome": "Verna Kalliokulju",
+    "societa": "Helsingin Suunnistajat",
+    "punteggio": "84.13",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:39:31",
+    "nome": "Janka Dienová",
+    "societa": "KOBRA Bratislava",
+    "punteggio": "83.24",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:41:23",
+    "nome": "Pernille Prud'homme",
+    "societa": "Nature Orientation Saint Etienne",
+    "punteggio": "79.49",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:52:39",
+    "nome": "Helen Anthony",
+    "societa": "Airienteers",
+    "punteggio": "62.48",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:53:26",
+    "nome": "Sun Yi",
+    "societa": "Deer-O",
+    "punteggio": "61.56",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:55:54",
+    "nome": "Katerina Skripnikova",
+    "societa": "Fenri klub sportu v prirode, z.s.",
+    "punteggio": "58.85",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:02:33",
+    "nome": "Brigitte Rapotz",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "52.59",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:02:44",
+    "nome": "Petra Kocsis",
+    "societa": "Tipo Orienteering Club",
+    "punteggio": "52.44",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:02:51",
+    "nome": "Karsten Längerich",
+    "societa": "Allerød OrienteringsKlub",
+    "punteggio": "52.34",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:07:24",
+    "nome": "Milena Barca",
+    "societa": "GO Vallemaggia",
+    "punteggio": "48.81",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:08:25",
+    "nome": "Thor Skammelsen Gilleladen",
+    "societa": "OK Bomteknik",
+    "punteggio": "47.11",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:11:38",
+    "nome": "Antonia Gittmaier",
+    "societa": "HSV Ried im Innkreis",
+    "punteggio": "45.92",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:12:39",
+    "nome": "Marcela Kovarikova",
+    "societa": "Lucifer headlamps",
+    "punteggio": "45.28",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:13:19",
+    "nome": "Karine Champ",
+    "societa": "Sud Médoc Orientation Gironde",
+    "punteggio": "44.87",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:14:25",
+    "nome": "Gaël Champ",
+    "societa": "Sud Médoc Orientation Gironde",
+    "punteggio": "43.31",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:15:48",
+    "nome": "Robin Cermak",
+    "societa": "OK Sparta Praha",
+    "punteggio": "42.52",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:16:31",
+    "nome": "Anna Rita Bertolazzo",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "42.99",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:17:24",
+    "nome": "Josefina Klašková",
+    "societa": "Oddíl OB Kotlářka, z.s.",
+    "punteggio": "42.50",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:18:51",
+    "nome": "Morgane Bonhomme",
+    "societa": "COLIEGE",
+    "punteggio": "41.72",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:22:57",
+    "nome": "Tjelvar Otterbjörk",
+    "societa": "Umeå OK",
+    "punteggio": "38.85",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:26:16",
+    "nome": "Nicoleta Marian",
+    "societa": "Watch Out Cluj",
+    "punteggio": "38.13",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:27:16",
+    "nome": "Diana Kälin Bähler",
+    "societa": "Thurgorienta",
+    "punteggio": "37.69",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:29:54",
+    "nome": "Perrine Brin",
+    "societa": "TRAILPHALIENS RAID",
+    "punteggio": "36.59",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:30:47",
+    "nome": "Aistė Petrevičienė",
+    "societa": "Fortuna OSK",
+    "punteggio": "36.23",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:36:22",
+    "nome": "Christine Teichmann",
+    "societa": "Sportunion Schöckl Graz",
+    "punteggio": "34.14",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:37:45",
+    "nome": "Nora Sophie Graasbøl Ødum",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "33.65",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:41:10",
+    "nome": "Elisabeth Buschek",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "32.52",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:57:22",
+    "nome": "Mauro Spano",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "27.46",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:58:39",
+    "nome": "Maha Moujtahid",
+    "societa": "Nature Orientation Saint Etienne",
+    "punteggio": "27.16",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "01:58:57",
+    "nome": "Karina Ransby",
+    "societa": "Søllerød OK",
+    "punteggio": "27.65",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:04:28",
+    "nome": "Barbara Resch",
+    "societa": "Järfälla OK",
+    "punteggio": "26.43",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:11:31",
+    "nome": "Ellen Thisted",
+    "societa": "Søllerød OK",
+    "punteggio": "25.01",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:13:10",
+    "nome": "Santina Doherty",
+    "societa": "GEN",
+    "punteggio": "24.70",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:14:22",
+    "nome": "Franco Bellotti",
+    "societa": "Orientalp SROD",
+    "punteggio": "23.99",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:46:54",
+    "nome": "Catherine Causeret",
+    "societa": "Noyon Course d'Orientation",
+    "punteggio": "19.71",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:47:45",
+    "nome": "Sandi Kmetič",
+    "societa": "Zarana",
+    "punteggio": "19.21",
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "02:50:31",
+    "nome": "Zsuzsa Török",
+    "societa": "Watch Out Cluj",
+    "punteggio": "19.29",
+    "femmina": true
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Eskild Spile",
+    "societa": "Odense OK",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "William Mcgrail",
+    "societa": "OK Bomteknik",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Brady Brown",
+    "societa": "Grizzly Orienteering",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Kincső Szalontai",
+    "societa": "Balatonfüredi Sport Club",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Gilles Ravier",
+    "societa": "Course d'Orientation Coeur de Savoie",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Cheyenne Ferrari",
+    "societa": "Braunschweiger MTV",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "OPEN C",
+    "tempo": "00:00:00",
+    "nome": "Kati Luffy",
+    "societa": "Watch Out Cluj",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:16:04",
+    "nome": "Anna Novotná",
+    "societa": "OK99 Hradec Králové",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:17:04",
+    "nome": "Felicita Priedīte",
+    "societa": "Auseklis IK",
+    "punteggio": "94.14",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:18:01",
+    "nome": "Olivia Ojapalo",
+    "societa": "Lynx",
+    "punteggio": "89.18",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:19:03",
+    "nome": "Burkhart Levinia",
+    "societa": "OL Regio Wil",
+    "punteggio": "84.34",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:20:05",
+    "nome": "Alžběta Kárníková",
+    "societa": "OK Lokomotiva Pardubice",
+    "punteggio": "80.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:20:50",
+    "nome": "Beatrice Sessi",
+    "societa": "ASD-AŠZ GAJA Orienteering",
+    "punteggio": "77.12",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:21:59",
+    "nome": "Tara Grmovšek",
+    "societa": "MOK Pohorje",
+    "punteggio": "73.09",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:23:40",
+    "nome": "Lærke Skammelsen Gilleladen",
+    "societa": "OK Bomteknik",
+    "punteggio": "67.89",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:23:46",
+    "nome": "Kateřina Redlichová",
+    "societa": "RBK Blansko",
+    "punteggio": "67.60",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:24:21",
+    "nome": "Selma Roth",
+    "societa": "OLC Winterthur",
+    "punteggio": "65.98",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:25:05",
+    "nome": "Alise Lubāne",
+    "societa": "Auseklis IK",
+    "punteggio": "64.05",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:25:05",
+    "nome": "Sára Szőcs",
+    "societa": "Watch Out Cluj",
+    "punteggio": "64.05",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:25:45",
+    "nome": "Maja Eva Voveris",
+    "societa": "Devyni OSK",
+    "punteggio": "62.39",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:25:55",
+    "nome": "Anna Kurfürstová",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "61.99",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:27:26",
+    "nome": "Nora Branta",
+    "societa": "Auseklis IK",
+    "punteggio": "58.57",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:28:46",
+    "nome": "Náya Livia Krüger",
+    "societa": "Berliner Turnerschaft Korp. Turn- und Sportverein e.V.",
+    "punteggio": "55.85",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:29:13",
+    "nome": "Juliette Huguet",
+    "societa": "ROMANS COURSE D'ORIENTATION",
+    "punteggio": "54.99",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:30:28",
+    "nome": "Paula Angermann",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "52.74",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:30:35",
+    "nome": "Karlīna Epnere",
+    "societa": "Auseklis IK",
+    "punteggio": "52.53",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:30:49",
+    "nome": "Zoé Gastineau",
+    "societa": "Balise 77 Fontainebleau Avon",
+    "punteggio": "52.14",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:31:38",
+    "nome": "Lauren Simpson",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "50.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:32:43",
+    "nome": "Imola Laping",
+    "societa": "Watch Out Cluj",
+    "punteggio": "49.11",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:33:32",
+    "nome": "Penny Pinker-hull",
+    "societa": "Airienteers",
+    "punteggio": "47.91",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:34:11",
+    "nome": "Gro Linde",
+    "societa": "Søllerød OK",
+    "punteggio": "47.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:35:00",
+    "nome": "Lara Coletti",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "45.90",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:39:39",
+    "nome": "Fern Downing",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "40.52",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:40:10",
+    "nome": "Annika Binder",
+    "societa": "SPORTUNION Klagenfurt",
+    "punteggio": "40.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:42:19",
+    "nome": "Janni Holappa",
+    "societa": "Espoon Suunta",
+    "punteggio": "37.97",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:43:49",
+    "nome": "Lucia Meizer",
+    "societa": "SPORTUNION Klagenfurt",
+    "punteggio": "36.67",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:44:49",
+    "nome": "Lucia Ujvari",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "35.85",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:46:16",
+    "nome": "Anna Hohenwarter",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "34.73",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:53:33",
+    "nome": "Vilja Kimpimäki",
+    "societa": "Lahden Suunnistajat",
+    "punteggio": "30.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "01:01:51",
+    "nome": "Marie Valešová",
+    "societa": "Team Jizerky",
+    "punteggio": "25.98",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "01:09:50",
+    "nome": "Tereza Švihovská",
+    "societa": "Team Jizerky",
+    "punteggio": "23.01",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "01:26:32",
+    "nome": "Anka Duran García",
+    "societa": "Malarruta",
+    "punteggio": "18.57",
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:00:00",
+    "nome": "Lara Pfarrwaller",
+    "societa": "OLC Winterthur",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:00:00",
+    "nome": "Sophia Vassileva",
+    "societa": "CO2",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W12",
+    "tempo": "00:00:00",
+    "nome": "Isabella Chemis",
+    "societa": "Wing OK",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:34:56",
+    "nome": "Mojca Flerin Drevenšek",
+    "societa": "Kamniški orientacijski klub",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:35:59",
+    "nome": "Stinne Skammelsen",
+    "societa": "OK Bomteknik",
+    "punteggio": "97.08",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:36:02",
+    "nome": "Reda Velde",
+    "societa": "RE",
+    "punteggio": "96.95",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:37:18",
+    "nome": "Greet Oeyen",
+    "societa": "hamok",
+    "punteggio": "93.66",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:38:04",
+    "nome": "Aline Hermans",
+    "societa": "C.O.Liège",
+    "punteggio": "91.77",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:38:14",
+    "nome": "Marina Skern",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "91.37",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:40:01",
+    "nome": "Åsa Otterbjörk",
+    "societa": "Umeå OK",
+    "punteggio": "87.30",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:41:27",
+    "nome": "Linda Larsson",
+    "societa": "Järfälla OK",
+    "punteggio": "84.28",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:42:12",
+    "nome": "Johanna Tervo",
+    "societa": "Pihkaniskat",
+    "punteggio": "82.78",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:42:26",
+    "nome": "Pernille Buch",
+    "societa": "OK Gorm",
+    "punteggio": "82.33",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:42:50",
+    "nome": "Ieva Maulina",
+    "societa": "Briksnis - Latvia",
+    "punteggio": "81.56",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:42:52",
+    "nome": "Elisabeth Schutjes",
+    "societa": "hamok",
+    "punteggio": "81.49",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:43:06",
+    "nome": "Astrid Fritschi",
+    "societa": "OLC Winterthur",
+    "punteggio": "81.05",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:43:20",
+    "nome": "Catherine Wilson",
+    "societa": "Pendle Forest Orienteers",
+    "punteggio": "80.62",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:43:25",
+    "nome": "Elisabeth Sandrisser",
+    "societa": "Naturfreunde Villach Orienteering",
+    "punteggio": "80.46",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:43:35",
+    "nome": "Toni O'donovan",
+    "societa": "Leicestershire Orienteering Club",
+    "punteggio": "80.15",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:43:47",
+    "nome": "Kateřina Arnoštová",
+    "societa": "Sportovni akademie Dobris",
+    "punteggio": "79.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:43:59",
+    "nome": "Katarina Lenander",
+    "societa": "Växjö OK",
+    "punteggio": "79.42",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:45:06",
+    "nome": "Kim Baxter",
+    "societa": "South Yorkshire Orienteers",
+    "punteggio": "77.46",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:46:00",
+    "nome": "Pernille Brunstedt Jacobsen",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "75.94",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:46:48",
+    "nome": "Hanna-Riikka Koskinen",
+    "societa": "Espoon Suunta",
+    "punteggio": "74.64",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:46:57",
+    "nome": "Jeanette Downing",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "74.41",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:46:57",
+    "nome": "Marlène Sanchez",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "74.41",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:48:02",
+    "nome": "Aline Harmand",
+    "societa": "Søllerød OK",
+    "punteggio": "72.73",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:48:26",
+    "nome": "Vinciane Mulpas",
+    "societa": "ASUB Orientation",
+    "punteggio": "72.13",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:49:01",
+    "nome": "Eva Zemlova",
+    "societa": "OK Kamenice",
+    "punteggio": "71.27",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:49:21",
+    "nome": "Szabó Ágnes",
+    "societa": "Gerecse Tájfutó Club",
+    "punteggio": "70.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:49:28",
+    "nome": "Marta Dlouhá",
+    "societa": "SK Praga",
+    "punteggio": "70.62",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:49:58",
+    "nome": "Karīna Janova",
+    "societa": "Siguldas Takas",
+    "punteggio": "69.91",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:50:25",
+    "nome": "Sonja Jantar",
+    "societa": "OK Japetić",
+    "punteggio": "69.29",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:51:11",
+    "nome": "Rasa Ivanauskaite",
+    "societa": "Azuolas",
+    "punteggio": "68.25",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:54:37",
+    "nome": "Sandra Priedite",
+    "societa": "Auseklis IK",
+    "punteggio": "63.96",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:54:48",
+    "nome": "Marion Durand",
+    "societa": "Balise 77 Fontainebleau Avon",
+    "punteggio": "63.75",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:55:55",
+    "nome": "Petra Reubi",
+    "societa": "Thurgorienta",
+    "punteggio": "62.47",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:56:42",
+    "nome": "Coralie Jourde",
+    "societa": "Balise 63",
+    "punteggio": "61.61",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:56:52",
+    "nome": "Adela Illamola Colome",
+    "societa": "Unió Excursionista Vic",
+    "punteggio": "61.43",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:57:24",
+    "nome": "Mette Pilemand",
+    "societa": "Søllerød OK",
+    "punteggio": "60.86",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:57:40",
+    "nome": "Chrystelle Fauvet",
+    "societa": "Noyon Course d'Orientation",
+    "punteggio": "60.58",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:58:06",
+    "nome": "elisabeth Huguet",
+    "societa": "ROMANS COURSE D'ORIENTATION",
+    "punteggio": "60.13",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:58:32",
+    "nome": "Céline Ruiz",
+    "societa": "balise orientation albigeoise",
+    "punteggio": "59.68",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:58:40",
+    "nome": "Andrea Klieber",
+    "societa": "OL Zimmerberg",
+    "punteggio": "59.55",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:58:50",
+    "nome": "Elisa Albrizio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "59.38",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:58:59",
+    "nome": "Rebecca Simpson",
+    "societa": "Cleveland Orienteering Klub",
+    "punteggio": "59.23",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:59:29",
+    "nome": "Hanne Fredberg",
+    "societa": "OK Bomteknik",
+    "punteggio": "58.73",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:59:35",
+    "nome": "Rikke Kofoed",
+    "societa": "OK Øst, Birkerød",
+    "punteggio": "58.63",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:59:42",
+    "nome": "Ida Baluskova",
+    "societa": "OK 24 Praha",
+    "punteggio": "58.51",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:00:03",
+    "nome": "Irena Hacin Kölner",
+    "societa": "Orientacijski klub Komenda",
+    "punteggio": "58.17",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:00:43",
+    "nome": "Nadejda Vasiloi",
+    "societa": "OPA MONTIGNY",
+    "punteggio": "57.53",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:00:58",
+    "nome": "Hélène Madranges",
+    "societa": "ASM CO",
+    "punteggio": "57.30",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:03:48",
+    "nome": "Nicole Steinlin",
+    "societa": "OLC Winterthur",
+    "punteggio": "54.75",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:03:51",
+    "nome": "Peichi Chuang",
+    "societa": "Moxina OK",
+    "punteggio": "54.71",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:04:04",
+    "nome": "Magdalena Kurfurstova",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "54.53",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:04:27",
+    "nome": "Gundega Ulme",
+    "societa": "OK Kapa",
+    "punteggio": "54.20",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:08:40",
+    "nome": "Tanja Grmovšek",
+    "societa": "MOK Pohorje",
+    "punteggio": "50.87",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:08:48",
+    "nome": "Ilze Kažociņa",
+    "societa": "Auseklis IK",
+    "punteggio": "50.78",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:09:58",
+    "nome": "Fionne Austin",
+    "societa": "Lagan Valley Orienteers",
+    "punteggio": "49.93",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:13:51",
+    "nome": "Ilze Bara",
+    "societa": "Briksnis - Latvia",
+    "punteggio": "47.30",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:14:00",
+    "nome": "Luciana Szőcs",
+    "societa": "Watch Out Cluj",
+    "punteggio": "47.21",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:14:07",
+    "nome": "Elodie Vandomme",
+    "societa": "La Boussole Audomaroise",
+    "punteggio": "47.13",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:18:20",
+    "nome": "Marie-laure Soubielle",
+    "societa": "US CENON course d'orientation",
+    "punteggio": "44.60",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:19:21",
+    "nome": "Virginia Guell Rovira",
+    "societa": "Xinoxano Orientació",
+    "punteggio": "44.02",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:24:01",
+    "nome": "Erzsébet Langviser",
+    "societa": "Watch Out Cluj",
+    "punteggio": "41.58",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:24:47",
+    "nome": "Zuzana Fibírová",
+    "societa": "VSK CVUT FS Praha",
+    "punteggio": "41.20",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:25:21",
+    "nome": "Šárka Holasová",
+    "societa": "OBO",
+    "punteggio": "40.93",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:26:10",
+    "nome": "Cécile Ricard",
+    "societa": "ORIENT'ALP",
+    "punteggio": "40.54",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "01:43:14",
+    "nome": "Morgane Cyffers",
+    "societa": "Villeneuve d'Ascq Lille Métropole Orientation",
+    "punteggio": "33.84",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "02:14:55",
+    "nome": "Anna Antošová",
+    "societa": "SK LOB Nová Paka",
+    "punteggio": "25.89",
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Vilma Balciunaite",
+    "societa": "Telšiai OK",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Caroline Chevalier",
+    "societa": "Brivelimousinco",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Linda Krumina",
+    "societa": "Briksnis - Latvia",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Rie McGrail",
+    "societa": "OK Bomteknik",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Lucie Rothauer",
+    "societa": "ASKÖ Henndorf Orienteering",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W45",
+    "tempo": "00:00:00",
+    "nome": "Baiba Nummure",
+    "societa": "Auseklis IK",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:31:11",
+    "nome": "Priska Curiger",
+    "societa": "OLC Kapreolo",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:34:14",
+    "nome": "Anna-karin Sundqvist",
+    "societa": "Tullinge SK",
+    "punteggio": "91.09",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:34:30",
+    "nome": "Joli Wehrli",
+    "societa": "swissotours.ch",
+    "punteggio": "90.39",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:34:46",
+    "nome": "Christina Smedberg",
+    "societa": "OK Skogsfalken",
+    "punteggio": "89.69",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:36:02",
+    "nome": "Annika Von Schoultz",
+    "societa": "Bastholmens IF",
+    "punteggio": "86.54",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:36:25",
+    "nome": "Liisa Rihko-Struckmann",
+    "societa": "Braunschweiger MTV",
+    "punteggio": "85.63",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:37:02",
+    "nome": "Doris Gittmaier",
+    "societa": "HSV Ried im Innkreis",
+    "punteggio": "84.20",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:38:18",
+    "nome": "Maria Douglas",
+    "societa": "FIF Hillerod",
+    "punteggio": "81.42",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:38:54",
+    "nome": "Mette Edsen",
+    "societa": "Nordvest ok",
+    "punteggio": "80.16",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:39:05",
+    "nome": "Taina Louhivuori",
+    "societa": "Anttolan Urheilijat",
+    "punteggio": "79.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:39:55",
+    "nome": "Renate Lienhart",
+    "societa": "OLC Winterthur",
+    "punteggio": "78.12",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:41:40",
+    "nome": "Susanne Wenk",
+    "societa": "O-Explorer TG/ZH",
+    "punteggio": "74.84",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:45:41",
+    "nome": "Ildikó Mátyás",
+    "societa": "HSE Szentendre",
+    "punteggio": "68.26",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:46:13",
+    "nome": "Toril Hallan",
+    "societa": "Lillomarka o-lag",
+    "punteggio": "67.47",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:46:57",
+    "nome": "Annaliisa Issakainen",
+    "societa": "Rasti-Hyry",
+    "punteggio": "66.42",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:47:46",
+    "nome": "Cristina Ruini",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "65.28",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:49:07",
+    "nome": "Ursula Wolf",
+    "societa": "OLG Davos",
+    "punteggio": "63.49",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:50:08",
+    "nome": "Roswitha Micko",
+    "societa": "Gruppe Orientierungs-Sport Harzberg",
+    "punteggio": "62.20",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:52:58",
+    "nome": "Irene Gassner",
+    "societa": "Naturfreunde Wien - Orienteering-Team",
+    "punteggio": "58.87",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:55:02",
+    "nome": "Tuija Jurvakainen",
+    "societa": "Rasti-Hyry",
+    "punteggio": "56.66",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:55:37",
+    "nome": "Anne Svantesson",
+    "societa": "Hjärnarps OL",
+    "punteggio": "56.07",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:57:01",
+    "nome": "Nicoletta Dutly",
+    "societa": "GO Vallemaggia",
+    "punteggio": "54.69",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:57:25",
+    "nome": "Hildegard Scherr",
+    "societa": "HSV Spittal/Drau",
+    "punteggio": "54.31",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:58:28",
+    "nome": "Adriana Flórez-estrada Mallart",
+    "societa": "CLUB RIOJANO DE ORIENTACION EN LA NATURALEZA",
+    "punteggio": "53.34",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:00:19",
+    "nome": "Laurence Champigny",
+    "societa": "ACA Aix Provence",
+    "punteggio": "51.70",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:03:24",
+    "nome": "Claire Muyllaert",
+    "societa": "ASUB Orientation",
+    "punteggio": "49.19",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:04:51",
+    "nome": "Véronique Bolzer",
+    "societa": "Sports Orientation Lunéville",
+    "punteggio": "48.09",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:05:41",
+    "nome": "Regina Ježková",
+    "societa": "SK Praga",
+    "punteggio": "47.48",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:05:45",
+    "nome": "Catherine Coulier",
+    "societa": "LUBO",
+    "punteggio": "47.43",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:06:33",
+    "nome": "Vickie Wong Wai Ching",
+    "societa": "Hong Kong Orienteering Club",
+    "punteggio": "46.86",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:08:00",
+    "nome": "Nathalie Bouche",
+    "societa": "Animation Sillery Orientation",
+    "punteggio": "45.86",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:08:04",
+    "nome": "Annick Rouserez",
+    "societa": "ASUB Orientation",
+    "punteggio": "45.81",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:09:51",
+    "nome": "Bernadette Govaerts",
+    "societa": "LOST",
+    "punteggio": "44.64",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:13:23",
+    "nome": "Inger Simonsen",
+    "societa": "Silkeborg OK",
+    "punteggio": "42.49",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:28:45",
+    "nome": "Edith Bridcut",
+    "societa": "GEN",
+    "punteggio": "35.14",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:46:08",
+    "nome": "Myriam Stewart",
+    "societa": "Valbonne Sophia Antipolis Orientation",
+    "punteggio": "29.38",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "01:54:59",
+    "nome": "Odile Poulain",
+    "societa": "ASUB Orientation",
+    "punteggio": "27.12",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "02:17:10",
+    "nome": "Prisca Guglielmetti",
+    "societa": "GO Vallemaggia",
+    "punteggio": "22.73",
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Annelli Sandbaek",
+    "societa": "OK Pan Aarhus - Hauerslev",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Päivi Lassila",
+    "societa": "DT Rastiimi",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Sylvie Marchesin",
+    "societa": "SCAPA NANCY ORIENTATION",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Gerhild Pacher",
+    "societa": "Sportunion Schöckl Graz",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Marketa Veljacikova",
+    "societa": "OK Sparta Praha",
+    "punteggio": 0,
+    "femmina": true
+  },
+  {
+    "categoria": "W60",
+    "tempo": "00:00:00",
+    "nome": "Rosário Matias",
+    "societa": "Lisboa OK",
+    "punteggio": 0,
+    "femmina": true
+  }
+]
+    },
+    nome: "22) Palmanova FVG O-TOUR Tappa 9 30/08",
+        dati: [
+  {
+    "categoria": "Giallo",
+    "tempo": "00:26:24",
+    "nome": "Boldrin Matteo",
+    "societa": "OR. G. GALILEI",
+    "punteggio": "80.00",
+    "femmina": false
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:28:07",
+    "nome": "Morpurgo Giada",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "80.00",
+    "femmina": true
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:29:38",
+    "nome": "Fignon Marco",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "71.27",
+    "femmina": false
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:30:09",
+    "nome": "Pronol Giulia",
+    "societa": "OR. TARZO",
+    "punteggio": "74.60",
+    "femmina": true
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:31:18",
+    "nome": "Binotto Serena",
+    "societa": "OR. TARZO",
+    "punteggio": "71.86",
+    "femmina": true
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:31:32",
+    "nome": "Novarese Adriano",
+    "societa": "SICILIA",
+    "punteggio": "66.98",
+    "femmina": false
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:31:57",
+    "nome": "Cibin Marta",
+    "societa": "A.S.D Orienteering Laguna Nord Venezia",
+    "punteggio": "70.40",
+    "femmina": true
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:32:34",
+    "nome": "Ciancio Filippo",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "64.85",
+    "femmina": false
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:34:29",
+    "nome": "Zambon Carlotta",
+    "societa": "OR. TARZO",
+    "punteggio": "65.23",
+    "femmina": true
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:35:44",
+    "nome": "Costa Flavia",
+    "societa": "\\'\\'VITTORIENT\\'\\'",
+    "punteggio": "62.95",
+    "femmina": true
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:37:24",
+    "nome": "Furlan Marco",
+    "societa": "\\'\\'VITTORIENT\\'\\'",
+    "punteggio": "56.47",
+    "femmina": false
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:38:07",
+    "nome": "De Agostini Antonio",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "55.41",
+    "femmina": false
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:39:14",
+    "nome": "Crapiz Erika",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "57.33",
+    "femmina": true
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:41:12",
+    "nome": "Zago Ivana",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "54.60",
+    "femmina": true
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:42:47",
+    "nome": "Giovannini Maria",
+    "societa": "MARCHE",
+    "punteggio": "52.57",
+    "femmina": true
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:43:05",
+    "nome": "Barnaba Christel",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "52.21",
+    "femmina": true
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:46:22",
+    "nome": "Sicco Chiara",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "48.51",
+    "femmina": true
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:51:50",
+    "nome": "Beltramello Elena",
+    "societa": "\\'\\'VITTORIENT\\'\\'",
+    "punteggio": "43.40",
+    "femmina": true
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "01:01:13",
+    "nome": "Tomat Giovanna",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "36.74",
+    "femmina": true
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "01:02:00",
+    "nome": "Gratton Donatella",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "36.28",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:22:25",
+    "nome": "Ponzo Giovanni",
+    "societa": "PIEMONTE",
+    "punteggio": "90.00",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:23:44",
+    "nome": "Privitera Lorenzo",
+    "societa": "PIEMONTE",
+    "punteggio": "85.01",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:26:21",
+    "nome": "Vicariotto PIERDOMENICO",
+    "societa": "A.P.D. ARCES ASSOCIAZION…",
+    "punteggio": "76.57",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:26:54",
+    "nome": "Pradolin Paolo",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "75.00",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:28:05",
+    "nome": "Bettin Renato",
+    "societa": "OR. SWALLOWS NOALE",
+    "punteggio": "71.84",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:29:07",
+    "nome": "Collodel Mirko",
+    "societa": "OR. TARZO",
+    "punteggio": "69.29",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:29:33",
+    "nome": "Giaccaglia Ilario",
+    "societa": "OR. TARZO",
+    "punteggio": "68.27",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:29:42",
+    "nome": "Ferrante Salvatore",
+    "societa": "A.S.D Orienteering Laguna Nord Venezia",
+    "punteggio": "67.93",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:30:31",
+    "nome": "Foschian Andrea",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "66.11",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:30:38",
+    "nome": "Germani Marko",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "65.86",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:30:47",
+    "nome": "Mosolo Fabrizio",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "65.54",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:30:50",
+    "nome": "Pighin Davide",
+    "societa": "CORIVORIVO OR.",
+    "punteggio": "65.43",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:30:51",
+    "nome": "Martignago Armando",
+    "societa": "OK MONTELLO",
+    "punteggio": "65.40",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:32:14",
+    "nome": "Sanzovo Chiara",
+    "societa": "VENETO",
+    "punteggio": "90.00",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:32:14",
+    "nome": "Dipace Alessandro",
+    "societa": "LOMBARDIA",
+    "punteggio": "62.59",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:32:15",
+    "nome": "Ciancio Marcello",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "62.56",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:32:44",
+    "nome": "Ferrante Maria Michela",
+    "societa": "OK MONTELLO",
+    "punteggio": "88.63",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:32:45",
+    "nome": "Tomasino Mattia",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "61.60",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:33:56",
+    "nome": "Ruini Cristina",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "85.49",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:34:08",
+    "nome": "Martignago Paolo",
+    "societa": "OK MONTELLO",
+    "punteggio": "59.11",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:34:25",
+    "nome": "Pellizzari Stefano",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "58.62",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:34:26",
+    "nome": "Ferrante Gaia",
+    "societa": "VENETO",
+    "punteggio": "84.25",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:35:17",
+    "nome": "Kuzmin Anka",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "82.22",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:35:21",
+    "nome": "Pin Ercole",
+    "societa": "OR. TARZO",
+    "punteggio": "57.07",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:35:23",
+    "nome": "Frappa Monica",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "81.99",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:36:05",
+    "nome": "Gubiani Marzia",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "80.40",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:36:09",
+    "nome": "Mattea Luigi",
+    "societa": "VALLE D’AOSTA",
+    "punteggio": "55.81",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:36:25",
+    "nome": "BONCINA Igor",
+    "societa": "Orienteering Philippines",
+    "punteggio": "55.40",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:36:35",
+    "nome": "Farina Maurizio",
+    "societa": "VALLE D’AOSTA",
+    "punteggio": "55.15",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:37:21",
+    "nome": "Lazzaro Federica",
+    "societa": "OR. TREVISO",
+    "punteggio": "77.67",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:37:56",
+    "nome": "Seno Salvatore",
+    "societa": "A.S.D Orienteering Laguna Nord Venezia",
+    "punteggio": "53.19",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:38:58",
+    "nome": "BONCINA Abigael Vanessa",
+    "societa": "Orienteering Philippines",
+    "punteggio": "74.45",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:39:13",
+    "nome": "Gon Ariano",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "51.44",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:39:30",
+    "nome": "Figus Claudio",
+    "societa": "S.S. SAN PAOLO SINI",
+    "punteggio": "51.08",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:39:59",
+    "nome": "Santarossa Sonia",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "72.56",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:40:15",
+    "nome": "Baggio Christian",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "50.12",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:40:28",
+    "nome": "Fietta Fiorenza",
+    "societa": "OR. G. GALILEI",
+    "punteggio": "71.69",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:41:15",
+    "nome": "Bozzato Loredana",
+    "societa": "A.S.D Orienteering Laguna Nord Venezia",
+    "punteggio": "70.33",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:41:16",
+    "nome": "Pedroncelli Davide",
+    "societa": "LOMBARDIA",
+    "punteggio": "48.89",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:41:53",
+    "nome": "Pattarello Giulia",
+    "societa": "OR. G. GALILEI",
+    "punteggio": "69.26",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:42:05",
+    "nome": "Cimador Enrico",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "47.94",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:42:16",
+    "nome": "Barnaba Christian",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "47.73",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:42:26",
+    "nome": "Rajgelj Chiara",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "68.37",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:42:36",
+    "nome": "Coletti Giulio Livio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "47.36",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:43:03",
+    "nome": "Venezian Matteo",
+    "societa": "OR. BASSANO 1982",
+    "punteggio": "46.86",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:43:47",
+    "nome": "Barnaba Chantal",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "66.26",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:44:04",
+    "nome": "Decorti Emanuel",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "45.78",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:44:30",
+    "nome": "Predan Sonia",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "65.19",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:44:47",
+    "nome": "Visintin Federica",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "64.78",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:46:04",
+    "nome": "Altan Germana",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "62.97",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:46:25",
+    "nome": "Driol Paola",
+    "societa": "OR. TREVISO",
+    "punteggio": "62.50",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:46:29",
+    "nome": "Chiesa Giacomo Giovanni",
+    "societa": "ARRASTA",
+    "punteggio": "43.40",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:49:35",
+    "nome": "Campagnolo Andrea",
+    "societa": "VICENZA OR. TEAM",
+    "punteggio": "40.69",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:49:53",
+    "nome": "Rossetto Pierpaolo",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "40.44",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:50:08",
+    "nome": "De Donatis Annalisa",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "57.87",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:51:16",
+    "nome": "Specogna Giuseppe",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "39.35",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:52:48",
+    "nome": "Campagnolo Marco",
+    "societa": "VICENZA OR. TEAM",
+    "punteggio": "38.21",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:53:40",
+    "nome": "Bertolazzo Anna Rita",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "54.06",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:59:07",
+    "nome": "Bruni Federico",
+    "societa": "EREBUS ORIENTAMENTO VI…",
+    "punteggio": "34.13",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "01:02:13",
+    "nome": "Boschin Giulia",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "46.63",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "01:11:44",
+    "nome": "Sanzovo Stefano",
+    "societa": "OR. TARZO",
+    "punteggio": "28.13",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "01:25:42",
+    "nome": "Cester Emanuela",
+    "societa": "OR. TREVISO",
+    "punteggio": "33.85",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:21:01",
+    "nome": "Pellegrino Tecco Edoardo",
+    "societa": "PIEMONTE",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:21:12",
+    "nome": "Simonetti Giulio",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "99.14",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:22:04",
+    "nome": "Greci Cristian",
+    "societa": "EMILIA ROMAGNA",
+    "punteggio": "95.24",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:22:54",
+    "nome": "Giuliani Luigi",
+    "societa": "LOMBARDIA",
+    "punteggio": "91.78",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:24:20",
+    "nome": "Rivetta Alessandro",
+    "societa": "FRIULI VENEZIA GIULIA",
+    "punteggio": "86.37",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:25:09",
+    "nome": "Tamai Marco",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "83.57",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:25:29",
+    "nome": "Canetti Davide",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "82.47",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:25:54",
+    "nome": "Caraglio Michele",
+    "societa": "PIEMONTE",
+    "punteggio": "81.15",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:26:42",
+    "nome": "Rossetto Francesco",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "78.71",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:26:42",
+    "nome": "Gretter Alessandro",
+    "societa": "JWOC 2025",
+    "punteggio": "78.71",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:26:51",
+    "nome": "Fignon Giulia",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:26:57",
+    "nome": "Chiogna Jacopo",
+    "societa": "PIEMONTE",
+    "punteggio": "77.98",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:27:37",
+    "nome": "Weitlaner Andreas",
+    "societa": "ALTO ADIGE",
+    "punteggio": "76.10",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:28:04",
+    "nome": "De Nadai Mauro",
+    "societa": "OR. TARZO",
+    "punteggio": "74.88",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:29:21",
+    "nome": "Granzotto Carlo",
+    "societa": "OR. TARZO",
+    "punteggio": "71.61",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:30:15",
+    "nome": "Dalfollo Debora",
+    "societa": "VENETO",
+    "punteggio": "88.76",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:30:33",
+    "nome": "Venuti Nicolò",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "68.79",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:30:36",
+    "nome": "Ciancio Giovanni",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "68.68",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:30:36",
+    "nome": "Meneghel Nicola",
+    "societa": "OR. TARZO",
+    "punteggio": "68.68",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:31:04",
+    "nome": "Minella Silvia",
+    "societa": "VENETO",
+    "punteggio": "86.43",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:31:07",
+    "nome": "Dini Matteo",
+    "societa": "MARCHE",
+    "punteggio": "67.54",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:31:08",
+    "nome": "WERNIG Stefan",
+    "societa": "Senza Società",
+    "punteggio": "67.51",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:31:24",
+    "nome": "Ballarin Matteo",
+    "societa": "OR. SWALLOWS NOALE",
+    "punteggio": "66.93",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:31:32",
+    "nome": "Bianchi Massimo",
+    "societa": "IKP",
+    "punteggio": "66.65",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:31:34",
+    "nome": "Corso Giada",
+    "societa": "FONZASO",
+    "punteggio": "85.06",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:31:37",
+    "nome": "Bonato Nicola",
+    "societa": "CSI SASSO MARCONI",
+    "punteggio": "66.47",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:32:13",
+    "nome": "Darin Leonardo",
+    "societa": "OR. G. GALILEI",
+    "punteggio": "65.24",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:33:02",
+    "nome": "KETE Ivo",
+    "societa": "Planinsko Društvo Ajdovšcina",
+    "punteggio": "63.62",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:33:02",
+    "nome": "Steinwandter Vitus",
+    "societa": "HAUNOLD OR. TEAM",
+    "punteggio": "63.62",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:33:04",
+    "nome": "Tomasino Stefano",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "63.56",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:33:33",
+    "nome": "Steinwandter Lea",
+    "societa": "HAUNOLD OR. TEAM",
+    "punteggio": "80.03",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:33:43",
+    "nome": "Albanese Valentina",
+    "societa": "OR. G. GALILEI",
+    "punteggio": "79.63",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:33:52",
+    "nome": "Sibiglia Katiuscia",
+    "societa": "PARK WORLD TOUR ITALIA …",
+    "punteggio": "79.28",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:33:58",
+    "nome": "Sepin Chiara",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "79.05",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:34:04",
+    "nome": "Sancin Federica",
+    "societa": "FRIULI VENEZIA GIULIA",
+    "punteggio": "78.82",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:34:39",
+    "nome": "Bortolato Leonardo",
+    "societa": "VENETO",
+    "punteggio": "60.65",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:34:54",
+    "nome": "Sicco Mattia",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "60.22",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:34:56",
+    "nome": "Paset Raffaela",
+    "societa": "OR. TARZO",
+    "punteggio": "76.86",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:35:29",
+    "nome": "Romano Sabrina",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "75.67",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:35:45",
+    "nome": "Trentin Angela",
+    "societa": "PANDA OR. VALS.",
+    "punteggio": "75.10",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:36:01",
+    "nome": "Vasari Gabriele",
+    "societa": "MARCHE",
+    "punteggio": "58.35",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:36:04",
+    "nome": "Miatto Gianni",
+    "societa": "OR. SWALLOWS NOALE",
+    "punteggio": "58.27",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:36:20",
+    "nome": "Pizzolato Nicole",
+    "societa": "OR. TREVISO",
+    "punteggio": "73.90",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:37:11",
+    "nome": "Marussig Maurizio",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "56.52",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:37:19",
+    "nome": "Gollini Patrizia",
+    "societa": "CSI SASSO MARCONI",
+    "punteggio": "71.95",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:37:25",
+    "nome": "Scaltri Emanuele",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "56.17",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:37:26",
+    "nome": "Van Buuren Nadia",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "71.73",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:37:43",
+    "nome": "Talignani Alice",
+    "societa": "EMILIA ROMAGNA",
+    "punteggio": "71.19",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:37:57",
+    "nome": "Bocchiola Paolo",
+    "societa": "LOMBARDIA",
+    "punteggio": "55.38",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:38:42",
+    "nome": "Taboga Michele",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "54.31",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:38:43",
+    "nome": "Manfrin Fabiana",
+    "societa": "OR. G. GALILEI",
+    "punteggio": "69.35",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:39:00",
+    "nome": "Bullafin Luca",
+    "societa": "OR. TARZO",
+    "punteggio": "53.89",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:39:08",
+    "nome": "Patini Luca",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "53.71",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:39:24",
+    "nome": "Perrone Leonardo",
+    "societa": "MARCHE",
+    "punteggio": "53.34",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:39:33",
+    "nome": "CUFER Stanko",
+    "societa": "Planinsko Društvo Ajdovšcina",
+    "punteggio": "53.14",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:40:43",
+    "nome": "Uliana Francesca",
+    "societa": "OR. TARZO",
+    "punteggio": "65.94",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:42:04",
+    "nome": "Weitlaner Marlies",
+    "societa": "HAUNOLD OR. TEAM",
+    "punteggio": "49.96",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:42:20",
+    "nome": "Borsato Roberto",
+    "societa": "OR. TREVISO",
+    "punteggio": "49.65",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:42:21",
+    "nome": "Dalla Tor Sara",
+    "societa": "OR. TREVISO",
+    "punteggio": "63.40",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:43:56",
+    "nome": "Salvador Giuseppe",
+    "societa": "OR. SWALLOWS NOALE",
+    "punteggio": "47.84",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:47:00",
+    "nome": "Donaggio Cristiana",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "57.13",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:49:19",
+    "nome": "Bisogni Natascia",
+    "societa": "LAZIO",
+    "punteggio": "54.44",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:51:01",
+    "nome": "De Pin Anna",
+    "societa": "OR. TARZO",
+    "punteggio": "52.63",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "01:02:24",
+    "nome": "CUFER Darja",
+    "societa": "Planinsko Društvo Ajdovšcina",
+    "punteggio": "43.03",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "01:05:36",
+    "nome": "Bortolini Monica",
+    "societa": "OR. TARZO",
+    "punteggio": "40.93",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "0:00:00",
+    "nome": "Zarfati Stefano",
+    "societa": "LAZIO",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "0:00:00",
+    "nome": "Collesi Claudio",
+    "societa": "MARCHE",
+    "punteggio": 0,
+    "femmina": false
+  }
+]
+},
+    nome: "23) Gradisca FVG O-TOUR Tappa 3 14/09",
+        dati: [
+  {
+    "categoria": "Giallo",
+    "tempo": "00:14:18",
+    "nome": "Martignago Paolo",
+    "societa": "OK MONTELLO",
+    "punteggio": "80.00",
+    "femmina": false
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:19:17",
+    "nome": "Germani Felix",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "59.33",
+    "femmina": false
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:23:56",
+    "nome": "Marchesan Domenico",
+    "societa": "A.S.D. ORIENTEERING TRIESTE",
+    "punteggio": "47.80",
+    "femmina": false
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:26:04",
+    "nome": "Furlan Marco",
+    "societa": "VITTORIENT",
+    "punteggio": "43.89",
+    "femmina": false
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:36:31",
+    "nome": "Cereatti Roberto",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "31.33",
+    "femmina": false
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:41:09",
+    "nome": "Foschian Tom",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "27.80",
+    "femmina": false
+  },
+  {
+    "categoria": "Giallo",
+    "tempo": "00:42:17",
+    "nome": "Chervatin Simone",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "27.06",
+    "femmina": false
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:28:07",
+    "nome": "Passone Gaia",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "90.00",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:28:54",
+    "nome": "Ferrante Maria Michela",
+    "societa": "OK MONTELLO",
+    "punteggio": "87.56",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:31:10",
+    "nome": "Morpurgo Giada",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "81.19",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:32:36",
+    "nome": "Forasacco Nives",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "77.62",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:35:14",
+    "nome": "Frappa Monica",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "71.82",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:38:16",
+    "nome": "Kuzmin Anka",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "66.13",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:38:36",
+    "nome": "Rajgelj Chiara",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "65.56",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:39:38",
+    "nome": "Forasacco Sofia",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "63.85",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:42:28",
+    "nome": "Barnaba Chantal",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "59.59",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:44:09",
+    "nome": "Sikerina Marina",
+    "societa": "Senza Società",
+    "punteggio": "57.32",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:44:10",
+    "nome": "Visintin Federica",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "57.29",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:45:52",
+    "nome": "Gon Doris",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "55.17",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:46:18",
+    "nome": "Boschin Giulia",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "54.65",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:46:52",
+    "nome": "Madrassi Antonella",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "53.99",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:47:40",
+    "nome": "Pino Valentina",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "53.09",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:48:36",
+    "nome": "De Donatis Annalisa",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "52.07",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:51:17",
+    "nome": "Serafini Melissa Lucia",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "49.34",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:57:26",
+    "nome": "Bertolazzo Anna Rita",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "44.06",
+    "femmina": true
+  },
+  {
+    "categoria": "Rosso",
+    "tempo": "00:58:13",
+    "nome": "Zago Ivana",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "43.47",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:24:55",
+    "nome": "Oleotto Elia",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:26:20",
+    "nome": "Serafini Ivan",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "94.62",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:27:36",
+    "nome": "Stringher Luca",
+    "societa": "MARENO OR.",
+    "punteggio": "90.28",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:30:54",
+    "nome": "Kafol Luka",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "80.64",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:33:44",
+    "nome": "Ballarin Matteo",
+    "societa": "OR. SWALLOWS NOALE",
+    "punteggio": "73.86",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:33:45",
+    "nome": "Allocco Maurizio",
+    "societa": "MARENO OR.",
+    "punteggio": "73.83",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:34:00",
+    "nome": "Bettin Renato",
+    "societa": "OR. SWALLOWS NOALE",
+    "punteggio": "73.28",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:34:02",
+    "nome": "Bortolato Leonardo",
+    "societa": "OR. TREVISO",
+    "punteggio": "73.21",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:35:22",
+    "nome": "Scaltri Emanuele",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "70.45",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:36:11",
+    "nome": "Marcuzzi Stefano",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "68.86",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:36:46",
+    "nome": "Bullafin Luca",
+    "societa": "OR. TARZO",
+    "punteggio": "67.77",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:36:50",
+    "nome": "Happacher Franz",
+    "societa": "HAUNOLD OR. TEAM",
+    "punteggio": "67.65",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:37:50",
+    "nome": "Ferrante Salvatore",
+    "societa": "A.S.D Orienteering Laguna Nord Venezia",
+    "punteggio": "65.86",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:39:20",
+    "nome": "Marussig Maurizio",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "63.35",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:40:30",
+    "nome": "Taboga Michele",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "61.52",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:52:19",
+    "nome": "Pellizzari Stefano",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "47.63",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "01:04:59",
+    "nome": "Specogna Giuseppe",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "38.34",
+    "femmina": false
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:36:57",
+    "nome": "Di Vora Alessandra",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:40:08",
+    "nome": "Gubiani Marzia",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "92.07",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:40:15",
+    "nome": "Donaggio Cristiana",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "91.80",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:40:31",
+    "nome": "Dalla Tor Sara",
+    "societa": "OR. TREVISO",
+    "punteggio": "91.20",
+    "femmina": true
+  },
+  {
+    "categoria": "Nero",
+    "tempo": "00:48:52",
+    "nome": "Tulissi Sara",
+    "societa": "OR. PERGINE",
+    "punteggio": "75.61",
+    "femmina": true
+  }
+]
+},
+
+    
 ];
