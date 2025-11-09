@@ -21438,7 +21438,7 @@ const tutteLeGare = [
   {
     "categoria": "OPEN A",
     "tempo": "01:29:38",
-    "nome": "Javier Flores",
+    "nome": "Javier Flores Gutierrez",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": "46.46",
     "femmina": false
@@ -21486,7 +21486,7 @@ const tutteLeGare = [
   {
     "categoria": "OPEN A",
     "tempo": "00:00:00",
-    "nome": "Nicolo Venuti",
+    "nome": "Nicolò Venuti",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": 0,
     "femmina": false
@@ -24267,7 +24267,7 @@ const tutteLeGare = [
   {
     "categoria": "OPEN A",
     "tempo": "01:32:42",
-    "nome": "Nicolo Venuti",
+    "nome": "Nicolò Venuti",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": "74.30",
     "femmina": false
@@ -24347,7 +24347,7 @@ const tutteLeGare = [
   {
     "categoria": "OPEN A",
     "tempo": "02:45:20",
-    "nome": "Javier Flores",
+    "nome": "Javier Flores Gutierrez",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": "41.66",
     "femmina": false
@@ -26864,7 +26864,7 @@ const tutteLeGare = [
   {
     "categoria": "OPEN A",
     "tempo": "01:06:11",
-    "nome": "Nicolo Venuti",
+    "nome": "Nicolò Venuti",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": "61.77",
     "femmina": false
@@ -26936,7 +26936,7 @@ const tutteLeGare = [
   {
     "categoria": "OPEN A",
     "tempo": "01:43:23",
-    "nome": "Javier Flores",
+    "nome": "Javier Flores Gutierrez",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": "39.54",
     "femmina": false
@@ -29805,7 +29805,7 @@ const tutteLeGare = [
   {
     "categoria": "OPEN A",
     "tempo": "02:22:14",
-    "nome": "Nicolo Venuti",
+    "nome": "Nicolò Venuti",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": "52.74",
     "femmina": false
@@ -29861,7 +29861,7 @@ const tutteLeGare = [
   {
     "categoria": "OPEN A",
     "tempo": "03:19:57",
-    "nome": "Javier Flores",
+    "nome": "Javier Flores Gutierrez",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": "37.52",
     "femmina": false
@@ -32938,7 +32938,7 @@ const tutteLeGare = [
   {
     "categoria": "OPEN A",
     "tempo": "00:00:00",
-    "nome": "Nicolo Venuti",
+    "nome": "Nicolò Venuti",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": 0,
     "femmina": false
@@ -32954,7 +32954,7 @@ const tutteLeGare = [
   {
     "categoria": "OPEN A",
     "tempo": "00:00:00",
-    "nome": "Javier Flores",
+    "nome": "Javier Flores Gutierrez",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": 0,
     "femmina": false
@@ -37402,7 +37402,7 @@ const tutteLeGare = [
     },
 
     {
-        nome: "25) Gemona FVG O-TOUR Tappa 11 9/11,
+        nome: "25) Gemona FVG O-TOUR Tappa 11 9/11",
         dati:
             [
   {
@@ -37802,6 +37802,5 @@ const tutteLeGare = [
 
     
 ];
-
 
 
