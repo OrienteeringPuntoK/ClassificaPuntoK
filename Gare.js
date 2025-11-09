@@ -37401,6 +37401,1108 @@ const tutteLeGare = [
 ]
     },
 
+{
+nome: "24) Muggia Campionato regionale FVG SPRINT 08/11",
+dati:
+[
+  {
+    "categoria": "DIRECT",
+    "tempo": "00:15:53",
+    "nome": "Taboga Michele",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "DIRECT",
+    "tempo": "00:16:12",
+    "nome": "Sossi Enrico",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "98.05",
+    "femmina": false
+  },
+  {
+    "categoria": "DIRECT",
+    "tempo": "00:18:39",
+    "nome": "Tomasin Daniel",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "85.17",
+    "femmina": false
+  },
+  {
+    "categoria": "DIRECT",
+    "tempo": "00:20:19",
+    "nome": "Stefenato Matteo",
+    "societa": "A.S.D. ORIENTEERING TRIESTE",
+    "punteggio": "78.18",
+    "femmina": false
+  },
+  {
+    "categoria": "DIRECT",
+    "tempo": "00:20:43",
+    "nome": "Sossi Stefano",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "76.67",
+    "femmina": false
+  },
+  {
+    "categoria": "DIRECT",
+    "tempo": "00:20:52",
+    "nome": "Cibati Francesco",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "76.12",
+    "femmina": false
+  },
+  {
+    "categoria": "DIRECT",
+    "tempo": "00:23:56",
+    "nome": "Carta Giustina",
+    "societa": "A.S.D. ORIENTEERING TRIESTE",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "DIRECT",
+    "tempo": "00:26:48",
+    "nome": "Doz Willy",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "59.27",
+    "femmina": false
+  },
+  {
+    "categoria": "DIRECT",
+    "tempo": "00:29:09",
+    "nome": "Specogna Giuseppe",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "54.49",
+    "femmina": false
+  },
+  {
+    "categoria": "DIRECT",
+    "tempo": "00:29:17",
+    "nome": "Riaviz Davide",
+    "societa": "FEDERAZIONE ITALIANA SPORT ORIENTAMENTO",
+    "punteggio": "54.24",
+    "femmina": false
+  },
+  {
+    "categoria": "DIRECT",
+    "tempo": "00:29:55",
+    "nome": "Margiore Noemi",
+    "societa": "C.R.A.L. TRIESTE TRASPORTI",
+    "punteggio": "80.00",
+    "femmina": true
+  },
+  {
+    "categoria": "DIRECT",
+    "tempo": "00:33:48",
+    "nome": "Spano Mauro",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "46.99",
+    "femmina": false
+  },
+  {
+    "categoria": "DIRECT",
+    "tempo": "00:47:20",
+    "nome": "Krivičić Dragan",
+    "societa": "STRAŽILOVO",
+    "punteggio": "33.56",
+    "femmina": false
+  },
+  {
+    "categoria": "DIRECT",
+    "tempo": "00:49:06",
+    "nome": "Tomat Giovanna",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "48.74",
+    "femmina": true
+  },
+  {
+    "categoria": "DIRECT",
+    "tempo": "01:07:29",
+    "nome": "Strukel Giuliana",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "35.47",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:35:06",
+    "nome": "Balliana Arianna",
+    "societa": "UNI TS",
+    "punteggio": "37.89",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:23:34",
+    "nome": "Beltrame Stefano",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "52.83",
+    "femmina": false
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:18:31",
+    "nome": "Bolgan Emma",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "71.83",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:53:23",
+    "nome": "Bolgan Nora",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "24.91",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:48:17",
+    "nome": "Braini Vanessa",
+    "societa": "UNI TS",
+    "punteggio": "27.55",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:21:09",
+    "nome": "Busecchian Ilaria",
+    "societa": "UNI TS",
+    "punteggio": "62.88",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:24:26",
+    "nome": "Canziani Francesca",
+    "societa": "UNI TS",
+    "punteggio": "54.43",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:53:25",
+    "nome": "Cescutti Angelica",
+    "societa": "UNI TS",
+    "punteggio": "24.90",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:32:24",
+    "nome": "Ciriello Beatrice",
+    "societa": "UNI TS",
+    "punteggio": "41.05",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:17:44",
+    "nome": "Cosulich Giorgia",
+    "societa": "UNI TS",
+    "punteggio": "75.00",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:37:14",
+    "nome": "CRISAFOLLI LINDA CINZIA",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "33.44",
+    "femmina": false
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:20:32",
+    "nome": "Cusma Chiara",
+    "societa": "UNI TS",
+    "punteggio": "64.77",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:53:18",
+    "nome": "Dalla Mora Elisabetta",
+    "societa": "UNI TS",
+    "punteggio": "24.95",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:47:25",
+    "nome": "Dogan Ajla",
+    "societa": "UNI TS",
+    "punteggio": "28.05",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:22:11",
+    "nome": "Fadda Manuela",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "59.95",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:34:30",
+    "nome": "Faè Alice",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "38.55",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:40:20",
+    "nome": "Flego Anna",
+    "societa": "UNI TS",
+    "punteggio": "32.98",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:51:25",
+    "nome": "Galasso Anna",
+    "societa": "UNI TS",
+    "punteggio": "25.87",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:35:15",
+    "nome": "Gerolini Silvia",
+    "societa": "UNI TS",
+    "punteggio": "37.73",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:19:33",
+    "nome": "Giulianini Ilaria",
+    "societa": "UNI TS",
+    "punteggio": "68.03",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:26:29",
+    "nome": "Goina Sara",
+    "societa": "UNI TS",
+    "punteggio": "50.22",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:27:11",
+    "nome": "Kafol Bovo Elijana",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "48.93",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:33:40",
+    "nome": "L'abbate Emma Louise",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "39.50",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:21:10",
+    "nome": "Mancini Margherita",
+    "societa": "A.S.D. ORIENTEERING TRIESTE",
+    "punteggio": "62.83",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:28:50",
+    "nome": "Marko Lea e Tim",
+    "societa": "OLC Graz",
+    "punteggio": "43.18",
+    "femmina": false
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:22:04",
+    "nome": "Martina Giovanna",
+    "societa": "UNI TS",
+    "punteggio": "60.27",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:24:17",
+    "nome": "MARUSSI GIORGIA",
+    "societa": "UNI TS",
+    "punteggio": "54.77",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:36:04",
+    "nome": "Mezzarobba Camilla",
+    "societa": "UNI TS",
+    "punteggio": "36.88",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:28:43",
+    "nome": "Milocco Chiara",
+    "societa": "UNI TS",
+    "punteggio": "46.31",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:37:06",
+    "nome": "Miozzo Greta",
+    "societa": "UNI TS",
+    "punteggio": "35.85",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:31:46",
+    "nome": "Mircovich Carlo",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "39.19",
+    "femmina": false
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:24:19",
+    "nome": "Montanari Michela",
+    "societa": "UNI TS",
+    "punteggio": "54.69",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:42:09",
+    "nome": "Natalone Alice",
+    "societa": "UNI TS",
+    "punteggio": "31.55",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:19:04",
+    "nome": "Nordio Micol",
+    "societa": "UNI TS",
+    "punteggio": "69.76",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:32:15",
+    "nome": "Paoletti Roberta",
+    "societa": "UNI TS",
+    "punteggio": "41.24",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:36:45",
+    "nome": "Peronio Elena",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "36.19",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:37:57",
+    "nome": "Pianezze Alessia",
+    "societa": "UNI TS",
+    "punteggio": "35.05",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:16:36",
+    "nome": "Ponga Samuele",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "75.00",
+    "femmina": false
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:46:01",
+    "nome": "Pozzetto Giorgia",
+    "societa": "UNI TS",
+    "punteggio": "28.90",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:37:46",
+    "nome": "Rovis Taja",
+    "societa": "UNI TS",
+    "punteggio": "35.22",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:24:29",
+    "nome": "Santangelo Marta",
+    "societa": "UNI TS",
+    "punteggio": "54.32",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:24:38",
+    "nome": "Spinelli Teodoro",
+    "societa": "A.S.D. ORIENTEERING TRIESTE",
+    "punteggio": "50.54",
+    "femmina": false
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:36:40",
+    "nome": "Stancic Giada",
+    "societa": "UNI TS",
+    "punteggio": "36.27",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:22:34",
+    "nome": "Terpin Alex",
+    "societa": "UNI TS",
+    "punteggio": "55.17",
+    "femmina": false
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:21:02",
+    "nome": "Toppan Flora",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "63.23",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:24:49",
+    "nome": "Trinca Marco",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "50.17",
+    "femmina": false
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:28:20",
+    "nome": "Valia Chiara",
+    "societa": "UNI TS",
+    "punteggio": "46.94",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:32:54",
+    "nome": "Vrech Sabrina",
+    "societa": "UNI TS",
+    "punteggio": "40.43",
+    "femmina": true
+  },
+  {
+    "categoria": "ESORDIENTI",
+    "tempo": "00:33:59",
+    "nome": "Zamburini Giulia",
+    "societa": "UNI TS",
+    "punteggio": "39.14",
+    "femmina": true
+  },
+  {
+    "categoria": "M 12",
+    "tempo": "00:10:56",
+    "nome": "Germani Felix",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M 12",
+    "tempo": "00:11:35",
+    "nome": "De Giorgi Tommaso",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "94.39",
+    "femmina": false
+  },
+  {
+    "categoria": "M 12",
+    "tempo": "00:11:54",
+    "nome": "Faè Leonardo",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "91.88",
+    "femmina": false
+  },
+  {
+    "categoria": "M 12",
+    "tempo": "00:13:34",
+    "nome": "Apollonio Giulio",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "80.59",
+    "femmina": false
+  },
+  {
+    "categoria": "M 12",
+    "tempo": "00:21:38",
+    "nome": "Chervatin Simone",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "50.54",
+    "femmina": false
+  },
+  {
+    "categoria": "M 13/14",
+    "tempo": "00:15:32",
+    "nome": "Serafini Emanuele",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M 13/14",
+    "tempo": "00:16:23",
+    "nome": "Pavlica Štefan",
+    "societa": "Planinsko Društvo Ajdovščina",
+    "punteggio": "94.81",
+    "femmina": false
+  },
+  {
+    "categoria": "M 13/14",
+    "tempo": "00:19:39",
+    "nome": "Coletti Giulio Livio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "79.05",
+    "femmina": false
+  },
+  {
+    "categoria": "M 13/14",
+    "tempo": "00:20:09",
+    "nome": "Jež Anže",
+    "societa": "Planinsko Društvo Ajdovščina",
+    "punteggio": "77.09",
+    "femmina": false
+  },
+  {
+    "categoria": "M 13/14",
+    "tempo": "00:20:10",
+    "nome": "Ciancio Filippo",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "77.02",
+    "femmina": false
+  },
+  {
+    "categoria": "M 13/14",
+    "tempo": "00:22:35",
+    "nome": "Decorti Emanuel",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "68.78",
+    "femmina": false
+  },
+  {
+    "categoria": "M 13/14",
+    "tempo": "00:29:06",
+    "nome": "Peronio Alessio",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "53.38",
+    "femmina": false
+  },
+  {
+    "categoria": "M 15/16",
+    "tempo": "00:13:12",
+    "nome": "Passone Giovanni",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M 15/16",
+    "tempo": "00:14:46",
+    "nome": "Tomasin Ian",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "89.39",
+    "femmina": false
+  },
+  {
+    "categoria": "M 15/16",
+    "tempo": "00:14:52",
+    "nome": "Locatelli Federico",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "88.79",
+    "femmina": false
+  },
+  {
+    "categoria": "M 15/16",
+    "tempo": "00:15:15",
+    "nome": "Dal Zilio Ezio",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "86.56",
+    "femmina": false
+  },
+  {
+    "categoria": "M 15/16",
+    "tempo": "00:15:36",
+    "nome": "Tomasin Aaron",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "84.62",
+    "femmina": false
+  },
+  {
+    "categoria": "M 15/16",
+    "tempo": "00:16:43",
+    "nome": "Ciancio Giovanni",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "78.96",
+    "femmina": false
+  },
+  {
+    "categoria": "M 15/16",
+    "tempo": "00:21:18",
+    "nome": "Pavlica Izidor",
+    "societa": "Planinsko Društvo Ajdovščina",
+    "punteggio": "61.97",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:15:03",
+    "nome": "Giudici Gabriele",
+    "societa": "A.S.D. ORIENTEERING TRIESTE",
+    "punteggio": "100.00",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:15:16",
+    "nome": "Loner Marco",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "98.58",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:15:32",
+    "nome": "Sergas Pietro",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "96.89",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:15:57",
+    "nome": "Rivetta Alessandro",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "94.36",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:16:14",
+    "nome": "Simonetti Giulio",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "92.71",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:16:26",
+    "nome": "Tamai Marco",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "91.58",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:17:51",
+    "nome": "Sestan Leonardo",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "84.31",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:19:21",
+    "nome": "Zuliani Francesco",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "77.78",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:19:39",
+    "nome": "De Nadai Mauro",
+    "societa": "OR. TARZO",
+    "punteggio": "76.59",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:20:02",
+    "nome": "Romano Sebastian",
+    "societa": "A.S.D. ORIENTEERING TRIESTE",
+    "punteggio": "75.12",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:21:15",
+    "nome": "Ficur Maurizio",
+    "societa": "OK Komenda",
+    "punteggio": "70.82",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:21:17",
+    "nome": "De Martin Enrico",
+    "societa": "OR. TARZO",
+    "punteggio": "70.71",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:23:35",
+    "nome": "Facchin Filippo",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "63.82",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:30:29",
+    "nome": "Pascatti Enrico",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "49.37",
+    "femmina": false
+  },
+  {
+    "categoria": "M ELITE",
+    "tempo": "00:00:00",
+    "nome": "Flores Gutierrez Javier",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": 0,
+    "femmina": false
+  },
+  {
+    "categoria": "W 12",
+    "tempo": "00:08:59",
+    "nome": "Sessi Beatrice",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W 12",
+    "tempo": "00:12:19",
+    "nome": "Coletti Lara Julia",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "72.94",
+    "femmina": true
+  },
+  {
+    "categoria": "W 12",
+    "tempo": "00:14:21",
+    "nome": "Guarniero Giulia",
+    "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+    "punteggio": "62.60",
+    "femmina": true
+  },
+  {
+    "categoria": "W 12",
+    "tempo": "00:46:47",
+    "nome": "Toppan Anna",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "19.20",
+    "femmina": true
+  },
+  {
+    "categoria": "W 35",
+    "tempo": "00:20:32",
+    "nome": "Sancin Federica",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W 35",
+    "tempo": "00:21:24",
+    "nome": "Romano Sabrina",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "95.95",
+    "femmina": true
+  },
+  {
+    "categoria": "W 35",
+    "tempo": "00:22:49",
+    "nome": "Agostini Federica",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "89.99",
+    "femmina": true
+  },
+  {
+    "categoria": "W 35",
+    "tempo": "00:25:35",
+    "nome": "Dalla Tor Sara",
+    "societa": "OR. TREVISO",
+    "punteggio": "80.26",
+    "femmina": true
+  },
+  {
+    "categoria": "W 35",
+    "tempo": "00:27:08",
+    "nome": "Zambiasi Clizia",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "75.68",
+    "femmina": true
+  },
+  {
+    "categoria": "W 35",
+    "tempo": "00:38:16",
+    "nome": "De Donatis Annalisa",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "53.66",
+    "femmina": true
+  },
+  {
+    "categoria": "W 35",
+    "tempo": "00:51:15",
+    "nome": "Puc Polona",
+    "societa": "Planinsko Društvo Ajdovščina",
+    "punteggio": "40.07",
+    "femmina": true
+  },
+  {
+    "categoria": "W 45",
+    "tempo": "00:17:42",
+    "nome": "Van Buuren Nadia",
+    "societa": "A.S.D. Gaja",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W 45",
+    "tempo": "00:21:37",
+    "nome": "Gaion Sara",
+    "societa": "A.S.D. ORIENTEERING TRIESTE",
+    "punteggio": "81.88",
+    "femmina": true
+  },
+  {
+    "categoria": "W 45",
+    "tempo": "00:22:26",
+    "nome": "Simonelli Maria Elena",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "78.90",
+    "femmina": true
+  },
+  {
+    "categoria": "W 45",
+    "tempo": "00:24:21",
+    "nome": "Visintin Federica",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "72.69",
+    "femmina": true
+  },
+  {
+    "categoria": "W 45",
+    "tempo": "00:24:22",
+    "nome": "Kuzmin Anka",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "72.64",
+    "femmina": true
+  },
+  {
+    "categoria": "W 45",
+    "tempo": "00:26:48",
+    "nome": "Panfilo Tiziana",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "66.04",
+    "femmina": true
+  },
+  {
+    "categoria": "W 45",
+    "tempo": "00:27:56",
+    "nome": "Tadina Elisabetta",
+    "societa": "A.S.D. ORIENTEERING TRIESTE",
+    "punteggio": "63.37",
+    "femmina": true
+  },
+  {
+    "categoria": "W 45",
+    "tempo": "00:30:33",
+    "nome": "Bertolazzo Anna Rita",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "57.94",
+    "femmina": true
+  },
+  {
+    "categoria": "W 45",
+    "tempo": "00:31:40",
+    "nome": "Santarossa Sonia",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "55.89",
+    "femmina": true
+  },
+  {
+    "categoria": "W 45",
+    "tempo": "00:38:10",
+    "nome": "Pavlica Valentina",
+    "societa": "Planinsko Društvo Ajdovščina",
+    "punteggio": "46.38",
+    "femmina": true
+  },
+  {
+    "categoria": "W 45",
+    "tempo": "00:44:26",
+    "nome": "Pino Valentina",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "39.83",
+    "femmina": true
+  },
+  {
+    "categoria": "W 45",
+    "tempo": "00:48:00",
+    "nome": "Contursi Sara",
+    "societa": "C.R.A.L. TRIESTE TRASPORTI",
+    "punteggio": "36.88",
+    "femmina": true
+  },
+  {
+    "categoria": "W 55",
+    "tempo": "00:19:19",
+    "nome": "Frappa Monica",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W 55",
+    "tempo": "00:20:53",
+    "nome": "Altan Germana",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "92.50",
+    "femmina": true
+  },
+  {
+    "categoria": "W 55",
+    "tempo": "00:22:40",
+    "nome": "Ruini Cristina",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "85.22",
+    "femmina": true
+  },
+  {
+    "categoria": "W 55",
+    "tempo": "00:23:35",
+    "nome": "Predan Sonia",
+    "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+    "punteggio": "81.91",
+    "femmina": true
+  },
+  {
+    "categoria": "W 55",
+    "tempo": "00:43:58",
+    "nome": "Čufer Darja",
+    "societa": "Planinsko Društvo Ajdovščina",
+    "punteggio": "43.93",
+    "femmina": true
+  },
+  {
+    "categoria": "W ELITE",
+    "tempo": "00:16:08",
+    "nome": "Rivetta Lisa",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "100.00",
+    "femmina": true
+  },
+  {
+    "categoria": "W ELITE",
+    "tempo": "00:16:54",
+    "nome": "De Biasi Maddalena",
+    "societa": "OR. TARZO",
+    "punteggio": "95.46",
+    "femmina": true
+  },
+  {
+    "categoria": "W ELITE",
+    "tempo": "00:19:05",
+    "nome": "Rampado Sonia",
+    "societa": "TOL TERLANER ORIENTIERUNGSLAEUFER AMATEURSPORTVEREIN",
+    "punteggio": "84.54",
+    "femmina": true
+  },
+  {
+    "categoria": "W ELITE",
+    "tempo": "00:19:16",
+    "nome": "Galvan Lisa",
+    "societa": "MARENO OR.",
+    "punteggio": "83.74",
+    "femmina": true
+  },
+  {
+    "categoria": "W ELITE",
+    "tempo": "00:19:59",
+    "nome": "Fignon Giulia",
+    "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+    "punteggio": "80.73",
+    "femmina": true
+  },
+  {
+    "categoria": "W ELITE",
+    "tempo": "00:26:52",
+    "nome": "Di Vora Alessandra",
+    "societa": "ASD TEAM SKY FRIUL",
+    "punteggio": "60.05",
+    "femmina": true
+  },
+  {
+    "categoria": "W ELITE",
+    "tempo": "00:26:56",
+    "nome": "Sanzovo Chiara",
+    "societa": "OR. TARZO",
+    "punteggio": "59.90",
+    "femmina": true
+  },
+  {
+    "categoria": "W ELITE",
+    "tempo": "00:26:59",
+    "nome": "Albano Alessia",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "59.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W ELITE",
+    "tempo": "00:28:55",
+    "nome": "Ghersi Alice",
+    "societa": "FEDERAZIONE ITALIANA SPORT ORIENTAMENTO",
+    "punteggio": "55.79",
+    "femmina": true
+  },
+  {
+    "categoria": "W ELITE",
+    "tempo": "00:30:18",
+    "nome": "Clementi Anna",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "53.25",
+    "femmina": true
+  },
+  {
+    "categoria": "W ELITE",
+    "tempo": "00:40:30",
+    "nome": "Milocco Giulia",
+    "societa": "PUNTO K ORIENTEERING ASD",
+    "punteggio": "39.84",
+    "femmina": true
+  }
+]
+},
     {
         nome: "25) Gemona FVG O-TOUR Tappa 11 9/11",
         dati:
