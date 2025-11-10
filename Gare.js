@@ -36833,7 +36833,7 @@ const tutteLeGare = [
   {
     "categoria": "Giallo",
     "tempo": "01:08:15",
-    "nome": "Coletti Giulio Livio",
+    "nome": "Coletti Giulio",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": "39.33",
     "femmina": false
@@ -36857,7 +36857,7 @@ const tutteLeGare = [
   {
     "categoria": "Giallo",
     "tempo": "01:17:34",
-    "nome": "Coletti Lara Julia",
+    "nome": "Coletti Lara",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": "34.57",
     "femmina": true
@@ -37402,7 +37402,7 @@ const tutteLeGare = [
     },
 
 {
-nome: "24) Muggia Campionato regionale FVG SPRINT 08/11",
+nome: "25) Muggia Campionato regionale FVG SPRINT 08/11",
 dati:
 [
   {
@@ -37976,7 +37976,7 @@ dati:
   {
     "categoria": "M 13/14",
     "tempo": "00:19:39",
-    "nome": "Coletti Giulio Livio",
+    "nome": "Coletti Giulio",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": "79.05",
     "femmina": false
@@ -38200,7 +38200,7 @@ dati:
   {
     "categoria": "W 12",
     "tempo": "00:12:19",
-    "nome": "Coletti Lara Julia",
+    "nome": "Coletti Lara",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": "72.94",
     "femmina": true
@@ -38504,7 +38504,7 @@ dati:
 ]
 },
     {
-        nome: "25) Gemona FVG O-TOUR Tappa 11 9/11",
+        nome: "26) Gemona FVG O-TOUR Tappa 11 9/11",
         dati:
             [
   {
@@ -38550,7 +38550,7 @@ dati:
   {
     "categoria": "Giallo",
     "tempo": "00:28:36",
-    "nome": "Coletti Giulio Livio",
+    "nome": "Coletti Giulio",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": "57.44",
     "femmina": false
@@ -38566,7 +38566,7 @@ dati:
   {
     "categoria": "Giallo",
     "tempo": "00:26:07",
-    "nome": "Coletti Lara Julia",
+    "nome": "Coletti Lara",
     "societa": "PUNTO K ORIENTEERING ASD",
     "punteggio": "80.00",
     "femmina": true
