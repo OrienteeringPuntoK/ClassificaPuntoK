@@ -39827,7 +39827,7 @@ dati:
         ],
     },
     {
-        nome: "28) Monfalcone Campionato regionale FVG SPRINT 15/11",
+        nome: "28) Monfalcone Campionato regionale FVG SPRINT 22/11",
         dati:
             [
                 {
@@ -40360,8 +40360,1290 @@ dati:
                 }
             ]
     },
+    {
+        nome: "29) Ravosa Campionato regionale FVG Long 07/12",
+        dati: [
+            {
+                "categoria": "M14",
+                "tempo": "00:40:13",
+                "nome": "DECORTI Emanuel",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "100.00",
+                "femmina": false
+            },
+            {
+                "categoria": "M14",
+                "tempo": "00:48:40",
+                "nome": "SERAFINI Emanuele",
+                "societa": "ASD TEAM SKY FRIUL",
+                "punteggio": "82.64",
+                "femmina": false
+            },
+            {
+                "categoria": "M14",
+                "tempo": "00:49:59",
+                "nome": "CIANCIO Filippo",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "80.46",
+                "femmina": false
+            },
+            {
+                "categoria": "M14",
+                "tempo": "01:01:35",
+                "nome": "BARNABA Christian",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "65.30",
+                "femmina": false
+            },
+            {
+                "categoria": "M14",
+                "tempo": "01:04:31",
+                "nome": "DE AGOSTINI Antonio",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "62.34",
+                "femmina": false
+            },
+            {
+                "categoria": "M14",
+                "tempo": "01:08:51",
+                "nome": "COLETTI Giulio Livio",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": "58.41",
+                "femmina": false
+            },
+            {
+                "categoria": "W12",
+                "tempo": "00:37:00",
+                "nome": "SESSI Beatrice",
+                "societa": "A.S.D. Gaja",
+                "punteggio": "100.00",
+                "femmina": true
+            },
+            {
+                "categoria": "W12",
+                "tempo": "00:47:23",
+                "nome": "COLETTI Lara",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": "78.09",
+                "femmina": true
+            },
+            {
+                "categoria": "W35",
+                "tempo": "01:07:45",
+                "nome": "SANCIN Federica",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "100.00",
+                "femmina": true
+            },
+            {
+                "categoria": "W35",
+                "tempo": "00:00:00",
+                "nome": "DE DONATIS Annalisa",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": 0,
+                "femmina": true
+            },
+            {
+                "categoria": "W45",
+                "tempo": "00:52:33",
+                "nome": "VAN BUUREN Nadia",
+                "societa": "A.S.D. Gaja",
+                "punteggio": "100.00",
+                "femmina": true
+            },
+            {
+                "categoria": "W45",
+                "tempo": "01:20:49",
+                "nome": "VISINTIN Federica",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "65.02",
+                "femmina": true
+            },
+            {
+                "categoria": "W45",
+                "tempo": "01:33:32",
+                "nome": "DONAGGIO Cristiana",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": "56.18",
+                "femmina": true
+            },
+            {
+                "categoria": "W45",
+                "tempo": "02:12:31",
+                "nome": "BERTOLAZZO Anna Rita",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": "39.66",
+                "femmina": true
+            },
+            {
+                "categoria": "W45",
+                "tempo": "00:00:00",
+                "nome": "PANFILO Tiziana",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": 0,
+                "femmina": true
+            },
+            {
+                "categoria": "W55",
+                "tempo": "00:56:17",
+                "nome": "DAL SASSO Laura",
+                "societa": "A.S.D. VICENZA ORIENTEERING TEAM",
+                "punteggio": "100.00",
+                "femmina": true
+            },
+            {
+                "categoria": "W55",
+                "tempo": "01:22:18",
+                "nome": "PREDAN Sonia",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "68.39",
+                "femmina": true
+            },
+            {
+                "categoria": "W55",
+                "tempo": "01:25:39",
+                "nome": "RUINI Cristina",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": "65.71",
+                "femmina": true
+            },
+            {
+                "categoria": "W55",
+                "tempo": "01:29:57",
+                "nome": "ALTAN Germana",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "62.57",
+                "femmina": true
+            }
+        ]
+            
+    },
 
-
+    {
+        nome: "30) Maniago FVG O-TOUR Tappa 13 13/12",
+        dati: [
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:24:43",
+                "nome": "SERAFINI Emanuele",
+                "societa": "ASD TEAM SKY FRIUL",
+                "punteggio": "80.00",
+                "femmina": false
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:27:46",
+                "nome": "FIGNON Marco",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "71.21",
+                "femmina": false
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:28:10",
+                "nome": "COLETTI Lara",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": "80.00",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:28:26",
+                "nome": "GIACCAGLIA Gaia",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "79.25",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:28:41",
+                "nome": "LENARDUZZI Federico",
+                "societa": "A.S.D. MARENO ORIENTEERING",
+                "punteggio": "68.94",
+                "femmina": false
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:29:10",
+                "nome": "ZULIANI Andrea",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "67.79",
+                "femmina": false
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:29:32",
+                "nome": "PICCININ Loris",
+                "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+                "punteggio": "66.95",
+                "femmina": false
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:30:58",
+                "nome": "MONACOLLI Marco",
+                "societa": "FEDERAZIONE ITALIANA SPORT ORIENTAMENTO",
+                "punteggio": "63.85",
+                "femmina": false
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:31:22",
+                "nome": "XAUSA Gabriella",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "71.84",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:32:51",
+                "nome": "MARGIORE Elena",
+                "societa": "A.S.D. ORIENTEERING TRIESTE",
+                "punteggio": "68.59",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:33:01",
+                "nome": "PICCININ Eva",
+                "societa": "CORIVORIVO ORIENTEERING ASD",
+                "punteggio": "68.25",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:33:13",
+                "nome": "SIKERINA Elisabetta",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "67.84",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:35:22",
+                "nome": "COMINOTTO Annarosa",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "63.71",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:36:02",
+                "nome": "FRIEDRICH Dagmar",
+                "societa": "FEDERAZIONE ITALIANA SPORT ORIENTAMENTO",
+                "punteggio": "54.88",
+                "femmina": false
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:38:11",
+                "nome": "BAGALÀ Teresa Maria",
+                "societa": "FEDERAZIONE ITALIANA SPORT ORIENTAMENTO",
+                "punteggio": "59.01",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:38:47",
+                "nome": "Aulisio Giovanni",
+                "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+                "punteggio": "50.98",
+                "femmina": false
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:38:51",
+                "nome": "BARNABA Christel",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "58.00",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:38:55",
+                "nome": "TODESCO Nadia",
+                "societa": "A.S.D. MARENO ORIENTEERING",
+                "punteggio": "57.90",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:41:15",
+                "nome": "DORNESCU Ioana Daniela",
+                "societa": "FEDERAZIONE ITALIANA SPORT ORIENTAMENTO",
+                "punteggio": "54.63",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:41:49",
+                "nome": "POGGIOLI Marcella",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "53.89",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:44:12",
+                "nome": "SUT Sara",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "50.98",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:45:16",
+                "nome": "MICHELON Lucrezia",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "49.78",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:47:09",
+                "nome": "FANTUZZI Simona",
+                "societa": "OK MONTELLO A.S.D.",
+                "punteggio": "47.79",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:50:26",
+                "nome": "ZAGO Ivana",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "44.68",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:50:53",
+                "nome": "CHERVATIN Simone",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": "38.86",
+                "femmina": false
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:54:35",
+                "nome": "CESTER Emanuela",
+                "societa": "ORIENTEERING TREVISO A.S.D.",
+                "punteggio": "41.28",
+                "femmina": true
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:54:48",
+                "nome": "SENGUN Kadir",
+                "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+                "punteggio": "36.08",
+                "femmina": false
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:00:00",
+                "nome": "BUSSETTO Andrea",
+                "societa": "FEDERAZIONE ITALIANA SPORT ORIENTAMENTO",
+                "punteggio": 0,
+                "femmina": false
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:00:00",
+                "nome": "TONITTO Deborah",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": 0,
+                "femmina": false
+            },
+            {
+                "categoria": "GIALLO",
+                "tempo": "00:00:00",
+                "nome": "ZOPPÈ Giuliana",
+                "societa": "PANDA ORIENTEERING VALSUGANA A.S.D.",
+                "punteggio": 0,
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:24:09",
+                "nome": "SIMONETTI Giulio",
+                "societa": "ASD TEAM SKY FRIUL",
+                "punteggio": "100.00",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:26:17",
+                "nome": "GIUDICI Gabriele",
+                "societa": "A.S.D. ORIENTEERING TRIESTE",
+                "punteggio": "91.88",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:28:01",
+                "nome": "RIVETTA Alessandro",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "86.20",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:28:45",
+                "nome": "SESTAN Leonardo",
+                "societa": "A.S.D. Gaja",
+                "punteggio": "84.00",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:28:55",
+                "nome": "FIGNON Giulia",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "100.00",
+                "femmina": true
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:30:05",
+                "nome": "MUKHIDINOV Serhiy",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "96.12",
+                "femmina": true
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:32:44",
+                "nome": "TOMASIN Aaron",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "73.78",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:33:10",
+                "nome": "DE NADAI Mauro",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "72.81",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:33:11",
+                "nome": "CIANCIO Giovanni",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "72.78",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:33:21",
+                "nome": "TOMASIN Ian",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "72.41",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:33:33",
+                "nome": "ROMANO Sebastian",
+                "societa": "A.S.D. ORIENTEERING TRIESTE",
+                "punteggio": "71.98",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:33:48",
+                "nome": "SERAFINI Ivan",
+                "societa": "ASD TEAM SKY FRIUL",
+                "punteggio": "71.45",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:33:53",
+                "nome": "PASSONE Giovanni",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "71.27",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:34:03",
+                "nome": "MARZOLINI Michela",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "84.92",
+                "femmina": true
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:34:13",
+                "nome": "DAL ZILIO Ezio",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": "70.58",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:34:27",
+                "nome": "VALPIANI Davide",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "70.10",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:34:47",
+                "nome": "MENEGHEL Nicola",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "69.43",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:35:09",
+                "nome": "MIROLO Matteo",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "68.71",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:35:15",
+                "nome": "LOCATELLI Federico",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "68.51",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:35:45",
+                "nome": "ZULIANI Francesco",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "67.55",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:36:12",
+                "nome": "ROMANO Sabrina",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "79.88",
+                "femmina": true
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:36:20",
+                "nome": "APOLLONIO Daniele",
+                "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+                "punteggio": "66.47",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:36:28",
+                "nome": "TIC Ruben",
+                "societa": "FEDERAZIONE ITALIANA SPORT ORIENTAMENTO",
+                "punteggio": "66.22",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:36:34",
+                "nome": "GIACCAGLIA Ilario",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "66.04",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:37:07",
+                "nome": "BORTOLATO Leonardo",
+                "societa": "ORIENTEERING TREVISO A.S.D.",
+                "punteggio": "65.07",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:37:14",
+                "nome": "D'ERRICO Loris Gioele",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "64.86",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:37:19",
+                "nome": "RIVETTA Andrea",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "64.72",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:38:48",
+                "nome": "DI VORA Alessandra",
+                "societa": "ASD TEAM SKY FRIUL",
+                "punteggio": "74.53",
+                "femmina": true
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:39:50",
+                "nome": "ALLOCCO Maurizio",
+                "societa": "A.S.D. MARENO ORIENTEERING",
+                "punteggio": "60.63",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:39:59",
+                "nome": "GIACCAGLIA Andrea",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "72.32",
+                "femmina": true
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:40:20",
+                "nome": "BRINO Alex",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "59.88",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:40:52",
+                "nome": "VAN BUUREN Nadia",
+                "societa": "A.S.D. Gaja",
+                "punteggio": "70.76",
+                "femmina": true
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:41:06",
+                "nome": "AMBROSIO Giada",
+                "societa": "A.S.D. Gaja",
+                "punteggio": "70.36",
+                "femmina": true
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:41:07",
+                "nome": "SESSI Giorgia",
+                "societa": "A.S.D. Gaja",
+                "punteggio": "70.33",
+                "femmina": true
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:41:09",
+                "nome": "AGOSTINI Federica",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "70.27",
+                "femmina": true
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:43:34",
+                "nome": "ULIANA Francesca",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "66.37",
+                "femmina": true
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:44:13",
+                "nome": "FERRANTE Salvatore",
+                "societa": "A.S.D. Orienteering Laguna Nord Venezia",
+                "punteggio": "54.62",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:44:52",
+                "nome": "DALLA TOR Sara",
+                "societa": "ORIENTEERING TREVISO A.S.D.",
+                "punteggio": "64.45",
+                "femmina": true
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:44:56",
+                "nome": "MARUSSIG Maurizio",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "53.75",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:45:48",
+                "nome": "MARTIGNAGO Paolo",
+                "societa": "OK MONTELLO A.S.D.",
+                "punteggio": "52.73",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:47:02",
+                "nome": "PELLIZZARI Stefano",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "51.35",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:48:37",
+                "nome": "LOCATELLI Gianfranco",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "49.67",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:48:46",
+                "nome": "CARLET Fausto",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "49.52",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:49:14",
+                "nome": "GUBIANI Marzia",
+                "societa": "ASD TEAM SKY FRIUL",
+                "punteggio": "58.73",
+                "femmina": true
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:49:54",
+                "nome": "MARZONA Francesco",
+                "societa": "FEDERAZIONE ITALIANA SPORT ORIENTAMENTO",
+                "punteggio": "48.40",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:53:07",
+                "nome": "MARCUZZI Stefano",
+                "societa": "ASD TEAM SKY FRIUL",
+                "punteggio": "45.47",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:57:42",
+                "nome": "HAPPACHER Franz",
+                "societa": "HAUNOLD ORIENTEERING TEAM A.S.D.",
+                "punteggio": "41.85",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "01:37:00",
+                "nome": "SPECOGNA Giuseppe",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "24.90",
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:00:00",
+                "nome": "LONER Marco",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": 0,
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:00:00",
+                "nome": "GIUDICI Piero",
+                "societa": "A.S.D. ORIENTEERING TRIESTE",
+                "punteggio": 0,
+                "femmina": false
+            },
+            {
+                "categoria": "NERO",
+                "tempo": "00:00:00",
+                "nome": "KALC Rado",
+                "societa": "A.S.D. Gaja",
+                "punteggio": 0,
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:26:21",
+                "nome": "DISSETTE Paolo",
+                "societa": "ORIENTEERING DOLOMITI ASD",
+                "punteggio": "90.00",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:29:26",
+                "nome": "MOSOLO Fabrizio",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "80.57",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:29:48",
+                "nome": "CARLET Anna",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "90.00",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:30:02",
+                "nome": "BALLARIN Matteo",
+                "societa": "ORIENTEERING SWALLOWS NOALE A.S.D.",
+                "punteggio": "78.96",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:30:03",
+                "nome": "PRADOLIN Paolo",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "78.92",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:30:20",
+                "nome": "FERRANTE Edoardo",
+                "societa": "A.S.D. Orienteering Laguna Nord Venezia",
+                "punteggio": "78.18",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:30:34",
+                "nome": "VOCH Matteo",
+                "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+                "punteggio": "77.58",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:31:23",
+                "nome": "FORASACCO Sofia",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "85.46",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:32:14",
+                "nome": "PRONOL Serena",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "83.21",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:32:35",
+                "nome": "APOLLONIO Giulio",
+                "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+                "punteggio": "72.78",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:33:04",
+                "nome": "CIANCIO Marcello",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "71.72",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:33:14",
+                "nome": "SESSI Beatrice",
+                "societa": "A.S.D. Gaja",
+                "punteggio": "80.70",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:33:30",
+                "nome": "CERESER Elvio",
+                "societa": "CORIVORIVO ORIENTEERING ASD",
+                "punteggio": "70.79",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:33:34",
+                "nome": "FOSCHIAN Andrea",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "70.65",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:34:14",
+                "nome": "CRESPAN Luca",
+                "societa": "OK MONTELLO A.S.D.",
+                "punteggio": "69.27",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:34:22",
+                "nome": "CIMADOR Enrico",
+                "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+                "punteggio": "69.01",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:34:54",
+                "nome": "SANZOVO Chiara",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "76.85",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:35:13",
+                "nome": "APOLLONIO Fulvio",
+                "societa": "CORIVORIVO ORIENTEERING ASD",
+                "punteggio": "67.34",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:35:20",
+                "nome": "CARLET Andrea",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "67.12",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:37:21",
+                "nome": "PASSONE Gaia",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "71.81",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:38:42",
+                "nome": "TUNIZ Andrea",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "61.28",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:39:03",
+                "nome": "ALTAN Germana",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "68.68",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:39:19",
+                "nome": "MITRI Denis",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "60.32",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:39:43",
+                "nome": "PREDAN Sonia",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "67.53",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:40:02",
+                "nome": "GHIZZO Paola",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "66.99",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:40:38",
+                "nome": "TOMASIN Daniel",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "58.36",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:41:05",
+                "nome": "FORASACCO Nives",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "65.28",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:41:06",
+                "nome": "COLETTI Giulio Livio",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": "57.70",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:41:15",
+                "nome": "DE MARTIN Diego",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": "57.49",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:43:47",
+                "nome": "PANFILO Tiziana",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "61.26",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:43:48",
+                "nome": "DONAGGIO Cristiana",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": "61.23",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:44:10",
+                "nome": "CIANCIO Filippo",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "53.69",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:44:40",
+                "nome": "FERRANTE Maria Michela",
+                "societa": "OK MONTELLO A.S.D.",
+                "punteggio": "60.04",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:46:53",
+                "nome": "GON Ariano",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "50.58",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:46:58",
+                "nome": "SIMONELLI Maria Elena",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "57.10",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:47:12",
+                "nome": "CREPAZ Mita",
+                "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+                "punteggio": "50.24",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:47:22",
+                "nome": "RAJGELJ Chiara",
+                "societa": "A.S.D. Gaja",
+                "punteggio": "56.62",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:48:13",
+                "nome": "BARNABA Chantal",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "55.62",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:48:24",
+                "nome": "VISINTIN Federica",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "55.41",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:48:35",
+                "nome": "GON Doris",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "48.81",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:51:03",
+                "nome": "VIVIANI Paolo Daniele",
+                "societa": "GR. OR. CAI XXX OTTOBRE - A.S.D.",
+                "punteggio": "46.45",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:51:21",
+                "nome": "BARNABA Christian",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "46.18",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:51:37",
+                "nome": "SANTAROSSA Sonia",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "51.96",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:52:29",
+                "nome": "CRAPIZ Erika",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": "51.10",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:56:03",
+                "nome": "ZUGNO Luciano",
+                "societa": "A.S.D. Orienteering Laguna Nord Venezia",
+                "punteggio": "42.31",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:56:51",
+                "nome": "DE DONATIS Annalisa",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": "47.18",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:58:26",
+                "nome": "MADRASSI Antonella",
+                "societa": "ASD TEAM SKY FRIUL",
+                "punteggio": "45.90",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "01:00:04",
+                "nome": "PINO Valentina",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": "44.65",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "01:00:12",
+                "nome": "SACILOTTO Gianluca",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": "39.39",
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "01:03:26",
+                "nome": "BERTOLAZZO Anna Rita",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": "42.28",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "01:14:59",
+                "nome": "TOMAT Giovanna",
+                "societa": "ASD TEAM SKY FRIUL",
+                "punteggio": "35.77",
+                "femmina": true
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:00:00",
+                "nome": "RAINATO Alessio",
+                "societa": "A.S.D MISQUILENSES ORIENTEERING",
+                "punteggio": 0,
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:00:00",
+                "nome": "PELLIZZARI Marco",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": 0,
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:00:00",
+                "nome": "MILOCCO Giulia",
+                "societa": "PUNTO K ORIENTEERING ASD",
+                "punteggio": 0,
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:00:00",
+                "nome": "FIORETTI Nicola",
+                "societa": "ASD TEAM SKY FRIUL",
+                "punteggio": 0,
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:00:00",
+                "nome": "KUZMIN Anka",
+                "societa": "A.S.D. SEMIPERDO ORIENTEERING MANIAGO",
+                "punteggio": 0,
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:00:00",
+                "nome": "BINOTTO Serena",
+                "societa": "ORIENTEERING TARZO A.S.D.",
+                "punteggio": 0,
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:00:00",
+                "nome": "DECORTI Emanuel",
+                "societa": "FRIULI MTB & ORIENTEERING A.S.D.",
+                "punteggio": 0,
+                "femmina": false
+            },
+            {
+                "categoria": "ROSSO",
+                "tempo": "00:00:00",
+                "nome": "DECORTI Davide",
+                "societa": "FEDERAZIONE ITALIANA SPORT ORIENTAMENTO",
+                "punteggio": 0,
+                "femmina": false
+            }
+        ]
+    },
 ];
 
 
